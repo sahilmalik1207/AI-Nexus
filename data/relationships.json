@@ -1,0 +1,50 @@
+[
+  {
+    "id": "3a184d4a-4663-5d39-a43f-4febea1a4883",
+    "source_id": "b57c2288-136a-5193-9072-539c5b5d92b9",
+    "target_id": "469f2124-336d-5371-906c-9357140159de",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Perplexity AI' mentioned in Perplexity"
+  },
+  {
+    "id": "af87335f-3bf7-5906-ac2b-1ecde9ba6ea6",
+    "source_id": "49f41fb4-f59c-5483-9c69-0169d5fa2b41",
+    "target_id": "5cbb89e4-388c-5f42-a943-cbc80eaec9e9",
+    "relation_type": "integrates_with",
+    "confidence": 0.65,
+    "evidence": "'Cursor' mentioned in MCP server n8n-mcp"
+  },
+  {
+    "id": "44b92630-e1c2-5776-b40b-93f2ac25d386",
+    "source_id": "049ab7a7-28fa-5579-ba35-e74e111af544",
+    "target_id": "7a13e25b-321d-53bc-9347-a516eb647245",
+    "relation_type": "integrates_with",
+    "confidence": 0.65,
+    "evidence": "'ChatGPT' mentioned in MCP server mcp-use"
+  },
+  {
+    "id": "a2901c9d-342e-57ae-bd58-56778e5277c4",
+    "source_id": "9c85d82c-ec83-510d-acd0-1f3aa0e53640",
+    "target_id": "5cbb89e4-388c-5f42-a943-cbc80eaec9e9",
+    "relation_type": "integrates_with",
+    "confidence": 0.65,
+    "evidence": "'Cursor' mentioned in MCP server firecrawl-mcp-server"
+  },
+  {
+    "id": "2e504b49-5085-5b04-b791-c0e12bd935bf",
+    "source_id": "0318ce78-1cc8-550b-9d20-48217374bdcd",
+    "target_id": "5cbb89e4-388c-5f42-a943-cbc80eaec9e9",
+    "relation_type": "integrates_with",
+    "confidence": 0.65,
+    "evidence": "'Cursor' mentioned in MCP server cursor-talk-to-figma-mcp"
+  },
+  {
+    "id": "e4a5c9cd-2856-54cd-8b7c-496bfd28dd56",
+    "source_id": "322f6fe2-98d8-5acc-9d4f-74319785fd70",
+    "target_id": "5cbb89e4-388c-5f42-a943-cbc80eaec9e9",
+    "relation_type": "integrates_with",
+    "confidence": 0.65,
+    "evidence": "'Cursor' mentioned in MCP server magic-mcp"
+  }
+]

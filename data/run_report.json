@@ -1,0 +1,29 @@
+{
+  "started_at": "2026-08-26T09:29:56.641203+00:00",
+  "finished_at": "2026-08-26T09:30:35.359033+00:00",
+  "source_counts_raw": {
+    "github": 125,
+    "collections": 60,
+    "curated": 31
+  },
+  "raw_entity_count": 216,
+  "final_entity_count": 207,
+  "final_relationship_count": 6,
+  "entities_by_type": {
+    "repository": 86,
+    "mcp": 39,
+    "collection": 51,
+    "company": 10,
+    "tool": 8,
+    "robot": 4,
+    "device": 3,
+    "personal": 3,
+    "creative": 3
+  },
+  "quarantined_entities": 0,
+  "quarantined_relationships": 0,
+  "quarantine_detail": {
+    "entities": [],
+    "relationships": []
+  }
+}

@@ -1,0 +1,6601 @@
+[
+  {
+    "id": "4e6aaef0-7a1e-5a82-a578-82341f06ea78",
+    "entity_type": "repository",
+    "name": "AutoGPT",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "categories": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "artificial-intelligence",
+      "autonomous-agents",
+      "claude",
+      "computer-vision",
+      "gpt",
+      "llama-api",
+      "llm",
+      "new",
+      "openai"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 186876,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:07:23Z",
+      "owner": "Significant-Gravitas",
+      "full_name": "Significant-Gravitas/AutoGPT",
+      "forks": 46052,
+      "open_issues": 522
+    },
+    "first_seen": "2026-08-26T09:29:57.262413+00:00",
+    "raw_name": "Significant-Gravitas/AutoGPT"
+  },
+  {
+    "id": "47e00dd1-98ed-58c9-8f77-9ac9d8a3ace0",
+    "entity_type": "repository",
+    "name": "prompts.chat",
+    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete privacy.",
+    "url": "https://github.com/f/prompts.chat",
+    "categories": [
+      "ai",
+      "artificial-intelligence",
+      "awesome-list",
+      "chatgpt",
+      "chatgpt-prompts",
+      "claude",
+      "conversational-ai",
+      "gemini",
+      "gpt",
+      "gpt-4",
+      "llm",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 167924,
+      "language": "HTML",
+      "last_updated": "2026-08-26T09:21:52Z",
+      "owner": "f",
+      "full_name": "f/prompts.chat",
+      "forks": 21667,
+      "open_issues": 68
+    },
+    "first_seen": "2026-08-26T09:29:57.262468+00:00",
+    "raw_name": "f/prompts.chat"
+  },
+  {
+    "id": "fc563cad-cee4-5071-bf44-d836a3de5bbb",
+    "entity_type": "repository",
+    "name": "LLMs-from-scratch",
+    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+    "url": "https://github.com/rasbt/LLMs-from-scratch",
+    "categories": [
+      "ai",
+      "artificial-intelligence",
+      "attention-mechanism",
+      "conversational-ai",
+      "deep-learning",
+      "finetuning",
+      "from-scratch",
+      "generative-ai",
+      "gpt",
+      "instruction-tuning",
+      "language-model",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 103817,
+      "language": "Jupyter Notebook",
+      "last_updated": "2026-08-26T09:23:36Z",
+      "owner": "rasbt",
+      "full_name": "rasbt/LLMs-from-scratch",
+      "forks": 15889,
+      "open_issues": 3
+    },
+    "first_seen": "2026-08-26T09:29:57.262492+00:00",
+    "raw_name": "rasbt/LLMs-from-scratch"
+  },
+  {
+    "id": "640da907-fc65-5944-9b9d-9408e9894958",
+    "entity_type": "repository",
+    "name": "Deep-Live-Cam",
+    "description": "real time face swap and one-click video deepfake with only a single image",
+    "url": "https://github.com/hacksider/Deep-Live-Cam",
+    "categories": [
+      "ai",
+      "ai-deep-fake",
+      "ai-face",
+      "ai-webcam",
+      "artificial-intelligence",
+      "computer-vision",
+      "deep-fake",
+      "deepfake",
+      "deepfake-webcam",
+      "faceswap",
+      "fake-webcam",
+      "new",
+      "video"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 96122,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:16:43Z",
+      "owner": "hacksider",
+      "full_name": "hacksider/Deep-Live-Cam",
+      "forks": 14015,
+      "open_issues": 39
+    },
+    "first_seen": "2026-08-26T09:29:57.262513+00:00",
+    "raw_name": "hacksider/Deep-Live-Cam"
+  },
+  {
+    "id": "39724271-0318-5cf5-b8d2-83a0a7784191",
+    "entity_type": "repository",
+    "name": "claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent \u2013 Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "categories": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "anthropic",
+      "artificial-intelligence",
+      "chromadb",
+      "claude",
+      "claude-agent-sdk",
+      "claude-agents",
+      "claude-code",
+      "code-generation",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 91875,
+      "language": "JavaScript",
+      "last_updated": "2026-08-26T09:22:07Z",
+      "owner": "thedotmack",
+      "full_name": "thedotmack/claude-mem",
+      "forks": 8078,
+      "open_issues": 309
+    },
+    "first_seen": "2026-08-26T09:29:57.262529+00:00",
+    "raw_name": "thedotmack/claude-mem"
+  },
+  {
+    "id": "27553eec-bfa7-5471-812f-a159cc564a9f",
+    "entity_type": "repository",
+    "name": "OpenHands",
+    "description": "\ud83d\ude4c OpenHands: AI-Driven Development",
+    "url": "https://github.com/OpenHands/OpenHands",
+    "categories": [
+      "agent",
+      "artificial-intelligence",
+      "chatgpt",
+      "claude-ai",
+      "cli",
+      "developer-tools",
+      "gpt",
+      "llm",
+      "new",
+      "openai"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 85132,
+      "language": "TypeScript",
+      "last_updated": "2026-08-26T09:02:28Z",
+      "owner": "OpenHands",
+      "full_name": "OpenHands/OpenHands",
+      "forks": 11131,
+      "open_issues": 559
+    },
+    "first_seen": "2026-08-26T09:29:57.262547+00:00",
+    "raw_name": "OpenHands/OpenHands"
+  },
+  {
+    "id": "03126587-5eb3-5454-a496-b81db78aa205",
+    "entity_type": "repository",
+    "name": "AI-For-Beginners",
+    "description": "12 Weeks, 24 Lessons, AI for All!",
+    "url": "https://github.com/microsoft/AI-For-Beginners",
+    "categories": [
+      "ai",
+      "artificial-intelligence",
+      "cnn",
+      "computer-vision",
+      "deep-learning",
+      "gan",
+      "machine-learning",
+      "microsoft-for-beginners",
+      "new",
+      "nlp",
+      "rnn"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 67044,
+      "language": "Jupyter Notebook",
+      "last_updated": "2026-08-26T09:24:22Z",
+      "owner": "microsoft",
+      "full_name": "microsoft/AI-For-Beginners",
+      "forks": 12943,
+      "open_issues": 32
+    },
+    "first_seen": "2026-08-26T09:29:57.262562+00:00",
+    "raw_name": "microsoft/AI-For-Beginners"
+  },
+  {
+    "id": "57550ea2-39ce-5e71-b2c4-a1f7cd37a818",
+    "entity_type": "repository",
+    "name": "strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app\u2019s vulnerabilities.",
+    "url": "https://github.com/usestrix/strix",
+    "categories": [
+      "agents",
+      "ai-hacking",
+      "ai-penetration-testing",
+      "ai-pentesting",
+      "ai-security",
+      "artificial-intelligence",
+      "bug-bounty",
+      "code-quality",
+      "ctf-tools",
+      "cybersecurity",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 58344,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:29:52Z",
+      "owner": "usestrix",
+      "full_name": "usestrix/strix",
+      "forks": 6352,
+      "open_issues": 314
+    },
+    "first_seen": "2026-08-26T09:29:57.262573+00:00",
+    "raw_name": "usestrix/strix"
+  },
+  {
+    "id": "2ad74b7a-fced-5a85-a6c5-e27cfa6ec093",
+    "entity_type": "repository",
+    "name": "Flowise",
+    "description": "Build AI Agents, Visually",
+    "url": "https://github.com/FlowiseAI/Flowise",
+    "categories": [
+      "agentic-ai",
+      "agentic-workflow",
+      "agents",
+      "artificial-intelligence",
+      "chatbot",
+      "chatgpt",
+      "javascript",
+      "langchain",
+      "large-language-models",
+      "low-code",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 55391,
+      "language": "TypeScript",
+      "last_updated": "2026-08-26T03:23:40Z",
+      "owner": "FlowiseAI",
+      "full_name": "FlowiseAI/Flowise",
+      "forks": 24949,
+      "open_issues": 1047
+    },
+    "first_seen": "2026-08-26T09:29:57.262585+00:00",
+    "raw_name": "FlowiseAI/Flowise"
+  },
+  {
+    "id": "2f52f669-845e-5916-9e4c-adac1ea07e6a",
+    "entity_type": "repository",
+    "name": "minimind",
+    "description": "\ud83e\udde0 Train a 64M-parameter LLM from scratch in just 2h!",
+    "url": "https://github.com/jingyaogong/minimind",
+    "categories": [
+      "artificial-intelligence",
+      "large-language-model",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 55022,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:11:57Z",
+      "owner": "jingyaogong",
+      "full_name": "jingyaogong/minimind",
+      "forks": 7176,
+      "open_issues": 52
+    },
+    "first_seen": "2026-08-26T09:29:57.262597+00:00",
+    "raw_name": "jingyaogong/minimind"
+  },
+  {
+    "id": "a2ed4d46-9553-534d-8e8b-a0fd419fba3b",
+    "entity_type": "repository",
+    "name": "kong",
+    "description": "\ud83e\udd8d The API and AI Gateway",
+    "url": "https://github.com/Kong/kong",
+    "categories": [
+      "ai",
+      "ai-gateway",
+      "api-gateway",
+      "api-management",
+      "apis",
+      "artificial-intelligence",
+      "cloud-native",
+      "devops",
+      "kubernetes",
+      "kubernetes-ingress",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 44044,
+      "language": "Lua",
+      "last_updated": "2026-08-26T08:53:05Z",
+      "owner": "Kong",
+      "full_name": "Kong/kong",
+      "forks": 5205,
+      "open_issues": 191
+    },
+    "first_seen": "2026-08-26T09:29:57.262609+00:00",
+    "raw_name": "Kong/kong"
+  },
+  {
+    "id": "f669141e-d419-57a6-820e-1a8dcb00c690",
+    "entity_type": "repository",
+    "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "description": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
+    "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "categories": [
+      "artificial-intelligence",
+      "artificial-intelligence-projects",
+      "awesome",
+      "code-generation",
+      "computer-vision",
+      "computer-vision-project",
+      "data-science",
+      "deep-learning",
+      "deep-learning-project",
+      "machine-learning",
+      "machine-learning-projects",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 36544,
+      "language": null,
+      "last_updated": "2026-08-26T09:23:32Z",
+      "owner": "ashishpatel26",
+      "full_name": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+      "forks": 7471,
+      "open_issues": 68
+    },
+    "first_seen": "2026-08-26T09:29:57.262625+00:00",
+    "raw_name": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code"
+  },
+  {
+    "id": "5fcf25ad-60a1-5b61-8a1b-b4381926d5e2",
+    "entity_type": "repository",
+    "name": "Vane",
+    "description": "Vane is an AI-powered answering engine.",
+    "url": "https://github.com/ItzCrazyKns/Vane",
+    "categories": [
+      "ai-agents",
+      "ai-search-engine",
+      "answering-engine",
+      "artificial-intelligence",
+      "llm",
+      "machine-learning",
+      "new",
+      "open-source-ai-search-engine",
+      "perplexica",
+      "rag",
+      "search-engine"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 36480,
+      "language": "TypeScript",
+      "last_updated": "2026-08-26T08:52:09Z",
+      "owner": "ItzCrazyKns",
+      "full_name": "ItzCrazyKns/Vane",
+      "forks": 4049,
+      "open_issues": 349
+    },
+    "first_seen": "2026-08-26T09:29:57.262637+00:00",
+    "raw_name": "ItzCrazyKns/Vane"
+  },
+  {
+    "id": "51781d45-c7af-5726-aa17-1ce508eaa747",
+    "entity_type": "repository",
+    "name": "DragGAN",
+    "description": "Official Code for DragGAN (SIGGRAPH 2023)",
+    "url": "https://github.com/XingangPan/DragGAN",
+    "categories": [
+      "artificial-intelligence",
+      "code-generation",
+      "generative-adversarial-network",
+      "generative-models",
+      "image-manipulation",
+      "new",
+      "retrieval-augmented-generation"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 35756,
+      "language": "Python",
+      "last_updated": "2026-08-26T03:25:15Z",
+      "owner": "XingangPan",
+      "full_name": "XingangPan/DragGAN",
+      "forks": 3401,
+      "open_issues": 154
+    },
+    "first_seen": "2026-08-26T09:29:57.262651+00:00",
+    "raw_name": "XingangPan/DragGAN"
+  },
+  {
+    "id": "c78d80e9-8af4-5e41-ae90-a5b07d4f1114",
+    "entity_type": "repository",
+    "name": "spaCy",
+    "description": "\ud83d\udcab Industrial-strength Natural Language Processing (NLP) in Python",
+    "url": "https://github.com/explosion/spaCy",
+    "categories": [
+      "ai",
+      "artificial-intelligence",
+      "cython",
+      "data-science",
+      "deep-learning",
+      "entity-linking",
+      "machine-learning",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "neural-network",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 33848,
+      "language": "Python",
+      "last_updated": "2026-08-25T23:43:53Z",
+      "owner": "explosion",
+      "full_name": "explosion/spaCy",
+      "forks": 4718,
+      "open_issues": 237
+    },
+    "first_seen": "2026-08-26T09:29:57.262697+00:00",
+    "raw_name": "explosion/spaCy"
+  },
+  {
+    "id": "90e79617-e30e-594a-9bfe-a257df502372",
+    "entity_type": "repository",
+    "name": "fairseq",
+    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "url": "https://github.com/facebookresearch/fairseq",
+    "categories": [
+      "artificial-intelligence",
+      "new",
+      "python",
+      "pytorch"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 32231,
+      "language": "Python",
+      "last_updated": "2026-08-26T08:18:21Z",
+      "owner": "facebookresearch",
+      "full_name": "facebookresearch/fairseq",
+      "forks": 6675,
+      "open_issues": 1352
+    },
+    "first_seen": "2026-08-26T09:29:57.262712+00:00",
+    "raw_name": "facebookresearch/fairseq"
+  },
+  {
+    "id": "9ebcbb57-ea0e-500c-b4fa-fafbc7eb77ac",
+    "entity_type": "repository",
+    "name": "pytorch-lightning",
+    "description": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.",
+    "url": "https://github.com/Lightning-AI/pytorch-lightning",
+    "categories": [
+      "ai",
+      "artificial-intelligence",
+      "code-generation",
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "new",
+      "python",
+      "pytorch"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 31308,
+      "language": "Python",
+      "last_updated": "2026-08-26T08:37:23Z",
+      "owner": "Lightning-AI",
+      "full_name": "Lightning-AI/pytorch-lightning",
+      "forks": 3785,
+      "open_issues": 1080
+    },
+    "first_seen": "2026-08-26T09:29:57.262724+00:00",
+    "raw_name": "Lightning-AI/pytorch-lightning"
+  },
+  {
+    "id": "ad0887a1-1345-5a29-8071-c2de6a75df8a",
+    "entity_type": "repository",
+    "name": "AI-Expert-Roadmap",
+    "description": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "categories": [
+      "ai",
+      "ai-roadmap",
+      "artificial-intelligence",
+      "data-analysis",
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "neural-network",
+      "new",
+      "roadmap",
+      "study-plan"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 31218,
+      "language": "JavaScript",
+      "last_updated": "2026-08-26T09:00:59Z",
+      "owner": "AMAI-GmbH",
+      "full_name": "AMAI-GmbH/AI-Expert-Roadmap",
+      "forks": 2584,
+      "open_issues": 19
+    },
+    "first_seen": "2026-08-26T09:29:57.262736+00:00",
+    "raw_name": "AMAI-GmbH/AI-Expert-Roadmap"
+  },
+  {
+    "id": "67fd80ea-a035-53aa-a652-fbd81bca7864",
+    "entity_type": "repository",
+    "name": "awesome-ai-agents",
+    "description": "A list of AI autonomous agents",
+    "url": "https://github.com/e2b-dev/awesome-ai-agents",
+    "categories": [
+      "agent",
+      "agents",
+      "ai",
+      "artificial-intelligence",
+      "autogpt",
+      "autonomous-agents",
+      "awesome",
+      "babyagi",
+      "copilot",
+      "gpt",
+      "gpt-4",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 29683,
+      "language": null,
+      "last_updated": "2026-08-26T08:02:23Z",
+      "owner": "e2b-dev",
+      "full_name": "e2b-dev/awesome-ai-agents",
+      "forks": 3367,
+      "open_issues": 956
+    },
+    "first_seen": "2026-08-26T09:29:57.262748+00:00",
+    "raw_name": "e2b-dev/awesome-ai-agents"
+  },
+  {
+    "id": "b845ad5f-a646-59d0-a9f5-3440efeb05e4",
+    "entity_type": "repository",
+    "name": "sim",
+    "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
+    "url": "https://github.com/simstudioai/sim",
+    "categories": [
+      "agent-workflow",
+      "agentic-workflow",
+      "agents",
+      "ai",
+      "aiagents",
+      "anthropic",
+      "artificial-intelligence",
+      "automation",
+      "chatbot",
+      "deepseek",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 29474,
+      "language": "TypeScript",
+      "last_updated": "2026-08-26T07:21:59Z",
+      "owner": "simstudioai",
+      "full_name": "simstudioai/sim",
+      "forks": 3793,
+      "open_issues": 289
+    },
+    "first_seen": "2026-08-26T09:29:57.262761+00:00",
+    "raw_name": "simstudioai/sim"
+  },
+  {
+    "id": "0f441a7d-903e-59d5-a596-15342c26f8b9",
+    "entity_type": "repository",
+    "name": "tensorflow",
+    "description": "An Open Source Machine Learning Framework for Everyone",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "categories": [
+      "deep-learning",
+      "deep-neural-networks",
+      "distributed",
+      "machine-learning",
+      "ml",
+      "neural-network",
+      "new",
+      "python",
+      "tensorflow"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 197631,
+      "language": "C++",
+      "last_updated": "2026-08-26T09:25:53Z",
+      "owner": "tensorflow",
+      "full_name": "tensorflow/tensorflow",
+      "forks": 76139,
+      "open_issues": 2947
+    },
+    "first_seen": "2026-08-26T09:29:57.775768+00:00",
+    "raw_name": "tensorflow/tensorflow"
+  },
+  {
+    "id": "ee5cd241-ebf3-5b8b-89ed-ca8e9ba4f0bb",
+    "entity_type": "repository",
+    "name": "transformers",
+    "description": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+    "url": "https://github.com/huggingface/transformers",
+    "categories": [
+      "audio",
+      "computer-vision",
+      "deep-learning",
+      "deepseek",
+      "gemma",
+      "glm",
+      "hacktoberfest",
+      "llm",
+      "machine-learning",
+      "model-hub",
+      "multimodal",
+      "natural-language-processing",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 164457,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:25:03Z",
+      "owner": "huggingface",
+      "full_name": "huggingface/transformers",
+      "forks": 34367,
+      "open_issues": 2409
+    },
+    "first_seen": "2026-08-26T09:29:57.775871+00:00",
+    "raw_name": "huggingface/transformers"
+  },
+  {
+    "id": "a0935620-bb4c-53d9-a8d8-8d116d32264e",
+    "entity_type": "repository",
+    "name": "pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "url": "https://github.com/pytorch/pytorch",
+    "categories": [
+      "autograd",
+      "deep-learning",
+      "gpu",
+      "machine-learning",
+      "neural-network",
+      "new",
+      "numpy",
+      "python",
+      "tensor"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 102600,
+      "language": "Python",
+      "last_updated": "2026-08-26T08:01:22Z",
+      "owner": "pytorch",
+      "full_name": "pytorch/pytorch",
+      "forks": 28989,
+      "open_issues": 17381
+    },
+    "first_seen": "2026-08-26T09:29:57.775914+00:00",
+    "raw_name": "pytorch/pytorch"
+  },
+  {
+    "id": "249f55c4-afcf-5bf1-9bd6-bd6dec3eb5ff",
+    "entity_type": "repository",
+    "name": "ML-For-Beginners",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "categories": [
+      "data-science",
+      "education",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "machinelearning",
+      "machinelearning-python",
+      "microsoft-for-beginners",
+      "ml",
+      "new",
+      "python",
+      "r"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 89814,
+      "language": "Jupyter Notebook",
+      "last_updated": "2026-08-26T09:22:45Z",
+      "owner": "microsoft",
+      "full_name": "microsoft/ML-For-Beginners",
+      "forks": 22084,
+      "open_issues": 13
+    },
+    "first_seen": "2026-08-26T09:29:57.775928+00:00",
+    "raw_name": "microsoft/ML-For-Beginners"
+  },
+  {
+    "id": "3c35c44b-994b-5bb8-9d56-c347a8a9d639",
+    "entity_type": "repository",
+    "name": "cs-video-courses",
+    "description": "List of Computer Science courses with video lectures.",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "categories": [
+      "algorithms",
+      "bioinformatics",
+      "computational-biology",
+      "computational-physics",
+      "computer-architecture",
+      "computer-science",
+      "computer-vision",
+      "database-systems",
+      "databases",
+      "deep-learning",
+      "new",
+      "video"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 83175,
+      "language": null,
+      "last_updated": "2026-08-26T08:18:24Z",
+      "owner": "Developer-Y",
+      "full_name": "Developer-Y/cs-video-courses",
+      "forks": 11444,
+      "open_issues": 2
+    },
+    "first_seen": "2026-08-26T09:29:57.775944+00:00",
+    "raw_name": "Developer-Y/cs-video-courses"
+  },
+  {
+    "id": "2c092a7b-990d-54f9-88b6-cc575d2a52f6",
+    "entity_type": "repository",
+    "name": "llm-course",
+    "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+    "url": "https://github.com/mlabonne/llm-course",
+    "categories": [
+      "course",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "new",
+      "roadmap"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 82000,
+      "language": null,
+      "last_updated": "2026-08-26T08:02:24Z",
+      "owner": "mlabonne",
+      "full_name": "mlabonne/llm-course",
+      "forks": 9538,
+      "open_issues": 89
+    },
+    "first_seen": "2026-08-26T09:29:57.775957+00:00",
+    "raw_name": "mlabonne/llm-course"
+  },
+  {
+    "id": "4a48b43b-81bd-54dd-a7df-d6db16cb2231",
+    "entity_type": "repository",
+    "name": "netdata",
+    "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+    "url": "https://github.com/netdata/netdata",
+    "categories": [
+      "ai",
+      "alerting",
+      "cncf",
+      "data-visualization",
+      "database",
+      "devops",
+      "docker",
+      "grafana",
+      "influxdb",
+      "kubernetes",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 80303,
+      "language": "Go",
+      "last_updated": "2026-08-26T09:20:34Z",
+      "owner": "netdata",
+      "full_name": "netdata/netdata",
+      "forks": 6600,
+      "open_issues": 392
+    },
+    "first_seen": "2026-08-26T09:29:57.775985+00:00",
+    "raw_name": "netdata/netdata"
+  },
+  {
+    "id": "5c8efa39-c76f-5d30-951b-8f50c927d861",
+    "entity_type": "repository",
+    "name": "d2l-zh",
+    "description": "\u300a\u52a8\u624b\u5b66\u6df1\u5ea6\u5b66\u4e60\u300b\uff1a\u9762\u5411\u4e2d\u6587\u8bfb\u8005\u3001\u80fd\u8fd0\u884c\u3001\u53ef\u8ba8\u8bba\u3002\u4e2d\u82f1\u6587\u7248\u88ab70\u591a\u4e2a\u56fd\u5bb6\u7684500\u591a\u6240\u5927\u5b66\u7528\u4e8e\u6559\u5b66\u3002",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "categories": [
+      "book",
+      "chinese",
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "natural-language-processing",
+      "new",
+      "notebook",
+      "python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 79962,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:27:45Z",
+      "owner": "d2l-ai",
+      "full_name": "d2l-ai/d2l-zh",
+      "forks": 12346,
+      "open_issues": 128
+    },
+    "first_seen": "2026-08-26T09:29:57.776010+00:00",
+    "raw_name": "d2l-ai/d2l-zh"
+  },
+  {
+    "id": "23c78968-70a1-59bb-a01d-2d2694fbc567",
+    "entity_type": "repository",
+    "name": "tesseract",
+    "description": "Tesseract Open Source OCR Engine (main repository)",
+    "url": "https://github.com/tesseract-ocr/tesseract",
+    "categories": [
+      "hacktoberfest",
+      "lstm",
+      "machine-learning",
+      "new",
+      "ocr",
+      "ocr-engine",
+      "tesseract",
+      "tesseract-ocr"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 76188,
+      "language": "C++",
+      "last_updated": "2026-08-26T08:51:01Z",
+      "owner": "tesseract-ocr",
+      "full_name": "tesseract-ocr/tesseract",
+      "forks": 10769,
+      "open_issues": 488
+    },
+    "first_seen": "2026-08-26T09:29:57.776028+00:00",
+    "raw_name": "tesseract-ocr/tesseract"
+  },
+  {
+    "id": "d3c1bd87-cd4f-5801-a1af-f7748b659d33",
+    "entity_type": "repository",
+    "name": "awesome-scalability",
+    "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "categories": [
+      "architecture",
+      "awesome",
+      "awesome-list",
+      "backend",
+      "big-data",
+      "computer-science",
+      "design-patterns",
+      "devops",
+      "distributed-systems",
+      "interview",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 73530,
+      "language": null,
+      "last_updated": "2026-08-26T08:57:30Z",
+      "owner": "binhnguyennus",
+      "full_name": "binhnguyennus/awesome-scalability",
+      "forks": 7106,
+      "open_issues": 26
+    },
+    "first_seen": "2026-08-26T09:29:57.776043+00:00",
+    "raw_name": "binhnguyennus/awesome-scalability"
+  },
+  {
+    "id": "14948735-0f65-57e5-af60-d2bb83e222e9",
+    "entity_type": "repository",
+    "name": "OpenBB",
+    "description": "Open Data Platform for analysts, quants and AI agents.",
+    "url": "https://github.com/OpenBB-finance/OpenBB",
+    "categories": [
+      "agents",
+      "ai",
+      "crypto",
+      "derivatives",
+      "economics",
+      "equity",
+      "finance",
+      "fixed-income",
+      "machine-learning",
+      "new",
+      "openbb",
+      "options"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 72314,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:04:34Z",
+      "owner": "OpenBB-finance",
+      "full_name": "OpenBB-finance/OpenBB",
+      "forks": 7450,
+      "open_issues": 110
+    },
+    "first_seen": "2026-08-26T09:29:57.776056+00:00",
+    "raw_name": "OpenBB-finance/OpenBB"
+  },
+  {
+    "id": "be9cfce7-7bc5-5e18-8863-4a80613a241f",
+    "entity_type": "repository",
+    "name": "annotated_deep_learning_paper_implementations",
+    "description": "\ud83e\uddd1\u200d\ud83c\udfeb 60+ Implementations/tutorials of deep learning papers with side-by-side notes \ud83d\udcdd; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), \ud83c\udfae reinforcement learning (ppo, dqn), capsnet, distillation, ... \ud83e\udde0",
+    "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+    "categories": [
+      "attention",
+      "deep-learning",
+      "deep-learning-tutorial",
+      "gan",
+      "literate-programming",
+      "lora",
+      "machine-learning",
+      "neural-networks",
+      "new",
+      "optimizers",
+      "pytorch"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 67354,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:25:13Z",
+      "owner": "labmlai",
+      "full_name": "labmlai/annotated_deep_learning_paper_implementations",
+      "forks": 6749,
+      "open_issues": 32
+    },
+    "first_seen": "2026-08-26T09:29:57.776068+00:00",
+    "raw_name": "labmlai/annotated_deep_learning_paper_implementations"
+  },
+  {
+    "id": "9fe5134b-20c7-5d0b-a74e-b0282b9cbd81",
+    "entity_type": "repository",
+    "name": "scikit-learn",
+    "description": "scikit-learn: machine learning in Python",
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "categories": [
+      "data-analysis",
+      "data-science",
+      "machine-learning",
+      "new",
+      "python",
+      "statistics"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 67064,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:22:58Z",
+      "owner": "scikit-learn",
+      "full_name": "scikit-learn/scikit-learn",
+      "forks": 27312,
+      "open_issues": 2122
+    },
+    "first_seen": "2026-08-26T09:29:57.776082+00:00",
+    "raw_name": "scikit-learn/scikit-learn"
+  },
+  {
+    "id": "84dd2ad3-e0a8-54a5-bb81-9ddab778c86c",
+    "entity_type": "repository",
+    "name": "keras",
+    "description": "Deep Learning for humans",
+    "url": "https://github.com/keras-team/keras",
+    "categories": [
+      "data-science",
+      "deep-learning",
+      "jax",
+      "machine-learning",
+      "neural-networks",
+      "new",
+      "python",
+      "pytorch",
+      "tensorflow"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 64249,
+      "language": "Python",
+      "last_updated": "2026-08-26T07:33:30Z",
+      "owner": "keras-team",
+      "full_name": "keras-team/keras",
+      "forks": 19765,
+      "open_issues": 249
+    },
+    "first_seen": "2026-08-26T09:29:57.776107+00:00",
+    "raw_name": "keras-team/keras"
+  },
+  {
+    "id": "f58d39f2-f396-584c-8b92-fa8028bd5bc7",
+    "entity_type": "repository",
+    "name": "ultralytics",
+    "description": "Ultralytics YOLO26, YOLO11, YOLOv8 \u2014 object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking",
+    "url": "https://github.com/ultralytics/ultralytics",
+    "categories": [
+      "computer-vision",
+      "deep-learning",
+      "image-classification",
+      "instance-segmentation",
+      "machine-learning",
+      "new",
+      "object-detection",
+      "object-tracking",
+      "pose-estimation",
+      "python",
+      "pytorch"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 60978,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:29:20Z",
+      "owner": "ultralytics",
+      "full_name": "ultralytics/ultralytics",
+      "forks": 11631,
+      "open_issues": 90
+    },
+    "first_seen": "2026-08-26T09:29:57.776119+00:00",
+    "raw_name": "ultralytics/ultralytics"
+  },
+  {
+    "id": "c92a24d8-2fe1-5f82-aa30-97b14e2ab5b6",
+    "entity_type": "repository",
+    "name": "llm-app",
+    "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. \ud83d\udc33Docker-friendly.\u26a1Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
+    "url": "https://github.com/pathwaycom/llm-app",
+    "categories": [
+      "chatbot",
+      "hugging-face",
+      "llm",
+      "llm-local",
+      "llm-prompting",
+      "llm-security",
+      "llmops",
+      "machine-learning",
+      "new",
+      "open-ai",
+      "pathway",
+      "retrieval-augmented-generation"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 58995,
+      "language": "Jupyter Notebook",
+      "last_updated": "2026-08-26T07:11:02Z",
+      "owner": "pathwaycom",
+      "full_name": "pathwaycom/llm-app",
+      "forks": 1477,
+      "open_issues": 8
+    },
+    "first_seen": "2026-08-26T09:29:57.776131+00:00",
+    "raw_name": "pathwaycom/llm-app"
+  },
+  {
+    "id": "bb3de51e-2d72-5300-b94c-8b7a1b4dc08e",
+    "entity_type": "repository",
+    "name": "faceswap",
+    "description": "Deepfakes Software For All",
+    "url": "https://github.com/deepfakes/faceswap",
+    "categories": [
+      "deep-face-swap",
+      "deep-learning",
+      "deep-neural-networks",
+      "deepface",
+      "deepfakes",
+      "deeplearning",
+      "face-swap",
+      "faceswap",
+      "fakeapp",
+      "machine-learning",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 57498,
+      "language": "Python",
+      "last_updated": "2026-08-26T07:10:02Z",
+      "owner": "deepfakes",
+      "full_name": "deepfakes/faceswap",
+      "forks": 13490,
+      "open_issues": 14
+    },
+    "first_seen": "2026-08-26T09:29:57.776142+00:00",
+    "raw_name": "deepfakes/faceswap"
+  },
+  {
+    "id": "ae7ae0b3-f61f-5447-8d2b-45e474867127",
+    "entity_type": "repository",
+    "name": "ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "url": "https://github.com/affaan-m/ECC",
+    "categories": [
+      "agents",
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "code-generation",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "new",
+      "productivity"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 243304,
+      "language": "JavaScript",
+      "last_updated": "2026-08-26T09:28:05Z",
+      "owner": "affaan-m",
+      "full_name": "affaan-m/ECC",
+      "forks": 36806,
+      "open_issues": 182
+    },
+    "first_seen": "2026-08-26T09:29:58.389273+00:00",
+    "raw_name": "affaan-m/ECC"
+  },
+  {
+    "id": "cebb28bb-f04f-5e33-a4c3-33c211ccc3c7",
+    "entity_type": "repository",
+    "name": "hermes-agent",
+    "description": "The agent that grows with you",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "categories": [
+      "agents",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 236609,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:28:57Z",
+      "owner": "NousResearch",
+      "full_name": "NousResearch/hermes-agent",
+      "forks": 47813,
+      "open_issues": 36029
+    },
+    "first_seen": "2026-08-26T09:29:58.389318+00:00",
+    "raw_name": "NousResearch/hermes-agent"
+  },
+  {
+    "id": "b14b067d-f895-55a5-b895-e00f52adf416",
+    "entity_type": "repository",
+    "name": "ollama",
+    "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "url": "https://github.com/ollama/ollama",
+    "categories": [
+      "deepseek",
+      "gemma",
+      "gemma3",
+      "glm",
+      "go",
+      "golang",
+      "gpt-oss",
+      "llama",
+      "llama3",
+      "llm",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 179462,
+      "language": "Go",
+      "last_updated": "2026-08-26T09:22:08Z",
+      "owner": "ollama",
+      "full_name": "ollama/ollama",
+      "forks": 17562,
+      "open_issues": 3789
+    },
+    "first_seen": "2026-08-26T09:29:58.389348+00:00",
+    "raw_name": "ollama/ollama"
+  },
+  {
+    "id": "3fb3a00d-c0e3-5840-84df-03013b678a86",
+    "entity_type": "repository",
+    "name": "firecrawl",
+    "description": "The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "categories": [
+      "ai",
+      "ai-agents",
+      "ai-crawler",
+      "ai-scraping",
+      "ai-search",
+      "crawler",
+      "data-extraction",
+      "html-to-markdown",
+      "llm",
+      "markdown",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 172542,
+      "language": "TypeScript",
+      "last_updated": "2026-08-26T09:28:27Z",
+      "owner": "firecrawl",
+      "full_name": "firecrawl/firecrawl",
+      "forks": 9529,
+      "open_issues": 558
+    },
+    "first_seen": "2026-08-26T09:29:58.389360+00:00",
+    "raw_name": "firecrawl/firecrawl"
+  },
+  {
+    "id": "f27504ae-4573-5693-9775-91fdee40e894",
+    "entity_type": "repository",
+    "name": "dify",
+    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+    "url": "https://github.com/langgenius/dify",
+    "categories": [
+      "agent",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "agents",
+      "ai",
+      "automation",
+      "claude",
+      "deepseek",
+      "genai",
+      "gpt",
+      "new",
+      "retrieval-augmented-generation"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 153561,
+      "language": "TypeScript",
+      "last_updated": "2026-08-26T09:22:15Z",
+      "owner": "langgenius",
+      "full_name": "langgenius/dify",
+      "forks": 24268,
+      "open_issues": 942
+    },
+    "first_seen": "2026-08-26T09:29:58.389407+00:00",
+    "raw_name": "langgenius/dify"
+  },
+  {
+    "id": "cffb8734-651a-5110-92b0-9c932e545649",
+    "entity_type": "repository",
+    "name": "open-webui",
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "url": "https://github.com/open-webui/open-webui",
+    "categories": [
+      "ai",
+      "llm",
+      "llm-ui",
+      "llm-webui",
+      "llms",
+      "mcp",
+      "new",
+      "ollama",
+      "ollama-webui",
+      "open-webui",
+      "openai"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 149957,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:16:52Z",
+      "owner": "open-webui",
+      "full_name": "open-webui/open-webui",
+      "forks": 21881,
+      "open_issues": 199
+    },
+    "first_seen": "2026-08-26T09:29:58.389419+00:00",
+    "raw_name": "open-webui/open-webui"
+  },
+  {
+    "id": "b9c9cafc-43ec-5d54-89f0-884612b51386",
+    "entity_type": "repository",
+    "name": "langchain",
+    "description": "The agent engineering platform.",
+    "url": "https://github.com/langchain-ai/langchain",
+    "categories": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "deepagents",
+      "enterprise",
+      "framework",
+      "gemini",
+      "generative-ai",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 145029,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:15:01Z",
+      "owner": "langchain-ai",
+      "full_name": "langchain-ai/langchain",
+      "forks": 24180,
+      "open_issues": 431
+    },
+    "first_seen": "2026-08-26T09:29:58.389431+00:00",
+    "raw_name": "langchain-ai/langchain"
+  },
+  {
+    "id": "03b421b6-4e8e-5938-8a7b-8feea186c60f",
+    "entity_type": "repository",
+    "name": "MoneyPrinterTurbo",
+    "description": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "categories": [
+      "ai-video-generator",
+      "content-creation",
+      "ffmpeg",
+      "instagram-reels",
+      "llm",
+      "new",
+      "python",
+      "short-video",
+      "subtitles",
+      "text-to-speech",
+      "tiktok",
+      "video"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 116702,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:29:35Z",
+      "owner": "harry0703",
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "forks": 17740,
+      "open_issues": 13
+    },
+    "first_seen": "2026-08-26T09:29:58.389443+00:00",
+    "raw_name": "harry0703/MoneyPrinterTurbo"
+  },
+  {
+    "id": "7cfb2d16-c04d-5209-97bb-dc696af41d10",
+    "entity_type": "repository",
+    "name": "ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "categories": [
+      "agent-skills",
+      "agents",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "code-generation",
+      "cursor-rules",
+      "developer-tools",
+      "llm",
+      "new",
+      "prompt-engineering",
+      "yagni"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 111685,
+      "language": "JavaScript",
+      "last_updated": "2026-08-26T09:29:19Z",
+      "owner": "DietrichGebert",
+      "full_name": "DietrichGebert/ponytail",
+      "forks": 6136,
+      "open_issues": 170
+    },
+    "first_seen": "2026-08-26T09:29:58.389454+00:00",
+    "raw_name": "DietrichGebert/ponytail"
+  },
+  {
+    "id": "9790eab4-d301-5bfc-8a23-acfac5875c3c",
+    "entity_type": "repository",
+    "name": "graphify",
+    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+    "url": "https://github.com/Graphify-Labs/graphify",
+    "categories": [
+      "ai-agents",
+      "antigravity",
+      "ast",
+      "claude-code",
+      "code-analysis",
+      "code-generation",
+      "code-search",
+      "codex",
+      "cursor",
+      "developer-tools",
+      "gemini",
+      "new",
+      "vector-search"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 110750,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:28:02Z",
+      "owner": "Graphify-Labs",
+      "full_name": "Graphify-Labs/graphify",
+      "forks": 10773,
+      "open_issues": 1112
+    },
+    "first_seen": "2026-08-26T09:29:58.389466+00:00",
+    "raw_name": "Graphify-Labs/graphify"
+  },
+  {
+    "id": "92ad2e87-b3ee-56ee-b7bf-88a2b4634bd5",
+    "entity_type": "repository",
+    "name": "browser-use",
+    "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease.",
+    "url": "https://github.com/browser-use/browser-use",
+    "categories": [
+      "agents",
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "browser-use",
+      "llm",
+      "new",
+      "playwright",
+      "python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 110571,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:19:32Z",
+      "owner": "browser-use",
+      "full_name": "browser-use/browser-use",
+      "forks": 12168,
+      "open_issues": 389
+    },
+    "first_seen": "2026-08-26T09:29:58.389479+00:00",
+    "raw_name": "browser-use/browser-use"
+  },
+  {
+    "id": "c75ab55e-2bda-536a-911c-cb95f8a87497",
+    "entity_type": "repository",
+    "name": "caveman",
+    "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "categories": [
+      "ai",
+      "anthropic",
+      "caveman",
+      "claude",
+      "claude-code",
+      "code-generation",
+      "llm",
+      "meme",
+      "new",
+      "prompt-engineering",
+      "skill",
+      "tokens"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 101037,
+      "language": "Go",
+      "last_updated": "2026-08-26T09:28:15Z",
+      "owner": "JuliusBrussee",
+      "full_name": "JuliusBrussee/caveman",
+      "forks": 5868,
+      "open_issues": 373
+    },
+    "first_seen": "2026-08-26T09:29:58.389502+00:00",
+    "raw_name": "JuliusBrussee/caveman"
+  },
+  {
+    "id": "11eca996-6d2a-5915-8b1f-48f89486ef09",
+    "entity_type": "repository",
+    "name": "TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "categories": [
+      "agent",
+      "agents",
+      "finance",
+      "llm",
+      "multiagent",
+      "new",
+      "trading"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 100575,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:29:50Z",
+      "owner": "TauricResearch",
+      "full_name": "TauricResearch/TradingAgents",
+      "forks": 19395,
+      "open_issues": 378
+    },
+    "first_seen": "2026-08-26T09:29:58.389513+00:00",
+    "raw_name": "TauricResearch/TradingAgents"
+  },
+  {
+    "id": "680d1c69-8117-5af4-a6e7-3dbb3e5e2d24",
+    "entity_type": "repository",
+    "name": "vllm",
+    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+    "url": "https://github.com/vllm-project/vllm",
+    "categories": [
+      "amd",
+      "blackwell",
+      "cuda",
+      "deepseek",
+      "deepseek-v3",
+      "gpt",
+      "gpt-oss",
+      "inference",
+      "kimi",
+      "llama",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 90095,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:28:20Z",
+      "owner": "vllm-project",
+      "full_name": "vllm-project/vllm",
+      "forks": 21222,
+      "open_issues": 7021
+    },
+    "first_seen": "2026-08-26T09:29:58.389526+00:00",
+    "raw_name": "vllm-project/vllm"
+  },
+  {
+    "id": "7d78dfad-4f64-541a-995b-964775c5d961",
+    "entity_type": "repository",
+    "name": "nanobot",
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
+    "url": "https://github.com/HKUDS/nanobot",
+    "categories": [
+      "agent-framework",
+      "agents",
+      "ai-agent",
+      "ai-agents",
+      "chatbot",
+      "chatops",
+      "conversational-ai",
+      "discord-bot",
+      "llm-agents",
+      "llms",
+      "local-llm",
+      "mcp",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 47413,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:23:39Z",
+      "owner": "HKUDS",
+      "full_name": "HKUDS/nanobot",
+      "forks": 8369,
+      "open_issues": 741
+    },
+    "first_seen": "2026-08-26T09:29:58.957803+00:00",
+    "raw_name": "HKUDS/nanobot"
+  },
+  {
+    "id": "2d174e84-13ac-5579-87f6-4ee24d543fa8",
+    "entity_type": "repository",
+    "name": "BettaFish",
+    "description": "\u5fae\u8206\uff1a\u4eba\u4eba\u53ef\u7528\u7684\u591aAgent\u8206\u60c5\u5206\u6790\u52a9\u624b\uff0c\u6253\u7834\u4fe1\u606f\u8327\u623f\uff0c\u8fd8\u539f\u8206\u60c5\u539f\u8c8c\uff0c\u9884\u6d4b\u672a\u6765\u8d70\u5411\uff0c\u8f85\u52a9\u51b3\u7b56\uff01\u4ece0\u5b9e\u73b0\uff0c\u4e0d\u4f9d\u8d56\u4efb\u4f55\u6846\u67b6\u3002",
+    "url": "https://github.com/666ghj/BettaFish",
+    "categories": [
+      "agent-framework",
+      "agents",
+      "data-analysis",
+      "deep-research",
+      "deep-search",
+      "llms",
+      "multi-agent-system",
+      "new",
+      "nlp",
+      "public-opinion-analysis",
+      "python3",
+      "sentiment-analysis"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 42084,
+      "language": "Python",
+      "last_updated": "2026-08-26T08:44:35Z",
+      "owner": "666ghj",
+      "full_name": "666ghj/BettaFish",
+      "forks": 7620,
+      "open_issues": 3
+    },
+    "first_seen": "2026-08-26T09:29:58.957851+00:00",
+    "raw_name": "666ghj/BettaFish"
+  },
+  {
+    "id": "38f2a398-d09d-5b02-8ec1-e033d12d56c7",
+    "entity_type": "repository",
+    "name": "DeepSeek-Reasonix",
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix",
+    "categories": [
+      "agent",
+      "agent-framework",
+      "agents",
+      "ai-agent",
+      "ai-coding",
+      "cli",
+      "coding-agent",
+      "deepseek",
+      "developer-tools",
+      "dsh",
+      "dsh-plugin",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 35177,
+      "language": "Go",
+      "last_updated": "2026-08-26T09:21:15Z",
+      "owner": "esengine",
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "forks": 2344,
+      "open_issues": 1595
+    },
+    "first_seen": "2026-08-26T09:29:58.957868+00:00",
+    "raw_name": "esengine/DeepSeek-Reasonix"
+  },
+  {
+    "id": "c4ce2180-a8a2-5048-9539-e3c5653dc0d7",
+    "entity_type": "repository",
+    "name": "haystack",
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+    "url": "https://github.com/deepset-ai/haystack",
+    "categories": [
+      "agent-framework",
+      "agentic-ai",
+      "agentic-rag",
+      "agents",
+      "ai",
+      "ai-agents",
+      "context-engineering",
+      "framework",
+      "genai",
+      "generative-ai",
+      "multimodal",
+      "new",
+      "retrieval-augmented-generation"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 26318,
+      "language": "Python",
+      "last_updated": "2026-08-26T08:35:14Z",
+      "owner": "deepset-ai",
+      "full_name": "deepset-ai/haystack",
+      "forks": 3040,
+      "open_issues": 102
+    },
+    "first_seen": "2026-08-26T09:29:58.957881+00:00",
+    "raw_name": "deepset-ai/haystack"
+  },
+  {
+    "id": "744b7628-8b69-5d22-a4a8-55bb9624226d",
+    "entity_type": "repository",
+    "name": "agents-towards-production",
+    "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
+    "url": "https://github.com/NirDiamant/agents-towards-production",
+    "categories": [
+      "agent",
+      "agent-framework",
+      "agentic-ai",
+      "agents",
+      "ai-agents",
+      "code-generation",
+      "deployment",
+      "genai",
+      "generative-ai",
+      "langgraph",
+      "llm",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 21332,
+      "language": "Jupyter Notebook",
+      "last_updated": "2026-08-26T05:58:08Z",
+      "owner": "NirDiamant",
+      "full_name": "NirDiamant/agents-towards-production",
+      "forks": 2834,
+      "open_issues": 15
+    },
+    "first_seen": "2026-08-26T09:29:58.957896+00:00",
+    "raw_name": "NirDiamant/agents-towards-production"
+  },
+  {
+    "id": "49862f46-d843-589e-b438-f62b5f6976aa",
+    "entity_type": "repository",
+    "name": "pydantic-ai",
+    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
+    "url": "https://github.com/pydantic/pydantic-ai",
+    "categories": [
+      "agent-framework",
+      "agents",
+      "computer-vision",
+      "genai",
+      "harness",
+      "harness-engineering",
+      "llm",
+      "new",
+      "pydantic",
+      "python",
+      "speech"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 19502,
+      "language": "Python",
+      "last_updated": "2026-08-26T08:34:19Z",
+      "owner": "pydantic",
+      "full_name": "pydantic/pydantic-ai",
+      "forks": 2594,
+      "open_issues": 737
+    },
+    "first_seen": "2026-08-26T09:29:58.957908+00:00",
+    "raw_name": "pydantic/pydantic-ai"
+  },
+  {
+    "id": "5c9dfd35-f7d5-50f5-8c1b-1f5c127cc45a",
+    "entity_type": "repository",
+    "name": "openfang",
+    "description": "Open-source Agent Operating System",
+    "url": "https://github.com/RightNow-AI/openfang",
+    "categories": [
+      "agent-framework",
+      "agents",
+      "ai-agents",
+      "llm",
+      "mcp",
+      "new",
+      "open-source",
+      "openclaw",
+      "operating-system",
+      "rust"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 18135,
+      "language": "Rust",
+      "last_updated": "2026-08-26T07:49:05Z",
+      "owner": "RightNow-AI",
+      "full_name": "RightNow-AI/openfang",
+      "forks": 2287,
+      "open_issues": 116
+    },
+    "first_seen": "2026-08-26T09:29:58.957919+00:00",
+    "raw_name": "RightNow-AI/openfang"
+  },
+  {
+    "id": "1c19a006-d803-5062-8492-2a06809bfc75",
+    "entity_type": "repository",
+    "name": "eigent",
+    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+    "url": "https://github.com/eigent-ai/eigent",
+    "categories": [
+      "agent-framework",
+      "agent-skills",
+      "agentic-ai",
+      "agentic-workflow",
+      "claude-cowork",
+      "claude-cowork-alternative",
+      "claude-cowork-free",
+      "code-generation",
+      "desktop-agent",
+      "multi-agent-systems",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 15119,
+      "language": "TypeScript",
+      "last_updated": "2026-08-26T09:22:06Z",
+      "owner": "eigent-ai",
+      "full_name": "eigent-ai/eigent",
+      "forks": 1794,
+      "open_issues": 213
+    },
+    "first_seen": "2026-08-26T09:29:58.957937+00:00",
+    "raw_name": "eigent-ai/eigent"
+  },
+  {
+    "id": "58801b51-f4f9-5292-8cda-78da03b1ae89",
+    "entity_type": "repository",
+    "name": "agent-framework",
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+    "url": "https://github.com/microsoft/agent-framework",
+    "categories": [
+      "agent-framework",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "dotnet",
+      "multi-agent",
+      "new",
+      "orchestration",
+      "python",
+      "sdk",
+      "workflows"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 13122,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:26:24Z",
+      "owner": "microsoft",
+      "full_name": "microsoft/agent-framework",
+      "forks": 2226,
+      "open_issues": 614
+    },
+    "first_seen": "2026-08-26T09:29:58.957949+00:00",
+    "raw_name": "microsoft/agent-framework"
+  },
+  {
+    "id": "c5cf2f70-c282-59a5-91c1-98aaf54d7b00",
+    "entity_type": "repository",
+    "name": "hive",
+    "description": "Multi-Agent Harness for Production AI",
+    "url": "https://github.com/aden-hive/hive",
+    "categories": [
+      "agent",
+      "agent-framework",
+      "agent-skills",
+      "agents",
+      "anthropic",
+      "automation",
+      "autonomous-agents",
+      "claude",
+      "harness",
+      "harness-engineering",
+      "human-in-the-loop",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 10968,
+      "language": "Python",
+      "last_updated": "2026-08-26T03:10:29Z",
+      "owner": "aden-hive",
+      "full_name": "aden-hive/hive",
+      "forks": 5671,
+      "open_issues": 1345
+    },
+    "first_seen": "2026-08-26T09:29:58.957960+00:00",
+    "raw_name": "aden-hive/hive"
+  },
+  {
+    "id": "956464a0-56f6-503d-b4db-eade94bc798a",
+    "entity_type": "repository",
+    "name": "omnigent",
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents \u2014 swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+    "url": "https://github.com/omnigent-ai/omnigent",
+    "categories": [
+      "agent-framework",
+      "agent-governance",
+      "agent-orchestration",
+      "agents",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "claude-code",
+      "code-generation",
+      "codex",
+      "coding-agents",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 9289,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:28:38Z",
+      "owner": "omnigent-ai",
+      "full_name": "omnigent-ai/omnigent",
+      "forks": 1424,
+      "open_issues": 1224
+    },
+    "first_seen": "2026-08-26T09:29:58.957997+00:00",
+    "raw_name": "omnigent-ai/omnigent"
+  },
+  {
+    "id": "7097b051-dfda-5800-a39f-78651761ed46",
+    "entity_type": "repository",
+    "name": "evolver",
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "url": "https://github.com/EvoMap/evolver",
+    "categories": [
+      "a2a",
+      "agent-evolution",
+      "agent-framework",
+      "agent-protocol",
+      "agents",
+      "ai-agent",
+      "auditable-ai",
+      "autonomous-agent",
+      "cli",
+      "evomap",
+      "gep",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 9006,
+      "language": "JavaScript",
+      "last_updated": "2026-08-26T07:18:40Z",
+      "owner": "EvoMap",
+      "full_name": "EvoMap/evolver",
+      "forks": 840,
+      "open_issues": 19
+    },
+    "first_seen": "2026-08-26T09:29:58.958021+00:00",
+    "raw_name": "EvoMap/evolver"
+  },
+  {
+    "id": "ce4bc2ef-25db-5e3b-826a-d8bdd243ae45",
+    "entity_type": "repository",
+    "name": "MiroThinker",
+    "description": "MiroThinker is a deep research agent optimized for complex research and prediction tasks. Our latest models, MiroThinker-1.7, achieves 74.0 and 75.3 on the BrowseComp and BrowseComp Zh, respectively.",
+    "url": "https://github.com/MiroMindAI/MiroThinker",
+    "categories": [
+      "agent",
+      "agent-framework",
+      "agents",
+      "browsecomp",
+      "deep-research",
+      "futurex",
+      "gaia",
+      "hle",
+      "new",
+      "research-agent",
+      "search-agent",
+      "xbench"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 8362,
+      "language": "Python",
+      "last_updated": "2026-08-26T04:32:55Z",
+      "owner": "MiroMindAI",
+      "full_name": "MiroMindAI/MiroThinker",
+      "forks": 642,
+      "open_issues": 2
+    },
+    "first_seen": "2026-08-26T09:29:58.958039+00:00",
+    "raw_name": "MiroMindAI/MiroThinker"
+  },
+  {
+    "id": "64e357e0-973d-508c-88c5-e49416c3cd49",
+    "entity_type": "repository",
+    "name": "Upsonic",
+    "description": "Build autonomous AI agents in Python.",
+    "url": "https://github.com/Upsonic/Upsonic",
+    "categories": [
+      "agent",
+      "agent-framework",
+      "agents",
+      "autonomous-agent",
+      "autonomous-agents",
+      "claude",
+      "computer-use",
+      "llms",
+      "mcp",
+      "model-context-protocol",
+      "new",
+      "openai"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 7946,
+      "language": "Python",
+      "last_updated": "2026-08-26T03:41:04Z",
+      "owner": "Upsonic",
+      "full_name": "Upsonic/Upsonic",
+      "forks": 745,
+      "open_issues": 32
+    },
+    "first_seen": "2026-08-26T09:29:58.958054+00:00",
+    "raw_name": "Upsonic/Upsonic"
+  },
+  {
+    "id": "5b33ef7f-beb1-5326-a138-8a4acef63895",
+    "entity_type": "repository",
+    "name": "harness-sdk",
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+    "url": "https://github.com/strands-agents/harness-sdk",
+    "categories": [
+      "agent-framework",
+      "agentic",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "autonomous-agents",
+      "bedrock",
+      "generative-ai",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 7010,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:18:42Z",
+      "owner": "strands-agents",
+      "full_name": "strands-agents/harness-sdk",
+      "forks": 1066,
+      "open_issues": 672
+    },
+    "first_seen": "2026-08-26T09:29:58.958070+00:00",
+    "raw_name": "strands-agents/harness-sdk"
+  },
+  {
+    "id": "edcea429-fb8a-55a9-a5af-419a3f2715bf",
+    "entity_type": "repository",
+    "name": "open-multi-agent",
+    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plans the task DAG at runtime and runs it on any LLM (Claude, ChatGPT, Gemini, DeepSeek, or local models).",
+    "url": "https://github.com/open-multi-agent/open-multi-agent",
+    "categories": [
+      "agent-framework",
+      "agent-orchestration",
+      "agentic-ai",
+      "agents",
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "conversational-ai",
+      "crewai-alternative",
+      "deepseek",
+      "dynamic-workflows",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 6829,
+      "language": "TypeScript",
+      "last_updated": "2026-08-26T05:58:53Z",
+      "owner": "open-multi-agent",
+      "full_name": "open-multi-agent/open-multi-agent",
+      "forks": 2426,
+      "open_issues": 12
+    },
+    "first_seen": "2026-08-26T09:29:58.958083+00:00",
+    "raw_name": "open-multi-agent/open-multi-agent"
+  },
+  {
+    "id": "2fd8cac2-51e8-56f7-9fa9-c96bf0436c3a",
+    "entity_type": "repository",
+    "name": "intentkit",
+    "description": "IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.",
+    "url": "https://github.com/crestalnetwork/intentkit",
+    "categories": [
+      "agent-framework",
+      "agentic",
+      "agents",
+      "ai",
+      "ai-agent",
+      "ai-agent-framework",
+      "blockchain",
+      "intents",
+      "new",
+      "python",
+      "web3"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 6509,
+      "language": "Python",
+      "last_updated": "2026-08-25T21:07:28Z",
+      "owner": "crestalnetwork",
+      "full_name": "crestalnetwork/intentkit",
+      "forks": 714,
+      "open_issues": 96
+    },
+    "first_seen": "2026-08-26T09:29:58.958096+00:00",
+    "raw_name": "crestalnetwork/intentkit"
+  },
+  {
+    "id": "9d162d03-820a-5017-a866-55184069c87e",
+    "entity_type": "repository",
+    "name": "agent-governance-toolkit",
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+    "url": "https://github.com/microsoft/agent-governance-toolkit",
+    "categories": [
+      "agent-framework",
+      "agents",
+      "ai-agents",
+      "ai-safety",
+      "compliance",
+      "governance",
+      "microsoft",
+      "new",
+      "owasp",
+      "policy-engine",
+      "python",
+      "security"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 6121,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:13:07Z",
+      "owner": "microsoft",
+      "full_name": "microsoft/agent-governance-toolkit",
+      "forks": 1076,
+      "open_issues": 244
+    },
+    "first_seen": "2026-08-26T09:29:58.958107+00:00",
+    "raw_name": "microsoft/agent-governance-toolkit"
+  },
+  {
+    "id": "86c98599-ef65-568b-9fe0-422bde77ba62",
+    "entity_type": "repository",
+    "name": "rllm",
+    "description": "Democratizing Reinforcement Learning for LLMs",
+    "url": "https://github.com/rllm-org/rllm",
+    "categories": [
+      "agent-framework",
+      "agentic-workflow",
+      "coding-agent",
+      "distributed-training",
+      "llm-reasoning",
+      "llm-training",
+      "machine-learning",
+      "ml-infrastructure",
+      "ml-platform",
+      "new",
+      "reinforcement-learning"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 5800,
+      "language": "Python",
+      "last_updated": "2026-08-25T06:29:18Z",
+      "owner": "rllm-org",
+      "full_name": "rllm-org/rllm",
+      "forks": 609,
+      "open_issues": 153
+    },
+    "first_seen": "2026-08-26T09:29:58.958118+00:00",
+    "raw_name": "rllm-org/rllm"
+  },
+  {
+    "id": "7c0ff7a3-bf11-5694-a834-6a5caa31f578",
+    "entity_type": "repository",
+    "name": "agentscope-java",
+    "description": "Build distributed, production-grade, long-running agents.",
+    "url": "https://github.com/agentscope-ai/agentscope-java",
+    "categories": [
+      "adk",
+      "agent",
+      "agent-framework",
+      "agentic",
+      "agentic-ai",
+      "agents",
+      "agentscope",
+      "ai",
+      "harness",
+      "llm",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 5287,
+      "language": "Java",
+      "last_updated": "2026-08-26T08:35:02Z",
+      "owner": "agentscope-ai",
+      "full_name": "agentscope-ai/agentscope-java",
+      "forks": 1239,
+      "open_issues": 813
+    },
+    "first_seen": "2026-08-26T09:29:58.958129+00:00",
+    "raw_name": "agentscope-ai/agentscope-java"
+  },
+  {
+    "id": "7ed0ebe0-0320-58f2-afaf-8cb3d729e430",
+    "entity_type": "repository",
+    "name": "opencv",
+    "description": "Open Source Computer Vision Library",
+    "url": "https://github.com/opencv/opencv",
+    "categories": [
+      "c-plus-plus",
+      "computer-vision",
+      "deep-learning",
+      "image-processing",
+      "new",
+      "opencv"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 90603,
+      "language": "C++",
+      "last_updated": "2026-08-26T09:14:42Z",
+      "owner": "opencv",
+      "full_name": "opencv/opencv",
+      "forks": 56970,
+      "open_issues": 2756
+    },
+    "first_seen": "2026-08-26T09:29:59.613337+00:00",
+    "raw_name": "opencv/opencv"
+  },
+  {
+    "id": "a9822f22-a7f3-5723-a382-c8ebeb98502c",
+    "entity_type": "repository",
+    "name": "yolov5",
+    "description": "Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export.",
+    "url": "https://github.com/ultralytics/yolov5",
+    "categories": [
+      "computer-vision",
+      "coreml",
+      "deep-learning",
+      "image-classification",
+      "inference",
+      "instance-segmentation",
+      "model-export",
+      "model-training",
+      "new",
+      "object-detection",
+      "onnx"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 57924,
+      "language": "Python",
+      "last_updated": "2026-08-26T07:58:29Z",
+      "owner": "ultralytics",
+      "full_name": "ultralytics/yolov5",
+      "forks": 17474,
+      "open_issues": 31
+    },
+    "first_seen": "2026-08-26T09:29:59.613437+00:00",
+    "raw_name": "ultralytics/yolov5"
+  },
+  {
+    "id": "839bf793-9287-576e-a49f-cc32d385cc35",
+    "entity_type": "repository",
+    "name": "supervision",
+    "description": "We write your reusable computer vision tools. \ud83d\udc9c",
+    "url": "https://github.com/roboflow/supervision",
+    "categories": [
+      "classification",
+      "coco",
+      "computer-vision",
+      "deep-learning",
+      "hacktoberfest",
+      "image-processing",
+      "instance-segmentation",
+      "low-code",
+      "machine-learning",
+      "metrics",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 49740,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:22:47Z",
+      "owner": "roboflow",
+      "full_name": "roboflow/supervision",
+      "forks": 4722,
+      "open_issues": 73
+    },
+    "first_seen": "2026-08-26T09:29:59.613449+00:00",
+    "raw_name": "roboflow/supervision"
+  },
+  {
+    "id": "ba8d6830-d198-57b3-a9be-5d7dc15513c4",
+    "entity_type": "repository",
+    "name": "ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "categories": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-engineering",
+      "computer-vision",
+      "course",
+      "deep-learning",
+      "from-scratch",
+      "generative-ai",
+      "llm",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 49329,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:28:45Z",
+      "owner": "rohitg00",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "forks": 8606,
+      "open_issues": 97
+    },
+    "first_seen": "2026-08-26T09:29:59.613459+00:00",
+    "raw_name": "rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "id": "47c0a439-c4df-548e-a392-7d6f2715aaca",
+    "entity_type": "repository",
+    "name": "mediapipe",
+    "description": "Cross-platform, customizable ML solutions for live and streaming media.",
+    "url": "https://github.com/google-ai-edge/mediapipe",
+    "categories": [
+      "android",
+      "audio-processing",
+      "c-plus-plus",
+      "calculator",
+      "computer-vision",
+      "deep-learning",
+      "framework",
+      "graph-based",
+      "graph-framework",
+      "inference",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 36726,
+      "language": "C++",
+      "last_updated": "2026-08-26T08:24:06Z",
+      "owner": "google-ai-edge",
+      "full_name": "google-ai-edge/mediapipe",
+      "forks": 6135,
+      "open_issues": 551
+    },
+    "first_seen": "2026-08-26T09:29:59.613473+00:00",
+    "raw_name": "google-ai-edge/mediapipe"
+  },
+  {
+    "id": "a13a297f-4353-509b-ab05-62edf948db90",
+    "entity_type": "repository",
+    "name": "openpose",
+    "description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",
+    "url": "https://github.com/CMU-Perceptual-Computing-Lab/openpose",
+    "categories": [
+      "caffe",
+      "computer-vision",
+      "cpp",
+      "cvpr-2017",
+      "deep-learning",
+      "face",
+      "foot-estimation",
+      "hand-estimation",
+      "human-behavior-understanding",
+      "human-pose",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 34403,
+      "language": "C++",
+      "last_updated": "2026-08-26T03:04:45Z",
+      "owner": "CMU-Perceptual-Computing-Lab",
+      "full_name": "CMU-Perceptual-Computing-Lab/openpose",
+      "forks": 8037,
+      "open_issues": 359
+    },
+    "first_seen": "2026-08-26T09:29:59.613498+00:00",
+    "raw_name": "CMU-Perceptual-Computing-Lab/openpose"
+  },
+  {
+    "id": "9469af2e-0fcc-55cc-9f21-9e7f95443c11",
+    "entity_type": "repository",
+    "name": "applied-ml",
+    "description": "\ud83d\udcda Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "categories": [
+      "applied-data-science",
+      "applied-machine-learning",
+      "computer-vision",
+      "data-discovery",
+      "data-engineering",
+      "data-quality",
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "natural-language-processing",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 30082,
+      "language": null,
+      "last_updated": "2026-08-26T08:29:02Z",
+      "owner": "eugeneyan",
+      "full_name": "eugeneyan/applied-ml",
+      "forks": 3991,
+      "open_issues": 8
+    },
+    "first_seen": "2026-08-26T09:29:59.613513+00:00",
+    "raw_name": "eugeneyan/applied-ml"
+  },
+  {
+    "id": "ef80c7e8-5ce6-5477-a637-b63b68a4d4b3",
+    "entity_type": "repository",
+    "name": "d2l-en",
+    "description": "Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.",
+    "url": "https://github.com/d2l-ai/d2l-en",
+    "categories": [
+      "book",
+      "code-generation",
+      "computer-vision",
+      "data-science",
+      "deep-learning",
+      "gaussian-processes",
+      "hyperparameter-optimization",
+      "jax",
+      "kaggle",
+      "keras",
+      "machine-learning",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 29450,
+      "language": "Python",
+      "last_updated": "2026-08-26T08:29:54Z",
+      "owner": "d2l-ai",
+      "full_name": "d2l-ai/d2l-en",
+      "forks": 5114,
+      "open_issues": 192
+    },
+    "first_seen": "2026-08-26T09:29:59.613524+00:00",
+    "raw_name": "d2l-ai/d2l-en"
+  },
+  {
+    "id": "f7954b19-f9ac-5889-bea5-5bd832f73627",
+    "entity_type": "repository",
+    "name": "label-studio",
+    "description": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+    "url": "https://github.com/HumanSignal/label-studio",
+    "categories": [
+      "annotation",
+      "annotation-tool",
+      "annotations",
+      "boundingbox",
+      "computer-vision",
+      "data-labeling",
+      "dataset",
+      "datasets",
+      "deep-learning",
+      "image-annotation",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 28147,
+      "language": "TypeScript",
+      "last_updated": "2026-08-26T09:18:28Z",
+      "owner": "HumanSignal",
+      "full_name": "HumanSignal/label-studio",
+      "forks": 3678,
+      "open_issues": 926
+    },
+    "first_seen": "2026-08-26T09:29:59.613536+00:00",
+    "raw_name": "HumanSignal/label-studio"
+  },
+  {
+    "id": "574c819e-752b-5381-8ab3-b2aa2e925312",
+    "entity_type": "repository",
+    "name": "vit-pytorch",
+    "description": "Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch",
+    "url": "https://github.com/lucidrains/vit-pytorch",
+    "categories": [
+      "artificial-intelligence",
+      "attention-mechanism",
+      "code-generation",
+      "computer-vision",
+      "image-classification",
+      "new",
+      "transformers"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 25489,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:04:35Z",
+      "owner": "lucidrains",
+      "full_name": "lucidrains/vit-pytorch",
+      "forks": 3491,
+      "open_issues": 142
+    },
+    "first_seen": "2026-08-26T09:29:59.613547+00:00",
+    "raw_name": "lucidrains/vit-pytorch"
+  },
+  {
+    "id": "13a493d2-e52b-59c1-b0b7-67e8fd28269f",
+    "entity_type": "repository",
+    "name": "pytorch-CycleGAN-and-pix2pix",
+    "description": "Image-to-Image Translation in PyTorch",
+    "url": "https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix",
+    "categories": [
+      "computer-graphics",
+      "computer-vision",
+      "cyclegan",
+      "deep-learning",
+      "gan",
+      "gans",
+      "generative-adversarial-network",
+      "image-generation",
+      "image-manipulation",
+      "new",
+      "pix2pix"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 25232,
+      "language": "Python",
+      "last_updated": "2026-08-26T02:46:01Z",
+      "owner": "junyanz",
+      "full_name": "junyanz/pytorch-CycleGAN-and-pix2pix",
+      "forks": 6569,
+      "open_issues": 589
+    },
+    "first_seen": "2026-08-26T09:29:59.613559+00:00",
+    "raw_name": "junyanz/pytorch-CycleGAN-and-pix2pix"
+  },
+  {
+    "id": "7c399452-b8ad-5aaa-b8d6-0c8da7ad3f0c",
+    "entity_type": "repository",
+    "name": "CV",
+    "description": "\u2705\uff08\u5df2\u5b8c\u7ed3\uff09\u8d85\u7ea7\u5168\u9762\u7684 \u6df1\u5ea6\u5b66\u4e60 \u7b14\u8bb0\u3010\u571f\u5806 Pytorch\u3011\u3010\u674e\u6c90 \u52a8\u624b\u5b66\u6df1\u5ea6\u5b66\u4e60\u3011\u3010\u5434\u6069\u8fbe \u6df1\u5ea6\u5b66\u4e60\u3011\u3010\u5927\u98de \u5927\u6a21\u578bAgent\u3011",
+    "url": "https://github.com/AccumulateMore/CV",
+    "categories": [
+      "agent",
+      "agents",
+      "book",
+      "chinese",
+      "computer-vision",
+      "cv",
+      "deep-learning",
+      "jupyter-notebook",
+      "llm",
+      "llms",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 23412,
+      "language": "Jupyter Notebook",
+      "last_updated": "2026-08-26T03:30:13Z",
+      "owner": "AccumulateMore",
+      "full_name": "AccumulateMore/CV",
+      "forks": 2627,
+      "open_issues": 26
+    },
+    "first_seen": "2026-08-26T09:29:59.613571+00:00",
+    "raw_name": "AccumulateMore/CV"
+  },
+  {
+    "id": "83a56ef8-ed35-5b11-b1d6-2c3d848be9fc",
+    "entity_type": "repository",
+    "name": "gaussian-splatting",
+    "description": "Original reference implementation of \"3D Gaussian Splatting for Real-Time Radiance Field Rendering\"",
+    "url": "https://github.com/graphdeco-inria/gaussian-splatting",
+    "categories": [
+      "computer-graphics",
+      "computer-vision",
+      "new",
+      "radiance-field"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 23225,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:28:39Z",
+      "owner": "graphdeco-inria",
+      "full_name": "graphdeco-inria/gaussian-splatting",
+      "forks": 3358,
+      "open_issues": 713
+    },
+    "first_seen": "2026-08-26T09:29:59.613582+00:00",
+    "raw_name": "graphdeco-inria/gaussian-splatting"
+  },
+  {
+    "id": "9d22de6c-9186-5cd7-9415-5707113cd14c",
+    "entity_type": "repository",
+    "name": "learnopencv",
+    "description": "Learn OpenCV : C++ and Python Examples",
+    "url": "https://github.com/spmallick/learnopencv",
+    "categories": [
+      "ai",
+      "computer-vision",
+      "computervision",
+      "deep-learning",
+      "deep-neural-networks",
+      "deeplearning",
+      "machine-learning",
+      "new",
+      "opencv",
+      "opencv-cpp",
+      "opencv-library"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 23090,
+      "language": "Jupyter Notebook",
+      "last_updated": "2026-08-25T20:48:59Z",
+      "owner": "spmallick",
+      "full_name": "spmallick/learnopencv",
+      "forks": 11667,
+      "open_issues": 220
+    },
+    "first_seen": "2026-08-26T09:29:59.613594+00:00",
+    "raw_name": "spmallick/learnopencv"
+  },
+  {
+    "id": "b56176ab-831e-58e8-a6e1-4a31067c7c28",
+    "entity_type": "repository",
+    "name": "CVPR2026-Papers-with-Code",
+    "description": "CVPR 2026 \u8bba\u6587\u548c\u5f00\u6e90\u9879\u76ee\u5408\u96c6",
+    "url": "https://github.com/amusi/CVPR2026-Papers-with-Code",
+    "categories": [
+      "code-generation",
+      "computer-vision",
+      "cvpr",
+      "cvpr2020",
+      "cvpr2021",
+      "cvpr2022",
+      "cvpr2023",
+      "cvpr2024",
+      "cvpr2025",
+      "cvpr2026",
+      "deep-learning",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 22794,
+      "language": null,
+      "last_updated": "2026-08-25T18:37:23Z",
+      "owner": "amusi",
+      "full_name": "amusi/CVPR2026-Papers-with-Code",
+      "forks": 2797,
+      "open_issues": 29
+    },
+    "first_seen": "2026-08-26T09:29:59.613604+00:00",
+    "raw_name": "amusi/CVPR2026-Papers-with-Code"
+  },
+  {
+    "id": "fc07da38-4209-5665-8804-2f3033c0738d",
+    "entity_type": "mcp",
+    "name": "n8n",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "url": "https://github.com/n8n-io/n8n",
+    "categories": [
+      "ai",
+      "apis",
+      "automation",
+      "cli",
+      "code-generation",
+      "data-flow",
+      "development",
+      "integration-framework",
+      "integrations",
+      "ipaas",
+      "low-code",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 202461,
+      "language": "TypeScript",
+      "last_updated": "2026-08-26T09:21:54Z",
+      "owner": "n8n-io",
+      "full_name": "n8n-io/n8n",
+      "forks": 60391,
+      "open_issues": 1081
+    },
+    "first_seen": "2026-08-26T09:30:00.104160+00:00",
+    "raw_name": "n8n-io/n8n"
+  },
+  {
+    "id": "1a89b01c-6f07-5b5c-b5c2-a81d5989b434",
+    "entity_type": "mcp",
+    "name": "gemini-cli",
+    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+    "url": "https://github.com/google-gemini/gemini-cli",
+    "categories": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "cli",
+      "gemini",
+      "gemini-api",
+      "mcp-client",
+      "mcp-server",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 106692,
+      "language": "TypeScript",
+      "last_updated": "2026-08-26T09:20:25Z",
+      "owner": "google-gemini",
+      "full_name": "google-gemini/gemini-cli",
+      "forks": 14485,
+      "open_issues": 867
+    },
+    "first_seen": "2026-08-26T09:30:00.104207+00:00",
+    "raw_name": "google-gemini/gemini-cli"
+  },
+  {
+    "id": "ffba4305-b79f-53e7-ac0c-ea58736372d4",
+    "entity_type": "mcp",
+    "name": "worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "url": "https://github.com/koala73/worldmonitor",
+    "categories": [
+      "agent",
+      "ai",
+      "dashboard",
+      "geopolitics",
+      "mcp",
+      "mcp-server",
+      "monitoring",
+      "new",
+      "news",
+      "opensource",
+      "osint"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 84176,
+      "language": "TypeScript",
+      "last_updated": "2026-08-26T09:27:32Z",
+      "owner": "koala73",
+      "full_name": "koala73/worldmonitor",
+      "forks": 12618,
+      "open_issues": 402
+    },
+    "first_seen": "2026-08-26T09:30:00.104226+00:00",
+    "raw_name": "koala73/worldmonitor"
+  },
+  {
+    "id": "ecc9e58c-5720-58a1-8171-92c5977e431b",
+    "entity_type": "mcp",
+    "name": "Scrapling",
+    "description": "\ud83d\udd77\ufe0f An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+    "url": "https://github.com/D4Vinci/Scrapling",
+    "categories": [
+      "ai",
+      "ai-scraping",
+      "automation",
+      "crawler",
+      "crawling",
+      "crawling-python",
+      "data",
+      "data-extraction",
+      "mcp",
+      "mcp-server",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 76572,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:21:24Z",
+      "owner": "D4Vinci",
+      "full_name": "D4Vinci/Scrapling",
+      "forks": 7655,
+      "open_issues": 0
+    },
+    "first_seen": "2026-08-26T09:30:00.104242+00:00",
+    "raw_name": "D4Vinci/Scrapling"
+  },
+  {
+    "id": "89022ec3-e28f-5a0e-b638-e6e4212ba901",
+    "entity_type": "mcp",
+    "name": "ruflo",
+    "description": "\ud83c\udf0a The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "url": "https://github.com/ruvnet/ruflo",
+    "categories": [
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "agents",
+      "ai-agents",
+      "ai-assistant",
+      "ai-skills",
+      "autonomous-agents",
+      "claude-code",
+      "code-generation",
+      "codex",
+      "new",
+      "retrieval-augmented-generation"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 69436,
+      "language": "TypeScript",
+      "last_updated": "2026-08-26T09:29:20Z",
+      "owner": "ruvnet",
+      "full_name": "ruvnet/ruflo",
+      "forks": 8301,
+      "open_issues": 847
+    },
+    "first_seen": "2026-08-26T09:30:00.104256+00:00",
+    "raw_name": "ruvnet/ruflo"
+  },
+  {
+    "id": "52c638ba-4f20-51e1-8e87-718108757545",
+    "entity_type": "mcp",
+    "name": "TrendRadar",
+    "description": "\u2b50AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.\ud83c\udfaf \u544a\u522b\u4fe1\u606f\u8fc7\u8f7d\uff0c\u4f60\u7684 AI \u8206\u60c5\u76d1\u63a7\u52a9\u624b\u4e0e\u70ed\u70b9\u7b5b\u9009\u5de5\u5177\uff01\u805a\u5408\u591a\u5e73\u53f0\u70ed\u70b9 + RSS \u8ba2\u9605\uff0c\u652f\u6301\u5173\u952e\u8bcd\u7cbe\u51c6\u7b5b\u9009\u3002AI \u667a\u80fd\u7b5b\u9009\u65b0\u95fb + AI \u7ffb\u8bd1 + AI \u5206\u6790\u7b80\u62a5\u76f4\u63a8\u624b\u673a\uff0c\u4e5f\u652f\u6301\u63a5\u5165 MCP \u67b6\u6784\uff0c\u8d4b\u80fd AI \u81ea\u7136\u8bed\u8a00\u5bf9\u8bdd\u5206\u6790\u3001\u60c5\u611f\u6d1e\u5bdf\u4e0e\u8d8b\u52bf\u9884\u6d4b\u7b49\u3002\u652f\u6301 Docker \uff0c\u6570\u636e\u672c\u5730/\u4e91\u7aef\u81ea\u6301\u3002\u96c6\u6210\u5fae\u4fe1/\u98de\u4e66/\u9489\u9489/Telegram/\u90ae\u4ef6/ntfy/bark/slack \u7b49\u6e20\u9053\u667a\u80fd\u63a8\u9001\u3002",
+    "url": "https://github.com/sansan0/TrendRadar",
+    "categories": [
+      "ai",
+      "bark",
+      "data-analysis",
+      "docker",
+      "hot-news",
+      "llm",
+      "mail",
+      "mcp",
+      "mcp-server",
+      "new",
+      "news"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 61845,
+      "language": "Python",
+      "last_updated": "2026-08-26T08:44:53Z",
+      "owner": "sansan0",
+      "full_name": "sansan0/TrendRadar",
+      "forks": 24874,
+      "open_issues": 61
+    },
+    "first_seen": "2026-08-26T09:30:00.104271+00:00",
+    "raw_name": "sansan0/TrendRadar"
+  },
+  {
+    "id": "64a257dd-abf1-55df-be80-8a857989f6e6",
+    "entity_type": "mcp",
+    "name": "context7",
+    "description": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
+    "url": "https://github.com/upstash/context7",
+    "categories": [
+      "code-generation",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "new",
+      "vibe-coding"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 61233,
+      "language": "TypeScript",
+      "last_updated": "2026-08-26T09:24:29Z",
+      "owner": "upstash",
+      "full_name": "upstash/context7",
+      "forks": 2950,
+      "open_issues": 57
+    },
+    "first_seen": "2026-08-26T09:30:00.104284+00:00",
+    "raw_name": "upstash/context7"
+  },
+  {
+    "id": "90503212-9ed3-5244-b62e-3f5257ffd9b9",
+    "entity_type": "mcp",
+    "name": "chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "categories": [
+      "agents",
+      "browser",
+      "chrome",
+      "chrome-devtools",
+      "debugging",
+      "devtools",
+      "mcp",
+      "mcp-server",
+      "new",
+      "puppeteer"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 49731,
+      "language": "TypeScript",
+      "last_updated": "2026-08-26T09:22:07Z",
+      "owner": "ChromeDevTools",
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "forks": 3483,
+      "open_issues": 92
+    },
+    "first_seen": "2026-08-26T09:30:00.104298+00:00",
+    "raw_name": "ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "id": "e3080c4c-6ac1-574d-bdf6-6e03e761a62a",
+    "entity_type": "mcp",
+    "name": "reactive-resume",
+    "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+    "url": "https://github.com/amruthpillai/reactive-resume",
+    "categories": [
+      "agent-skills",
+      "ai",
+      "dsh-plugin",
+      "hacktoberfest",
+      "javascript",
+      "mcp-server",
+      "new",
+      "react",
+      "resume-builder",
+      "self-hosted",
+      "typescript"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 41750,
+      "language": "TypeScript",
+      "last_updated": "2026-08-26T09:23:34Z",
+      "owner": "amruthpillai",
+      "full_name": "amruthpillai/reactive-resume",
+      "forks": 4668,
+      "open_issues": 118
+    },
+    "first_seen": "2026-08-26T09:30:00.104310+00:00",
+    "raw_name": "amruthpillai/reactive-resume"
+  },
+  {
+    "id": "711fa9c5-4713-5b73-8dc4-d6d5cc2a53ed",
+    "entity_type": "mcp",
+    "name": "codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "url": "https://github.com/DeusData/codebase-memory-mcp",
+    "categories": [
+      "aider",
+      "ast",
+      "claude-code",
+      "code-analysis",
+      "code-generation",
+      "code-intelligence",
+      "codex",
+      "cursor",
+      "cypher",
+      "developer-tools",
+      "gemini-cli",
+      "new",
+      "retrieval-augmented-generation"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 40697,
+      "language": "C",
+      "last_updated": "2026-08-26T09:27:51Z",
+      "owner": "DeusData",
+      "full_name": "DeusData/codebase-memory-mcp",
+      "forks": 3300,
+      "open_issues": 512
+    },
+    "first_seen": "2026-08-26T09:30:00.104323+00:00",
+    "raw_name": "DeusData/codebase-memory-mcp"
+  },
+  {
+    "id": "5ed79d56-b2de-5d25-8e15-ff15fbb69246",
+    "entity_type": "mcp",
+    "name": "UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+    "url": "https://github.com/bytedance/UI-TARS-desktop",
+    "categories": [
+      "agent",
+      "agent-tars",
+      "agents",
+      "browser-use",
+      "computer-use",
+      "cowork",
+      "gui-agent",
+      "gui-operator",
+      "mcp",
+      "mcp-server",
+      "multimodal",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 38708,
+      "language": "TypeScript",
+      "last_updated": "2026-08-26T05:27:51Z",
+      "owner": "bytedance",
+      "full_name": "bytedance/UI-TARS-desktop",
+      "forks": 3910,
+      "open_issues": 426
+    },
+    "first_seen": "2026-08-26T09:30:00.104343+00:00",
+    "raw_name": "bytedance/UI-TARS-desktop"
+  },
+  {
+    "id": "9eaa3e8d-b52b-5097-a62f-8e5c851f0c2f",
+    "entity_type": "mcp",
+    "name": "github-mcp-server",
+    "description": "GitHub's official MCP Server",
+    "url": "https://github.com/github/github-mcp-server",
+    "categories": [
+      "github",
+      "mcp",
+      "mcp-server",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 32517,
+      "language": "Go",
+      "last_updated": "2026-08-26T08:46:57Z",
+      "owner": "github",
+      "full_name": "github/github-mcp-server",
+      "forks": 4857,
+      "open_issues": 327
+    },
+    "first_seen": "2026-08-26T09:30:00.104355+00:00",
+    "raw_name": "github/github-mcp-server"
+  },
+  {
+    "id": "0bb231b0-c302-5237-86b1-373bb8feeeaf",
+    "entity_type": "mcp",
+    "name": "gpt-researcher",
+    "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
+    "url": "https://github.com/assafelovic/gpt-researcher",
+    "categories": [
+      "agent",
+      "agents",
+      "ai",
+      "automation",
+      "deepresearch",
+      "llms",
+      "mcp",
+      "mcp-server",
+      "new",
+      "python",
+      "research",
+      "search"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 29156,
+      "language": "Python",
+      "last_updated": "2026-08-26T08:31:32Z",
+      "owner": "assafelovic",
+      "full_name": "assafelovic/gpt-researcher",
+      "forks": 3957,
+      "open_issues": 51
+    },
+    "first_seen": "2026-08-26T09:30:00.104369+00:00",
+    "raw_name": "assafelovic/gpt-researcher"
+  },
+  {
+    "id": "7f0e11d1-aa4d-59a7-b9d4-4e27aecb52b6",
+    "entity_type": "mcp",
+    "name": "serena",
+    "description": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities - the IDE for your agent",
+    "url": "https://github.com/oraios/serena",
+    "categories": [
+      "agent",
+      "agents",
+      "ai",
+      "ai-coding",
+      "claude",
+      "claude-code",
+      "codex",
+      "ide",
+      "jetbrains",
+      "language-server",
+      "mcp-server",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 28503,
+      "language": "Python",
+      "last_updated": "2026-08-26T08:33:26Z",
+      "owner": "oraios",
+      "full_name": "oraios/serena",
+      "forks": 1917,
+      "open_issues": 146
+    },
+    "first_seen": "2026-08-26T09:30:00.104384+00:00",
+    "raw_name": "oraios/serena"
+  },
+  {
+    "id": "4e4d4b08-ee2d-5a72-aa07-e3c149594928",
+    "entity_type": "mcp",
+    "name": "python-sdk",
+    "description": "The official Python SDK for Model Context Protocol servers and clients",
+    "url": "https://github.com/modelcontextprotocol/python-sdk",
+    "categories": [
+      "mcp",
+      "mcp-client",
+      "mcp-server",
+      "new",
+      "python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 24125,
+      "language": "Python",
+      "last_updated": "2026-08-26T06:00:59Z",
+      "owner": "modelcontextprotocol",
+      "full_name": "modelcontextprotocol/python-sdk",
+      "forks": 3842,
+      "open_issues": 399
+    },
+    "first_seen": "2026-08-26T09:30:00.104395+00:00",
+    "raw_name": "modelcontextprotocol/python-sdk"
+  },
+  {
+    "id": "133e706a-31cb-5ba5-aa20-f054f4213741",
+    "entity_type": "mcp",
+    "name": "activepieces",
+    "description": "AI Agents & MCPs & AI Workflow Automation \u2022 (~400 MCP servers for AI agents) \u2022 AI Automation / AI Agent with MCPs \u2022 AI Workflows & AI Agents \u2022 MCPs for AI Agents",
+    "url": "https://github.com/activepieces/activepieces",
+    "categories": [
+      "agents",
+      "ai-agent",
+      "ai-agent-tools",
+      "ai-agents",
+      "ai-agents-framework",
+      "mcp",
+      "mcp-server",
+      "mcp-tools",
+      "mcps",
+      "n8n-alternative",
+      "new",
+      "no-code-automation"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 24040,
+      "language": "TypeScript",
+      "last_updated": "2026-08-26T09:19:22Z",
+      "owner": "activepieces",
+      "full_name": "activepieces/activepieces",
+      "forks": 4102,
+      "open_issues": 493
+    },
+    "first_seen": "2026-08-26T09:30:00.104408+00:00",
+    "raw_name": "activepieces/activepieces"
+  },
+  {
+    "id": "49f41fb4-f59c-5483-9c69-0169d5fa2b41",
+    "entity_type": "mcp",
+    "name": "n8n-mcp",
+    "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+    "url": "https://github.com/czlonkowski/n8n-mcp",
+    "categories": [
+      "code-generation",
+      "mcp",
+      "mcp-server",
+      "n8n",
+      "new",
+      "workflows"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 22783,
+      "language": "TypeScript",
+      "last_updated": "2026-08-26T09:22:04Z",
+      "owner": "czlonkowski",
+      "full_name": "czlonkowski/n8n-mcp",
+      "forks": 3632,
+      "open_issues": 63
+    },
+    "first_seen": "2026-08-26T09:30:00.104422+00:00",
+    "raw_name": "czlonkowski/n8n-mcp"
+  },
+  {
+    "id": "5edf3d79-3050-59d8-bc0e-89a9816c97b0",
+    "entity_type": "mcp",
+    "name": "MaxKB",
+    "description": "\ud83d\udd25 MaxKB is an open-source platform for building enterprise-grade agents. \u5f3a\u5927\u6613\u7528\u7684\u5f00\u6e90\u4f01\u4e1a\u7ea7\u667a\u80fd\u4f53\u5e73\u53f0\u3002",
+    "url": "https://github.com/1Panel-dev/MaxKB",
+    "categories": [
+      "agent",
+      "agentic-ai",
+      "agents",
+      "chatbot",
+      "deepseek-r1",
+      "knowledgebase",
+      "langchain",
+      "llama3",
+      "llm",
+      "maxkb",
+      "mcp-server",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 22608,
+      "language": "Python",
+      "last_updated": "2026-08-26T08:37:29Z",
+      "owner": "1Panel-dev",
+      "full_name": "1Panel-dev/MaxKB",
+      "forks": 3120,
+      "open_issues": 28
+    },
+    "first_seen": "2026-08-26T09:30:00.104434+00:00",
+    "raw_name": "1Panel-dev/MaxKB"
+  },
+  {
+    "id": "9ad5db70-78aa-5319-aa4a-a50662f861e0",
+    "entity_type": "mcp",
+    "name": "context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "url": "https://github.com/mksglu/context-mode",
+    "categories": [
+      "agents",
+      "antigravity",
+      "claude",
+      "claude-code",
+      "claude-code-hooks",
+      "claude-code-plugins",
+      "claude-code-skill",
+      "codex",
+      "codex-cli",
+      "context-mode",
+      "copilot",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 20153,
+      "language": "TypeScript",
+      "last_updated": "2026-08-26T08:57:19Z",
+      "owner": "mksglu",
+      "full_name": "mksglu/context-mode",
+      "forks": 1460,
+      "open_issues": 181
+    },
+    "first_seen": "2026-08-26T09:30:00.104445+00:00",
+    "raw_name": "mksglu/context-mode"
+  },
+  {
+    "id": "bb6845a5-dfc7-5a9b-a5ba-53ddcf501258",
+    "entity_type": "mcp",
+    "name": "FunASR",
+    "description": "Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving.",
+    "url": "https://github.com/modelscope/FunASR",
+    "categories": [
+      "asr",
+      "audio",
+      "chinese",
+      "emotion-recognition",
+      "funasr",
+      "mcp-server",
+      "multilingual-asr",
+      "new",
+      "openai-compatible-api",
+      "paraformer",
+      "punctuation",
+      "speech"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 20026,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:11:06Z",
+      "owner": "modelscope",
+      "full_name": "modelscope/FunASR",
+      "forks": 2005,
+      "open_issues": 8
+    },
+    "first_seen": "2026-08-26T09:30:00.104457+00:00",
+    "raw_name": "modelscope/FunASR"
+  },
+  {
+    "id": "641af974-2fb6-5cd0-aacf-5268168aabc4",
+    "entity_type": "mcp",
+    "name": "nanobot",
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
+    "url": "https://github.com/HKUDS/nanobot",
+    "categories": [
+      "agent-framework",
+      "agents",
+      "ai-agent",
+      "ai-agents",
+      "chatbot",
+      "chatops",
+      "conversational-ai",
+      "discord-bot",
+      "llm-agents",
+      "llms",
+      "local-llm",
+      "mcp",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 47413,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:23:39Z",
+      "owner": "HKUDS",
+      "full_name": "HKUDS/nanobot",
+      "forks": 8369,
+      "open_issues": 741
+    },
+    "first_seen": "2026-08-26T09:30:00.879494+00:00",
+    "raw_name": "HKUDS/nanobot"
+  },
+  {
+    "id": "740962fd-e5cd-5f6e-b5fb-95e16db4b1de",
+    "entity_type": "mcp",
+    "name": "fastmcp",
+    "description": "\ud83d\ude80 The fast, Pythonic way to build MCP servers and clients.",
+    "url": "https://github.com/PrefectHQ/fastmcp",
+    "categories": [
+      "agents",
+      "fastmcp",
+      "llms",
+      "mcp",
+      "mcp-clients",
+      "mcp-servers",
+      "mcp-tools",
+      "model-context-protocol",
+      "new",
+      "python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 27386,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:22:17Z",
+      "owner": "PrefectHQ",
+      "full_name": "PrefectHQ/fastmcp",
+      "forks": 2270,
+      "open_issues": 284
+    },
+    "first_seen": "2026-08-26T09:30:00.879552+00:00",
+    "raw_name": "PrefectHQ/fastmcp"
+  },
+  {
+    "id": "b75605e9-2466-534c-a32e-4b42d90a74f5",
+    "entity_type": "mcp",
+    "name": "blender-mcp",
+    "description": "Community plugin to control Blender 3D with any LLM of your choice",
+    "url": "https://github.com/ahujasid/blender-mcp",
+    "categories": [
+      "3d-modeling",
+      "ai",
+      "blender",
+      "blender-addon",
+      "claude",
+      "generative-ai",
+      "llm",
+      "mcp",
+      "model-context-protocol",
+      "new",
+      "python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 26316,
+      "language": "Python",
+      "last_updated": "2026-08-26T08:24:36Z",
+      "owner": "ahujasid",
+      "full_name": "ahujasid/blender-mcp",
+      "forks": 2491,
+      "open_issues": 17
+    },
+    "first_seen": "2026-08-26T09:30:00.879567+00:00",
+    "raw_name": "ahujasid/blender-mcp"
+  },
+  {
+    "id": "dac4e127-75c7-5c65-bbfc-5b0bdfcb2f8c",
+    "entity_type": "mcp",
+    "name": "mcp-for-beginners",
+    "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
+    "url": "https://github.com/microsoft/mcp-for-beginners",
+    "categories": [
+      "csharp",
+      "java",
+      "javascript",
+      "javascript-applications",
+      "mcp",
+      "mcp-client",
+      "mcp-security",
+      "mcp-server",
+      "model",
+      "model-context-protocol",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 17081,
+      "language": "Jupyter Notebook",
+      "last_updated": "2026-08-26T08:42:40Z",
+      "owner": "microsoft",
+      "full_name": "microsoft/mcp-for-beginners",
+      "forks": 5558,
+      "open_issues": 5
+    },
+    "first_seen": "2026-08-26T09:30:00.879585+00:00",
+    "raw_name": "microsoft/mcp-for-beginners"
+  },
+  {
+    "id": "2d4fb640-d62e-5916-9bed-3b1cc1dd7a59",
+    "entity_type": "mcp",
+    "name": "unity-mcp",
+    "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+    "url": "https://github.com/CoplayDev/unity-mcp",
+    "categories": [
+      "ai",
+      "ai-integration",
+      "anthropic",
+      "claude",
+      "conversational-ai",
+      "copilot",
+      "cursor",
+      "game-development",
+      "gamedev",
+      "gemini",
+      "llm",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 13665,
+      "language": "C#",
+      "last_updated": "2026-08-26T08:49:24Z",
+      "owner": "CoplayDev",
+      "full_name": "CoplayDev/unity-mcp",
+      "forks": 1451,
+      "open_issues": 94
+    },
+    "first_seen": "2026-08-26T09:30:00.879597+00:00",
+    "raw_name": "CoplayDev/unity-mcp"
+  },
+  {
+    "id": "c3030ec3-e850-5779-bb87-7d2893d78308",
+    "entity_type": "mcp",
+    "name": "holaOS",
+    "description": "Open-source agentic workspace enterprises can make their own. Connect the systems you already run \u2014 100+ integrations, MCP, chat tools, apps, browser, local files \u2014 with shared memory. Any agent (Claude Code, Codex), any model, or BYOK. Set up in clicks, not months. Local-first: your data never leaves your machines.",
+    "url": "https://github.com/holaboss-ai/holaOS",
+    "categories": [
+      "agent",
+      "agent-harness",
+      "agent-os",
+      "agentic",
+      "agents",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "artificial-intelligence",
+      "claude-code",
+      "code-generation",
+      "codex",
+      "conversational-ai",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 10896,
+      "language": "TypeScript",
+      "last_updated": "2026-08-26T09:17:58Z",
+      "owner": "holaboss-ai",
+      "full_name": "holaboss-ai/holaOS",
+      "forks": 713,
+      "open_issues": 6
+    },
+    "first_seen": "2026-08-26T09:30:00.879609+00:00",
+    "raw_name": "holaboss-ai/holaOS"
+  },
+  {
+    "id": "049ab7a7-28fa-5579-ba35-e74e111af544",
+    "entity_type": "mcp",
+    "name": "mcp-use",
+    "description": "The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.",
+    "url": "https://github.com/mcp-use/mcp-use",
+    "categories": [
+      "agent-plugins",
+      "agentic-framework",
+      "agents",
+      "ai",
+      "apps-sdk",
+      "chatgpt",
+      "claude-code",
+      "claude-connectors",
+      "conversational-ai",
+      "llms",
+      "mcp",
+      "mcp-apps",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 10526,
+      "language": "TypeScript",
+      "last_updated": "2026-08-26T03:26:32Z",
+      "owner": "mcp-use",
+      "full_name": "mcp-use/mcp-use",
+      "forks": 1420,
+      "open_issues": 64
+    },
+    "first_seen": "2026-08-26T09:30:00.879663+00:00",
+    "raw_name": "mcp-use/mcp-use"
+  },
+  {
+    "id": "94224a8f-38d0-5f24-a2b9-17e16ff48c28",
+    "entity_type": "mcp",
+    "name": "mcp-agent",
+    "description": "Build effective agents using Model Context Protocol and simple workflow patterns",
+    "url": "https://github.com/lastmile-ai/mcp-agent",
+    "categories": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "llm",
+      "llms",
+      "mcp",
+      "model-context-protocol",
+      "new",
+      "python"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 8518,
+      "language": "Python",
+      "last_updated": "2026-08-24T09:28:00Z",
+      "owner": "lastmile-ai",
+      "full_name": "lastmile-ai/mcp-agent",
+      "forks": 879,
+      "open_issues": 134
+    },
+    "first_seen": "2026-08-26T09:30:00.879685+00:00",
+    "raw_name": "lastmile-ai/mcp-agent"
+  },
+  {
+    "id": "f369e006-58fe-5f53-9da0-dbefec6b47c2",
+    "entity_type": "mcp",
+    "name": "Upsonic",
+    "description": "Build autonomous AI agents in Python.",
+    "url": "https://github.com/Upsonic/Upsonic",
+    "categories": [
+      "agent",
+      "agent-framework",
+      "agents",
+      "autonomous-agent",
+      "autonomous-agents",
+      "claude",
+      "computer-use",
+      "llms",
+      "mcp",
+      "model-context-protocol",
+      "new",
+      "openai"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 7946,
+      "language": "Python",
+      "last_updated": "2026-08-26T03:41:04Z",
+      "owner": "Upsonic",
+      "full_name": "Upsonic/Upsonic",
+      "forks": 745,
+      "open_issues": 32
+    },
+    "first_seen": "2026-08-26T09:30:00.879701+00:00",
+    "raw_name": "Upsonic/Upsonic"
+  },
+  {
+    "id": "9c85d82c-ec83-510d-acd0-1f3aa0e53640",
+    "entity_type": "mcp",
+    "name": "firecrawl-mcp-server",
+    "description": "\ud83d\udd25 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.",
+    "url": "https://github.com/firecrawl/firecrawl-mcp-server",
+    "categories": [
+      "batch-processing",
+      "claude",
+      "content-extraction",
+      "data-collection",
+      "firecrawl",
+      "firecrawl-ai",
+      "javascript-rendering",
+      "llm-tools",
+      "mcp",
+      "mcp-server",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 7320,
+      "language": "JavaScript",
+      "last_updated": "2026-08-26T09:00:43Z",
+      "owner": "firecrawl",
+      "full_name": "firecrawl/firecrawl-mcp-server",
+      "forks": 862,
+      "open_issues": 157
+    },
+    "first_seen": "2026-08-26T09:30:00.879716+00:00",
+    "raw_name": "firecrawl/firecrawl-mcp-server"
+  },
+  {
+    "id": "0318ce78-1cc8-550b-9d20-48217374bdcd",
+    "entity_type": "mcp",
+    "name": "cursor-talk-to-figma-mcp",
+    "description": "TalkToFigma: MCP integration between AI Agent (Cursor, Claude Code, Codex) and Figma, allowing Agentic AI to communicate with Figma for reading designs and modifying them programmatically.",
+    "url": "https://github.com/grab/cursor-talk-to-figma-mcp",
+    "categories": [
+      "agent",
+      "agentic",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "code-generation",
+      "codex",
+      "cursor",
+      "design",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 6986,
+      "language": "JavaScript",
+      "last_updated": "2026-08-26T09:22:03Z",
+      "owner": "grab",
+      "full_name": "grab/cursor-talk-to-figma-mcp",
+      "forks": 771,
+      "open_issues": 87
+    },
+    "first_seen": "2026-08-26T09:30:00.879728+00:00",
+    "raw_name": "grab/cursor-talk-to-figma-mcp"
+  },
+  {
+    "id": "c0313812-6c88-5a38-b9ea-4e15d545deba",
+    "entity_type": "mcp",
+    "name": "awesome-agentic-ai-zh",
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. \u4e2d\u6587 AI agent \u5b78\u7fd2\u5730\u5716\u3002",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+    "categories": [
+      "agentic-ai",
+      "agentic-workflows",
+      "agents",
+      "ai-agent",
+      "ai-agents",
+      "awesome-list",
+      "chinese-llm",
+      "claude-code",
+      "claude-skills",
+      "cli",
+      "learning-roadmap",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 6407,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:14:37Z",
+      "owner": "WenyuChiou",
+      "full_name": "WenyuChiou/awesome-agentic-ai-zh",
+      "forks": 857,
+      "open_issues": 3
+    },
+    "first_seen": "2026-08-26T09:30:00.879740+00:00",
+    "raw_name": "WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "id": "9536758d-b441-519f-882f-7a49a8a8cc57",
+    "entity_type": "mcp",
+    "name": "XcodeBuildMCP",
+    "description": "A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.",
+    "url": "https://github.com/getsentry/XcodeBuildMCP",
+    "categories": [
+      "agents",
+      "code-generation",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "model-context-protocol-servers",
+      "new",
+      "tag-production",
+      "xcode",
+      "xcodebuild"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 6288,
+      "language": "TypeScript",
+      "last_updated": "2026-08-26T06:44:23Z",
+      "owner": "getsentry",
+      "full_name": "getsentry/XcodeBuildMCP",
+      "forks": 314,
+      "open_issues": 22
+    },
+    "first_seen": "2026-08-26T09:30:00.879754+00:00",
+    "raw_name": "getsentry/XcodeBuildMCP"
+  },
+  {
+    "id": "4b9bb17c-43e4-5508-ba8d-916784a9c812",
+    "entity_type": "mcp",
+    "name": "semble",
+    "description": "Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read",
+    "url": "https://github.com/MinishLab/semble",
+    "categories": [
+      "agents",
+      "code-generation",
+      "code-search",
+      "embeddings",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "new",
+      "retrieval"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 5953,
+      "language": "Python",
+      "last_updated": "2026-08-26T04:48:39Z",
+      "owner": "MinishLab",
+      "full_name": "MinishLab/semble",
+      "forks": 257,
+      "open_issues": 1
+    },
+    "first_seen": "2026-08-26T09:30:00.879770+00:00",
+    "raw_name": "MinishLab/semble"
+  },
+  {
+    "id": "821070e7-912f-5198-a53c-f6d43a597237",
+    "entity_type": "mcp",
+    "name": "awesome-mcp-servers",
+    "description": "Awesome MCP Servers - A curated list of Model Context Protocol servers",
+    "url": "https://github.com/appcypher/awesome-mcp-servers",
+    "categories": [
+      "ai",
+      "anthropic-claude",
+      "awesome",
+      "context",
+      "mcp",
+      "model-context-protocol",
+      "new",
+      "servers",
+      "tool-use",
+      "tools"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 5757,
+      "language": null,
+      "last_updated": "2026-08-25T17:39:49Z",
+      "owner": "appcypher",
+      "full_name": "appcypher/awesome-mcp-servers",
+      "forks": 2239,
+      "open_issues": 526
+    },
+    "first_seen": "2026-08-26T09:30:00.879782+00:00",
+    "raw_name": "appcypher/awesome-mcp-servers"
+  },
+  {
+    "id": "322f6fe2-98d8-5acc-9d4f-74319785fd70",
+    "entity_type": "mcp",
+    "name": "magic-mcp",
+    "description": "It's like v0, but in your Cursor / Claude Code / Windsurf: search 10,000+ React/Tailwind components, generate new UI with AI, and publish your own \u2014 right from your editor. Magic MCP is now the 21st MCP; this package keeps old configs working. Setup: 21st.dev/mcp",
+    "url": "https://github.com/21st-dev/magic-mcp",
+    "categories": [
+      "21st",
+      "claude",
+      "code-generation",
+      "cursor",
+      "mcp",
+      "model-context-protocol",
+      "new",
+      "react",
+      "tailwindcss",
+      "ui-components"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 5729,
+      "language": "JavaScript",
+      "last_updated": "2026-08-26T08:10:40Z",
+      "owner": "21st-dev",
+      "full_name": "21st-dev/magic-mcp",
+      "forks": 440,
+      "open_issues": 1
+    },
+    "first_seen": "2026-08-26T09:30:00.879793+00:00",
+    "raw_name": "21st-dev/magic-mcp"
+  },
+  {
+    "id": "5bb91106-b3f4-5ea3-9d9f-3ad06632d736",
+    "entity_type": "mcp",
+    "name": "openagent",
+    "description": "\u26a1\ufe0fnext-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org",
+    "url": "https://github.com/the-open-agent/openagent",
+    "categories": [
+      "agent",
+      "agentic",
+      "agentic-ai",
+      "agents",
+      "agi",
+      "chatbot",
+      "chatgpt",
+      "conversational-ai",
+      "gpt",
+      "harness",
+      "hermes-agent",
+      "knowledge-base",
+      "new",
+      "retrieval-augmented-generation"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 5569,
+      "language": "Go",
+      "last_updated": "2026-08-26T08:41:31Z",
+      "owner": "the-open-agent",
+      "full_name": "the-open-agent/openagent",
+      "forks": 647,
+      "open_issues": 48
+    },
+    "first_seen": "2026-08-26T09:30:00.879803+00:00",
+    "raw_name": "the-open-agent/openagent"
+  },
+  {
+    "id": "af183285-1495-5669-9ca0-18a7fb63a309",
+    "entity_type": "mcp",
+    "name": "5ire",
+    "description": "5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers, supports local knowledge base and tools via model context protocol servers .",
+    "url": "https://github.com/nanbingxyz/5ire",
+    "categories": [
+      "conversational-ai",
+      "knowledge-base",
+      "llms",
+      "mcp",
+      "mcp-client",
+      "model-context-protocol",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 5346,
+      "language": "TypeScript",
+      "last_updated": "2026-08-25T21:21:42Z",
+      "owner": "nanbingxyz",
+      "full_name": "nanbingxyz/5ire",
+      "forks": 425,
+      "open_issues": 73
+    },
+    "first_seen": "2026-08-26T09:30:00.879814+00:00",
+    "raw_name": "nanbingxyz/5ire"
+  },
+  {
+    "id": "7821f4f1-bd79-5f90-835b-1bca48e0f671",
+    "entity_type": "mcp",
+    "name": "open-connector",
+    "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+    "url": "https://github.com/oomol-lab/open-connector",
+    "categories": [
+      "agent-tools",
+      "agents",
+      "ai-agents",
+      "api-gateway",
+      "automation",
+      "cli",
+      "cloudflare-workers",
+      "connectors",
+      "integration-platform",
+      "mcp",
+      "model-context-protocol",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 5289,
+      "language": "TypeScript",
+      "last_updated": "2026-08-26T08:24:03Z",
+      "owner": "oomol-lab",
+      "full_name": "oomol-lab/open-connector",
+      "forks": 447,
+      "open_issues": 4
+    },
+    "first_seen": "2026-08-26T09:30:00.879826+00:00",
+    "raw_name": "oomol-lab/open-connector"
+  },
+  {
+    "id": "736e9cb9-522a-58c2-9512-1c7492eeab94",
+    "entity_type": "collection",
+    "name": "awesome-deepseek-integration",
+    "description": "Integrate the DeepSeek API into popular software",
+    "url": "https://github.com/deepseek-ai/awesome-deepseek-integration",
+    "categories": [
+      "awesome",
+      "deepseek",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 38964,
+      "language": null,
+      "last_updated": "2026-08-26T07:53:33Z",
+      "owner": "deepseek-ai",
+      "full_name": "deepseek-ai/awesome-deepseek-integration",
+      "forks": 4249,
+      "open_issues": 144
+    },
+    "first_seen": "2026-08-26T09:30:33.735796+00:00",
+    "raw_name": "deepseek-ai/awesome-deepseek-integration"
+  },
+  {
+    "id": "e9ce748c-2bef-50d2-a763-aa81a10f1132",
+    "entity_type": "collection",
+    "name": "awesome-ai-research-writing",
+    "description": "Elevate your AI research writing, no more tedious polishing \u2728",
+    "url": "https://github.com/Leey21/awesome-ai-research-writing",
+    "categories": [
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 33341,
+      "language": null,
+      "last_updated": "2026-08-26T09:11:56Z",
+      "owner": "Leey21",
+      "full_name": "Leey21/awesome-ai-research-writing",
+      "forks": 2448,
+      "open_issues": 15
+    },
+    "first_seen": "2026-08-26T09:30:33.735849+00:00",
+    "raw_name": "Leey21/awesome-ai-research-writing"
+  },
+  {
+    "id": "bc92136e-5916-56d1-b52f-7f8bd0f7af10",
+    "entity_type": "collection",
+    "name": "awesome-ai-agents",
+    "description": "A list of AI autonomous agents",
+    "url": "https://github.com/e2b-dev/awesome-ai-agents",
+    "categories": [
+      "agent",
+      "agents",
+      "ai",
+      "artificial-intelligence",
+      "autogpt",
+      "autonomous-agents",
+      "awesome",
+      "babyagi",
+      "copilot",
+      "gpt",
+      "gpt-4",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 29683,
+      "language": null,
+      "last_updated": "2026-08-26T08:02:23Z",
+      "owner": "e2b-dev",
+      "full_name": "e2b-dev/awesome-ai-agents",
+      "forks": 3367,
+      "open_issues": 956
+    },
+    "first_seen": "2026-08-26T09:30:33.735868+00:00",
+    "raw_name": "e2b-dev/awesome-ai-agents"
+  },
+  {
+    "id": "91c3244b-b06c-5dcd-b7dc-b657c3f41d0c",
+    "entity_type": "collection",
+    "name": "awesome-generative-ai-guide",
+    "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+    "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+    "categories": [
+      "awesome",
+      "awesome-list",
+      "generative-ai",
+      "interview-questions",
+      "large-language-models",
+      "llms",
+      "new",
+      "notebook-jupyter",
+      "vision-and-language"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 28897,
+      "language": "HTML",
+      "last_updated": "2026-08-26T09:00:26Z",
+      "owner": "aishwaryanr",
+      "full_name": "aishwaryanr/awesome-generative-ai-guide",
+      "forks": 5885,
+      "open_issues": 8
+    },
+    "first_seen": "2026-08-26T09:30:33.735883+00:00",
+    "raw_name": "aishwaryanr/awesome-generative-ai-guide"
+  },
+  {
+    "id": "ef87d5b2-7bb7-576e-b1f7-93047fbbf21f",
+    "entity_type": "collection",
+    "name": "awesome-ai-apps",
+    "description": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases",
+    "url": "https://github.com/Arindam200/awesome-ai-apps",
+    "categories": [
+      "agents",
+      "ai",
+      "hacktoberfest",
+      "llm",
+      "mcp",
+      "new",
+      "retrieval-augmented-generation"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 13502,
+      "language": "Python",
+      "last_updated": "2026-08-26T07:21:50Z",
+      "owner": "Arindam200",
+      "full_name": "Arindam200/awesome-ai-apps",
+      "forks": 1763,
+      "open_issues": 66
+    },
+    "first_seen": "2026-08-26T09:30:33.735897+00:00",
+    "raw_name": "Arindam200/awesome-ai-apps"
+  },
+  {
+    "id": "2945eaba-68ef-5d80-b101-e3a94e7786ce",
+    "entity_type": "collection",
+    "name": "awesome-generative-ai",
+    "description": "A curated list of modern Generative Artificial Intelligence projects and services",
+    "url": "https://github.com/steven2358/awesome-generative-ai",
+    "categories": [
+      "ai",
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "generative-ai",
+      "generative-art",
+      "large-language-models",
+      "llm",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 12534,
+      "language": null,
+      "last_updated": "2026-08-26T09:04:35Z",
+      "owner": "steven2358",
+      "full_name": "steven2358/awesome-generative-ai",
+      "forks": 2023,
+      "open_issues": 607
+    },
+    "first_seen": "2026-08-26T09:30:33.735911+00:00",
+    "raw_name": "steven2358/awesome-generative-ai"
+  },
+  {
+    "id": "d8386b3f-e58a-5df9-a6e9-4c118e8b04ed",
+    "entity_type": "collection",
+    "name": "awesome-ai-painting",
+    "description": "AI\u7ed8\u753b\u8d44\u6599\u5408\u96c6\uff08\u5305\u542b\u56fd\u5185\u5916\u53ef\u4f7f\u7528\u5e73\u53f0\u3001\u4f7f\u7528\u6559\u7a0b\u3001\u53c2\u6570\u6559\u7a0b\u3001\u90e8\u7f72\u6559\u7a0b\u3001\u4e1a\u754c\u65b0\u95fb\u7b49\u7b49\uff09 Stable diffusion\u3001AnimateDiff\u3001Stable Cascade \u3001Stable SDXL Turbo",
+    "url": "https://github.com/hua1995116/awesome-ai-painting",
+    "categories": [
+      "ai-painting",
+      "dd5",
+      "disco-diffusion",
+      "new",
+      "stable-diffusion",
+      "stable-diffusion-diffusers",
+      "stable-diffusion-embedding",
+      "stable-diffusion-tutorial",
+      "stable-diffusion-v1-5",
+      "stable-diffusion-webui"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 11787,
+      "language": null,
+      "last_updated": "2026-08-26T08:46:30Z",
+      "owner": "hua1995116",
+      "full_name": "hua1995116/awesome-ai-painting",
+      "forks": 958,
+      "open_issues": 28
+    },
+    "first_seen": "2026-08-26T09:30:33.735926+00:00",
+    "raw_name": "hua1995116/awesome-ai-painting"
+  },
+  {
+    "id": "2094d626-42e5-5a67-b5e4-872fe344c5ad",
+    "entity_type": "collection",
+    "name": "awesome-prompts",
+    "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.",
+    "url": "https://github.com/ai-boost/awesome-prompts",
+    "categories": [
+      "awesome",
+      "awesome-list",
+      "chatgpt",
+      "conversational-ai",
+      "gpt4",
+      "gpts",
+      "gptstore",
+      "new",
+      "papers",
+      "prompt",
+      "prompt-engineering"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 8764,
+      "language": null,
+      "last_updated": "2026-08-26T07:15:12Z",
+      "owner": "ai-boost",
+      "full_name": "ai-boost/awesome-prompts",
+      "forks": 848,
+      "open_issues": 38
+    },
+    "first_seen": "2026-08-26T09:30:33.735939+00:00",
+    "raw_name": "ai-boost/awesome-prompts"
+  },
+  {
+    "id": "8a5fac9b-8eb9-5b4c-84e5-f61de0ebed90",
+    "entity_type": "collection",
+    "name": "awesome-ai-in-finance",
+    "description": "\ud83d\udd2c A curated list of awesome LLMs & deep learning strategies & tools in financial market.",
+    "url": "https://github.com/georgezouq/awesome-ai-in-finance",
+    "categories": [
+      "analysis",
+      "awesome",
+      "awesome-list",
+      "cryptocurrency",
+      "deep-learning",
+      "financial",
+      "neural-network",
+      "new",
+      "quant",
+      "quantitative-finance",
+      "reinforcement-learning"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 6442,
+      "language": null,
+      "last_updated": "2026-08-26T05:25:41Z",
+      "owner": "georgezouq",
+      "full_name": "georgezouq/awesome-ai-in-finance",
+      "forks": 780,
+      "open_issues": 42
+    },
+    "first_seen": "2026-08-26T09:30:33.735957+00:00",
+    "raw_name": "georgezouq/awesome-ai-in-finance"
+  },
+  {
+    "id": "abb5d0fd-efe4-52aa-bf28-420e62b03ad8",
+    "entity_type": "collection",
+    "name": "awesome-agentic-ai-zh",
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. \u4e2d\u6587 AI agent \u5b78\u7fd2\u5730\u5716\u3002",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+    "categories": [
+      "agentic-ai",
+      "agentic-workflows",
+      "agents",
+      "ai-agent",
+      "ai-agents",
+      "awesome-list",
+      "chinese-llm",
+      "claude-code",
+      "claude-skills",
+      "cli",
+      "learning-roadmap",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 6407,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:14:37Z",
+      "owner": "WenyuChiou",
+      "full_name": "WenyuChiou/awesome-agentic-ai-zh",
+      "forks": 857,
+      "open_issues": 3
+    },
+    "first_seen": "2026-08-26T09:30:33.735969+00:00",
+    "raw_name": "WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "id": "0f90290a-4785-5544-8316-7b2fb90b9b16",
+    "entity_type": "collection",
+    "name": "awesome-ai-system-prompts",
+    "description": "\ud83e\udde0 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, windsurf, notion, and MetaAI.",
+    "url": "https://github.com/dontriskit/awesome-ai-system-prompts",
+    "categories": [
+      "agents",
+      "code-generation",
+      "conversational-ai",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 6172,
+      "language": "TypeScript",
+      "last_updated": "2026-08-26T07:11:42Z",
+      "owner": "dontriskit",
+      "full_name": "dontriskit/awesome-ai-system-prompts",
+      "forks": 905,
+      "open_issues": 27
+    },
+    "first_seen": "2026-08-26T09:30:33.736008+00:00",
+    "raw_name": "dontriskit/awesome-ai-system-prompts"
+  },
+  {
+    "id": "3ccbcec5-4f8e-5125-be5e-d8092925ebf6",
+    "entity_type": "collection",
+    "name": "Awesome-AITools",
+    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
+    "url": "https://github.com/ikaijua/Awesome-AITools",
+    "categories": [
+      "agent-skills",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-assistant",
+      "ai-tools",
+      "ai-tools-list",
+      "ai-top-tools",
+      "artificial-intelligence",
+      "awesome",
+      "awesome-ai",
+      "awesome-ai-tools",
+      "awesome-list",
+      "awesome-lists",
+      "chatgpt",
+      "claude",
+      "claude-skills",
+      "claudecode",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 6151,
+      "language": "Python",
+      "last_updated": "2026-08-26T08:58:41Z",
+      "owner": "ikaijua",
+      "full_name": "ikaijua/Awesome-AITools",
+      "forks": 749,
+      "open_issues": 42
+    },
+    "first_seen": "2026-08-26T09:30:33.736029+00:00",
+    "raw_name": "ikaijua/Awesome-AITools"
+  },
+  {
+    "id": "3aeee260-b2de-5b13-999e-2522230c3c59",
+    "entity_type": "collection",
+    "name": "awesome-deepseek-agent",
+    "description": "",
+    "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
+    "categories": [
+      "agents",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 6001,
+      "language": null,
+      "last_updated": "2026-08-26T06:38:25Z",
+      "owner": "deepseek-ai",
+      "full_name": "deepseek-ai/awesome-deepseek-agent",
+      "forks": 719,
+      "open_issues": 322
+    },
+    "first_seen": "2026-08-26T09:30:33.736060+00:00",
+    "raw_name": "deepseek-ai/awesome-deepseek-agent"
+  },
+  {
+    "id": "56f64bbe-a3a4-538e-83cb-7a1a60556a99",
+    "entity_type": "collection",
+    "name": "awesome-opensource-ai",
+    "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.",
+    "url": "https://github.com/alvinreal/awesome-opensource-ai",
+    "categories": [
+      "agents",
+      "ai",
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "generative-ai",
+      "llm",
+      "machine-learning",
+      "mlops",
+      "new",
+      "open-source"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 4630,
+      "language": "Python",
+      "last_updated": "2026-08-26T07:13:34Z",
+      "owner": "alvinreal",
+      "full_name": "alvinreal/awesome-opensource-ai",
+      "forks": 624,
+      "open_issues": 31
+    },
+    "first_seen": "2026-08-26T09:30:33.736090+00:00",
+    "raw_name": "alvinreal/awesome-opensource-ai"
+  },
+  {
+    "id": "70b4c495-0fde-5635-87cd-cd1bea934c96",
+    "entity_type": "collection",
+    "name": "awesome-llm-apps",
+    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "categories": [
+      "agents",
+      "llms",
+      "new",
+      "python",
+      "rag",
+      "retrieval-augmented-generation"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 134446,
+      "language": "Python",
+      "last_updated": "2026-08-26T09:28:36Z",
+      "owner": "Shubhamsaboo",
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "forks": 19763,
+      "open_issues": 17
+    },
+    "first_seen": "2026-08-26T09:30:34.263266+00:00",
+    "raw_name": "Shubhamsaboo/awesome-llm-apps"
+  },
+  {
+    "id": "62237cd1-d95e-57be-8f0c-17a7d61be088",
+    "entity_type": "collection",
+    "name": "Awesome-LLM",
+    "description": "Awesome-LLM: a curated list of Large Language Model",
+    "url": "https://github.com/Hannibal046/Awesome-LLM",
+    "categories": [
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 27282,
+      "language": null,
+      "last_updated": "2026-08-26T05:56:26Z",
+      "owner": "Hannibal046",
+      "full_name": "Hannibal046/Awesome-LLM",
+      "forks": 2685,
+      "open_issues": 445
+    },
+    "first_seen": "2026-08-26T09:30:34.263312+00:00",
+    "raw_name": "Hannibal046/Awesome-LLM"
+  },
+  {
+    "id": "91640bc1-7dc3-5163-b53e-6bda42608225",
+    "entity_type": "collection",
+    "name": "Awesome-Chinese-LLM",
+    "description": "\u6574\u7406\u5f00\u6e90\u7684\u4e2d\u6587\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u4ee5\u89c4\u6a21\u8f83\u5c0f\u3001\u53ef\u79c1\u6709\u5316\u90e8\u7f72\u3001\u8bad\u7ec3\u6210\u672c\u8f83\u4f4e\u7684\u6a21\u578b\u4e3a\u4e3b\uff0c\u5305\u62ec\u5e95\u5ea7\u6a21\u578b\uff0c\u5782\u76f4\u9886\u57df\u5fae\u8c03\u53ca\u5e94\u7528\uff0c\u6570\u636e\u96c6\u4e0e\u6559\u7a0b\u7b49\u3002",
+    "url": "https://github.com/AiHubCN/Awesome-Chinese-LLM",
+    "categories": [
+      "awesome-lists",
+      "chatglm",
+      "chinese",
+      "llama",
+      "llm",
+      "new",
+      "nlp"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 22752,
+      "language": null,
+      "last_updated": "2026-08-26T03:27:14Z",
+      "owner": "AiHubCN",
+      "full_name": "AiHubCN/Awesome-Chinese-LLM",
+      "forks": 2135,
+      "open_issues": 30
+    },
+    "first_seen": "2026-08-26T09:30:34.263330+00:00",
+    "raw_name": "AiHubCN/Awesome-Chinese-LLM"
+  },
+  {
+    "id": "d2247555-a32e-5148-ba7a-95b7c4125d77",
+    "entity_type": "collection",
+    "name": "awesome-LLM-resources",
+    "description": "\ud83e\uddd1\u200d\ud83d\ude80 \u5168\u4e16\u754c\u6700\u597d\u7684LLM\u8d44\u6599\u603b\u7ed3\uff08\u591a\u6a21\u6001\u751f\u6210\u3001Agent\u3001\u8f85\u52a9\u7f16\u7a0b\u3001AI\u5ba1\u7a3f\u3001\u6570\u636e\u5904\u7406\u3001\u6a21\u578b\u8bad\u7ec3\u3001\u6a21\u578b\u63a8\u7406\u3001o1 \u6a21\u578b\u3001MCP\u3001\u5c0f\u8bed\u8a00\u6a21\u578b\u3001\u89c6\u89c9\u8bed\u8a00\u6a21\u578b\uff09 | Summary of the world's best LLM resources.",
+    "url": "https://github.com/WangRongsheng/awesome-LLM-resources",
+    "categories": [
+      "agents",
+      "awesome-list",
+      "book",
+      "course",
+      "large-language-models",
+      "llama",
+      "llm",
+      "mistral",
+      "new",
+      "openai",
+      "qwen",
+      "rag"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 8873,
+      "language": null,
+      "last_updated": "2026-08-26T08:26:37Z",
+      "owner": "WangRongsheng",
+      "full_name": "WangRongsheng/awesome-LLM-resources",
+      "forks": 968,
+      "open_issues": 33
+    },
+    "first_seen": "2026-08-26T09:30:34.263345+00:00",
+    "raw_name": "WangRongsheng/awesome-LLM-resources"
+  },
+  {
+    "id": "74fe481f-9567-5279-b77c-4f6d97435136",
+    "entity_type": "collection",
+    "name": "awesome-free-llm-apis",
+    "description": "List of Permanent Free LLM API (API Keys)",
+    "url": "https://github.com/mnfst/awesome-free-llm-apis",
+    "categories": [
+      "ai-agents",
+      "anthropic",
+      "awesome",
+      "awesome-list",
+      "gemini",
+      "llm",
+      "llm-router",
+      "llm-routing",
+      "new",
+      "ollama",
+      "openai"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 7032,
+      "language": "JavaScript",
+      "last_updated": "2026-08-26T09:13:13Z",
+      "owner": "mnfst",
+      "full_name": "mnfst/awesome-free-llm-apis",
+      "forks": 671,
+      "open_issues": 6
+    },
+    "first_seen": "2026-08-26T09:30:34.263360+00:00",
+    "raw_name": "mnfst/awesome-free-llm-apis"
+  },
+  {
+    "id": "4e5a8ee6-77f3-5d13-87fd-53659e52d17e",
+    "entity_type": "collection",
+    "name": "Awesome-LLM-Strawberry",
+    "description": "A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 \ud83c\udf53 and reasoning techniques.",
+    "url": "https://github.com/hijkzzz/Awesome-LLM-Strawberry",
+    "categories": [
+      "chain-of-thought",
+      "coding",
+      "llm",
+      "mathematics",
+      "mcts",
+      "new",
+      "openai-o1",
+      "reasoning",
+      "reinforcement-learning",
+      "strawberry"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 6899,
+      "language": null,
+      "last_updated": "2026-08-23T03:28:29Z",
+      "owner": "hijkzzz",
+      "full_name": "hijkzzz/Awesome-LLM-Strawberry",
+      "forks": 369,
+      "open_issues": 27
+    },
+    "first_seen": "2026-08-26T09:30:34.263382+00:00",
+    "raw_name": "hijkzzz/Awesome-LLM-Strawberry"
+  },
+  {
+    "id": "e7f7a1d2-41b6-5797-8e73-461b7b3dffa5",
+    "entity_type": "collection",
+    "name": "awesome-LLMs-In-China",
+    "description": "\u4e2d\u56fd\u5927\u6a21\u578b",
+    "url": "https://github.com/wgwang/awesome-LLMs-In-China",
+    "categories": [
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 6471,
+      "language": null,
+      "last_updated": "2026-08-25T10:25:45Z",
+      "owner": "wgwang",
+      "full_name": "wgwang/awesome-LLMs-In-China",
+      "forks": 563,
+      "open_issues": 19
+    },
+    "first_seen": "2026-08-26T09:30:34.263394+00:00",
+    "raw_name": "wgwang/awesome-LLMs-In-China"
+  },
+  {
+    "id": "91fb1b89-1a08-5fea-9aa1-7678c8b48f37",
+    "entity_type": "collection",
+    "name": "Awesome-LLMOps",
+    "description": "An awesome & curated list of best LLMOps tools for developers",
+    "url": "https://github.com/tensorchord/Awesome-LLMOps",
+    "categories": [
+      "ai-development-tools",
+      "awesome-list",
+      "llmops",
+      "mlops",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 5920,
+      "language": "Shell",
+      "last_updated": "2026-08-24T22:47:40Z",
+      "owner": "tensorchord",
+      "full_name": "tensorchord/Awesome-LLMOps",
+      "forks": 999,
+      "open_issues": 254
+    },
+    "first_seen": "2026-08-26T09:30:34.263406+00:00",
+    "raw_name": "tensorchord/Awesome-LLMOps"
+  },
+  {
+    "id": "113d2478-d198-55bc-a572-fd70ed469d24",
+    "entity_type": "collection",
+    "name": "Awesome-LLM-Inference",
+    "description": "\ud83d\udcdaA curated list of Awesome LLM/VLM Inference Papers with Codes: Flash-Attention, Paged-Attention, WINT8/4, Parallelism, etc.\ud83c\udf89",
+    "url": "https://github.com/xlite-dev/Awesome-LLM-Inference",
+    "categories": [
+      "awesome-llm",
+      "code-generation",
+      "deepseek",
+      "deepseek-r1",
+      "deepseek-v3",
+      "flash-attention",
+      "flash-attention-3",
+      "flash-mla",
+      "llm-inference",
+      "minimax-01",
+      "mla",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 5478,
+      "language": "Python",
+      "last_updated": "2026-08-25T13:16:55Z",
+      "owner": "xlite-dev",
+      "full_name": "xlite-dev/Awesome-LLM-Inference",
+      "forks": 429,
+      "open_issues": 6
+    },
+    "first_seen": "2026-08-26T09:30:34.263420+00:00",
+    "raw_name": "xlite-dev/Awesome-LLM-Inference"
+  },
+  {
+    "id": "4c5d742f-40b5-59d8-bf8c-a208b6464919",
+    "entity_type": "collection",
+    "name": "Awesome-LLM-Robotics",
+    "description": "A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites",
+    "url": "https://github.com/GT-RIPL/Awesome-LLM-Robotics",
+    "categories": [
+      "code-generation",
+      "new",
+      "robotics"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 4455,
+      "language": null,
+      "last_updated": "2026-08-22T09:52:43Z",
+      "owner": "GT-RIPL",
+      "full_name": "GT-RIPL/Awesome-LLM-Robotics",
+      "forks": 340,
+      "open_issues": 10
+    },
+    "first_seen": "2026-08-26T09:30:34.263432+00:00",
+    "raw_name": "GT-RIPL/Awesome-LLM-Robotics"
+  },
+  {
+    "id": "77582198-a094-5151-894b-c201c9ff30aa",
+    "entity_type": "collection",
+    "name": "Awesome-LLM-Reasoning",
+    "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 \ud83c\udf53",
+    "url": "https://github.com/atfortes/Awesome-LLM-Reasoning",
+    "categories": [
+      "awesome",
+      "chain-of-thought",
+      "chatgpt",
+      "cot",
+      "deepseek",
+      "deepseek-r1",
+      "gpt",
+      "gpt-4o",
+      "in-context-learning",
+      "language-models",
+      "new",
+      "reasoning"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 3675,
+      "language": null,
+      "last_updated": "2026-08-26T00:42:38Z",
+      "owner": "atfortes",
+      "full_name": "atfortes/Awesome-LLM-Reasoning",
+      "forks": 211,
+      "open_issues": 26
+    },
+    "first_seen": "2026-08-26T09:30:34.263445+00:00",
+    "raw_name": "atfortes/Awesome-LLM-Reasoning"
+  },
+  {
+    "id": "24c90d0f-b03d-5315-838e-32a7aae7dcee",
+    "entity_type": "collection",
+    "name": "Awesome-Code-LLM",
+    "description": "[TMLR] A curated list of language modeling researches for code (and other software engineering activities), plus related datasets.",
+    "url": "https://github.com/codefuse-ai/Awesome-Code-LLM",
+    "categories": [
+      "ai",
+      "awesome",
+      "code-generation",
+      "datasets",
+      "llm",
+      "new",
+      "nlp",
+      "papers",
+      "software-engineering",
+      "survey",
+      "tmlr"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 3432,
+      "language": null,
+      "last_updated": "2026-08-25T14:28:43Z",
+      "owner": "codefuse-ai",
+      "full_name": "codefuse-ai/Awesome-Code-LLM",
+      "forks": 237,
+      "open_issues": 18
+    },
+    "first_seen": "2026-08-26T09:30:34.263459+00:00",
+    "raw_name": "codefuse-ai/Awesome-Code-LLM"
+  },
+  {
+    "id": "ef56bd28-91fb-5303-9c28-df6fed5a953c",
+    "entity_type": "collection",
+    "name": "Awesome-LLMs-for-Video-Understanding",
+    "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
+    "url": "https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding",
+    "categories": [
+      "code-generation",
+      "new",
+      "video"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 3272,
+      "language": null,
+      "last_updated": "2026-08-24T10:02:09Z",
+      "owner": "yunlong10",
+      "full_name": "yunlong10/Awesome-LLMs-for-Video-Understanding",
+      "forks": 150,
+      "open_issues": 6
+    },
+    "first_seen": "2026-08-26T09:30:34.263497+00:00",
+    "raw_name": "yunlong10/Awesome-LLMs-for-Video-Understanding"
+  },
+  {
+    "id": "a3e22a36-2b58-5d57-bee8-8902d0456fcd",
+    "entity_type": "collection",
+    "name": "awesome-local-llm",
+    "description": "A curated list of awesome platforms, tools, practices and resources that helps run LLMs locally",
+    "url": "https://github.com/rafska/awesome-local-llm",
+    "categories": [
+      "ai",
+      "awesome",
+      "awesome-list",
+      "llm",
+      "local",
+      "local-ai",
+      "local-llm",
+      "new",
+      "resources",
+      "self-hosted",
+      "selfhosted"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 2784,
+      "language": null,
+      "last_updated": "2026-08-25T19:00:45Z",
+      "owner": "rafska",
+      "full_name": "rafska/awesome-local-llm",
+      "forks": 361,
+      "open_issues": 148
+    },
+    "first_seen": "2026-08-26T09:30:34.263518+00:00",
+    "raw_name": "rafska/awesome-local-llm"
+  },
+  {
+    "id": "a6ef1ad8-f0e1-5321-8919-6f018ccd9e14",
+    "entity_type": "collection",
+    "name": "Awesome-LLM-KG",
+    "description": "Awesome papers about unifying LLMs and KGs",
+    "url": "https://github.com/RManLuo/Awesome-LLM-KG",
+    "categories": [
+      "awsome",
+      "chatgpt",
+      "gpt-4",
+      "kg",
+      "knowledge-graph",
+      "language-model",
+      "large-language-model",
+      "llm",
+      "new",
+      "survey"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 2613,
+      "language": null,
+      "last_updated": "2026-08-24T07:55:05Z",
+      "owner": "RManLuo",
+      "full_name": "RManLuo/Awesome-LLM-KG",
+      "forks": 179,
+      "open_issues": 6
+    },
+    "first_seen": "2026-08-26T09:30:34.263537+00:00",
+    "raw_name": "RManLuo/Awesome-LLM-KG"
+  },
+  {
+    "id": "d93578c7-58c9-571e-8dfb-a500859ba224",
+    "entity_type": "collection",
+    "name": "awesome-machine-learning-art",
+    "description": ":robot::art::guitar:A curated list of awesome projects, works, people, articles, and resource for creating art (including music) with machine learning. It's machine learning art.",
+    "url": "https://github.com/vibertthio/awesome-machine-learning-art",
+    "categories": [
+      "ai",
+      "art",
+      "artificial-intelligence",
+      "augmented",
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "core-ml",
+      "creative-coding",
+      "language",
+      "learning",
+      "machine",
+      "machine-learning",
+      "machine-learning-art",
+      "model",
+      "music",
+      "new",
+      "processing",
+      "reality",
+      "robotics",
+      "vision"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 719,
+      "language": null,
+      "last_updated": "2026-08-21T15:17:23Z",
+      "owner": "vibertthio",
+      "full_name": "vibertthio/awesome-machine-learning-art",
+      "forks": 58,
+      "open_issues": 3
+    },
+    "first_seen": "2026-08-26T09:30:34.723429+00:00",
+    "raw_name": "vibertthio/awesome-machine-learning-art"
+  },
+  {
+    "id": "b43bb50a-ecc4-52a2-ac3a-a7b03a00d2db",
+    "entity_type": "collection",
+    "name": "awesome-production-machine-learning",
+    "description": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
+    "url": "https://github.com/EthicalML/awesome-production-machine-learning",
+    "categories": [
+      "awesome",
+      "awesome-list",
+      "data-mining",
+      "deep-learning",
+      "explainability",
+      "interpretability",
+      "large-scale-machine-learning",
+      "large-scale-ml",
+      "machine-learning",
+      "machine-learning-operations",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 20868,
+      "language": null,
+      "last_updated": "2026-08-26T05:42:00Z",
+      "owner": "EthicalML",
+      "full_name": "EthicalML/awesome-production-machine-learning",
+      "forks": 2592,
+      "open_issues": 31
+    },
+    "first_seen": "2026-08-26T09:30:34.723256+00:00",
+    "raw_name": "EthicalML/awesome-production-machine-learning"
+  },
+  {
+    "id": "149e2a08-3b40-5576-b13b-f9c97b3e324f",
+    "entity_type": "collection",
+    "name": "awesome-machine-learning-on-source-code",
+    "description": "Cool links & research papers related to Machine Learning applied to source code (MLonCode)",
+    "url": "https://github.com/src-d/awesome-machine-learning-on-source-code",
+    "categories": [
+      "awesome",
+      "awesome-list",
+      "code-generation",
+      "machine-learning",
+      "machine-learning-on-source-code",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 6634,
+      "language": null,
+      "last_updated": "2026-08-25T14:06:11Z",
+      "owner": "src-d",
+      "full_name": "src-d/awesome-machine-learning-on-source-code",
+      "forks": 830,
+      "open_issues": 8
+    },
+    "first_seen": "2026-08-26T09:30:34.723281+00:00",
+    "raw_name": "src-d/awesome-machine-learning-on-source-code"
+  },
+  {
+    "id": "ceff9968-1740-581b-a7d8-c97c421af952",
+    "entity_type": "collection",
+    "name": "awesome-machine-learning-interpretability",
+    "description": "A curated list of awesome responsible machine learning resources.",
+    "url": "https://github.com/jphall663/awesome-machine-learning-interpretability",
+    "categories": [
+      "ai-safety",
+      "awesome",
+      "awesome-list",
+      "data-science",
+      "explainable-ml",
+      "fairness",
+      "interpretability",
+      "interpretable-ai",
+      "interpretable-machine-learning",
+      "interpretable-ml",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 4060,
+      "language": null,
+      "last_updated": "2026-08-25T14:06:18Z",
+      "owner": "jphall663",
+      "full_name": "jphall663/awesome-machine-learning-interpretability",
+      "forks": 629,
+      "open_issues": 27
+    },
+    "first_seen": "2026-08-26T09:30:34.723310+00:00",
+    "raw_name": "jphall663/awesome-machine-learning-interpretability"
+  },
+  {
+    "id": "95e949ab-5441-57eb-9125-2ff81691c5f2",
+    "entity_type": "collection",
+    "name": "Awesome-Quant-Machine-Learning-Trading",
+    "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
+    "url": "https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading",
+    "categories": [
+      "awesome",
+      "awesome-list",
+      "deep-learning",
+      "financial-machine-learning",
+      "machine-learning",
+      "machine-learning-trading",
+      "new",
+      "stock-trading",
+      "trading-strategies"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 3998,
+      "language": null,
+      "last_updated": "2026-08-26T06:24:02Z",
+      "owner": "grananqvist",
+      "full_name": "grananqvist/Awesome-Quant-Machine-Learning-Trading",
+      "forks": 701,
+      "open_issues": 20
+    },
+    "first_seen": "2026-08-26T09:30:34.723322+00:00",
+    "raw_name": "grananqvist/Awesome-Quant-Machine-Learning-Trading"
+  },
+  {
+    "id": "b80542b8-a267-573b-83cf-3d7af3d7456c",
+    "entity_type": "collection",
+    "name": "awesome-quantum-machine-learning",
+    "description": "Here you can get all the Quantum Machine learning Basics, Algorithms ,Study Materials ,Projects and the descriptions of the projects around the web",
+    "url": "https://github.com/krishnakumarsekar/awesome-quantum-machine-learning",
+    "categories": [
+      "ai",
+      "ant-colony-optimization",
+      "artificial-intelligence",
+      "artificial-neural-networks",
+      "awesome",
+      "awesome-list",
+      "fcm",
+      "hmm-model",
+      "kmeans",
+      "knn-classification",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 3650,
+      "language": "HTML",
+      "last_updated": "2026-08-25T23:06:33Z",
+      "owner": "krishnakumarsekar",
+      "full_name": "krishnakumarsekar/awesome-quantum-machine-learning",
+      "forks": 806,
+      "open_issues": 9
+    },
+    "first_seen": "2026-08-26T09:30:34.723333+00:00",
+    "raw_name": "krishnakumarsekar/awesome-quantum-machine-learning"
+  },
+  {
+    "id": "bca7b037-22d4-5dab-9670-aad25a222b97",
+    "entity_type": "collection",
+    "name": "Awesome-Rust-MachineLearning",
+    "description": "This repository is a list of machine learning libraries written in Rust. It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers, etc. \ud83e\udd80",
+    "url": "https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning",
+    "categories": [
+      "awasome",
+      "deep-learning",
+      "image-processing",
+      "machine-learning",
+      "machine-learning-library",
+      "natural-language-processing",
+      "new",
+      "rust",
+      "rust-library"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 2268,
+      "language": "JavaScript",
+      "last_updated": "2026-08-24T19:31:07Z",
+      "owner": "vaaaaanquish",
+      "full_name": "vaaaaanquish/Awesome-Rust-MachineLearning",
+      "forks": 127,
+      "open_issues": 12
+    },
+    "first_seen": "2026-08-26T09:30:34.723345+00:00",
+    "raw_name": "vaaaaanquish/Awesome-Rust-MachineLearning"
+  },
+  {
+    "id": "80b243b8-a453-5986-971d-fa1d79bd3e44",
+    "entity_type": "collection",
+    "name": "Awesome-Federated-Machine-Learning",
+    "description": "Everything about federated learning, including research papers, books, codes, tutorials, videos and beyond",
+    "url": "https://github.com/innovation-cat/Awesome-Federated-Machine-Learning",
+    "categories": [
+      "code-generation",
+      "computer-vision",
+      "deep-learning",
+      "differential-privacy",
+      "distributed-computing",
+      "edge-computing",
+      "federated-learning",
+      "machine-learning",
+      "new",
+      "privacy-preserving-machine-learning",
+      "security",
+      "video"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 2091,
+      "language": null,
+      "last_updated": "2026-08-26T06:54:45Z",
+      "owner": "innovation-cat",
+      "full_name": "innovation-cat/Awesome-Federated-Machine-Learning",
+      "forks": 282,
+      "open_issues": 7
+    },
+    "first_seen": "2026-08-26T09:30:34.723359+00:00",
+    "raw_name": "innovation-cat/Awesome-Federated-Machine-Learning"
+  },
+  {
+    "id": "77696d31-e09c-52bf-b840-405cedab71d6",
+    "entity_type": "collection",
+    "name": "awesome-adversarial-machine-learning",
+    "description": "A curated list of awesome adversarial machine learning resources",
+    "url": "https://github.com/yenchenlin/awesome-adversarial-machine-learning",
+    "categories": [
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 1910,
+      "language": null,
+      "last_updated": "2026-08-22T22:11:01Z",
+      "owner": "yenchenlin",
+      "full_name": "yenchenlin/awesome-adversarial-machine-learning",
+      "forks": 292,
+      "open_issues": 5
+    },
+    "first_seen": "2026-08-26T09:30:34.723369+00:00",
+    "raw_name": "yenchenlin/awesome-adversarial-machine-learning"
+  },
+  {
+    "id": "f8ddb6ef-d5ac-5ae1-a450-a62fde7699fb",
+    "entity_type": "collection",
+    "name": "awesome-machine-learning-in-compilers",
+    "description": "Must read research papers and links to tools and datasets that are related to using machine learning for compilers and systems optimisation",
+    "url": "https://github.com/zwang4/awesome-machine-learning-in-compilers",
+    "categories": [
+      "artificial-intelligence",
+      "auto-tuning",
+      "compiler",
+      "machine-learning",
+      "multi-cores",
+      "new",
+      "operating-systems",
+      "optimisation",
+      "parallel-computing",
+      "parallel-programming",
+      "parallelisation"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 1688,
+      "language": null,
+      "last_updated": "2026-08-26T07:49:05Z",
+      "owner": "zwang4",
+      "full_name": "zwang4/awesome-machine-learning-in-compilers",
+      "forks": 180,
+      "open_issues": 0
+    },
+    "first_seen": "2026-08-26T09:30:34.723383+00:00",
+    "raw_name": "zwang4/awesome-machine-learning-in-compilers"
+  },
+  {
+    "id": "a881ad46-adc4-59c6-bf2d-cf6dbd47572e",
+    "entity_type": "collection",
+    "name": "awesome-interpretable-machine-learning",
+    "description": "",
+    "url": "https://github.com/lopusz/awesome-interpretable-machine-learning",
+    "categories": [
+      "data-science",
+      "explainable-ai",
+      "interpretable-ai",
+      "interpretable-machine-learning",
+      "interpretable-ml",
+      "machine-learning",
+      "new",
+      "xai"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 917,
+      "language": "Python",
+      "last_updated": "2026-08-20T19:08:19Z",
+      "owner": "lopusz",
+      "full_name": "lopusz/awesome-interpretable-machine-learning",
+      "forks": 141,
+      "open_issues": 2
+    },
+    "first_seen": "2026-08-26T09:30:34.723395+00:00",
+    "raw_name": "lopusz/awesome-interpretable-machine-learning"
+  },
+  {
+    "id": "9ff7e486-c942-595e-ab61-fc7befc76b8f",
+    "entity_type": "collection",
+    "name": "awesome-machine-learning-resources",
+    "description": "\ud83d\ude0e A curated list of awesome lists across all machine learning topics. | \u673a\u5668\u5b66\u4e60/\u6df1\u5ea6\u5b66\u4e60/\u4eba\u5de5\u667a\u80fd\u4e00\u5207\u4e3b\u9898 (\u5b66\u4e60\u8303\u5f0f/\u4efb\u52a1/\u5e94\u7528/\u6a21\u578b/\u9053\u5fb7/\u4ea4\u53c9\u5b66\u79d1/\u6570\u636e\u96c6/\u6846\u67b6/\u6559\u7a0b) \u7684\u8d44\u6e90\u5217\u8868\u6c47\u603b\u3002",
+    "url": "https://github.com/ZhiningLiu1998/awesome-machine-learning-resources",
+    "categories": [
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "neural-network",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 830,
+      "language": null,
+      "last_updated": "2026-08-18T20:37:50Z",
+      "owner": "ZhiningLiu1998",
+      "full_name": "ZhiningLiu1998/awesome-machine-learning-resources",
+      "forks": 131,
+      "open_issues": 2
+    },
+    "first_seen": "2026-08-26T09:30:34.723407+00:00",
+    "raw_name": "ZhiningLiu1998/awesome-machine-learning-resources"
+  },
+  {
+    "id": "a1a09ab2-9cec-5f67-b8ae-cc77d54c7418",
+    "entity_type": "collection",
+    "name": "awesome-mcp-servers",
+    "description": "Awesome MCP Servers - A curated list of Model Context Protocol servers",
+    "url": "https://github.com/appcypher/awesome-mcp-servers",
+    "categories": [
+      "ai",
+      "anthropic",
+      "anthropic-claude",
+      "awesome",
+      "awesome-list",
+      "context",
+      "genai",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "mcp-server-discovery",
+      "mcp-servers",
+      "model-context-protocol",
+      "new",
+      "servers",
+      "tool-use",
+      "tools"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 5757,
+      "language": null,
+      "last_updated": "2026-08-25T17:39:49Z",
+      "owner": "appcypher",
+      "full_name": "appcypher/awesome-mcp-servers",
+      "forks": 2239,
+      "open_issues": 526
+    },
+    "first_seen": "2026-08-26T09:30:35.226150+00:00",
+    "raw_name": "appcypher/awesome-mcp-servers"
+  },
+  {
+    "id": "c9a36775-a347-57be-bfd5-1a5aa37acd6a",
+    "entity_type": "collection",
+    "name": "Awesome-MCP-ZH",
+    "description": "MCP \u8d44\u6e90\u7cbe\u9009\uff0c MCP\u6307\u5357\uff0cClaude MCP\uff0cMCP Servers, MCP Clients",
+    "url": "https://github.com/yzfly/Awesome-MCP-ZH",
+    "categories": [
+      "claude",
+      "claude-mcp",
+      "deepseek",
+      "deepseek-mcp",
+      "mcp",
+      "mcp-clients",
+      "mcp-host",
+      "mcp-server",
+      "mcp-servers",
+      "mcp-servers-directory",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 7603,
+      "language": null,
+      "last_updated": "2026-08-26T09:22:03Z",
+      "owner": "yzfly",
+      "full_name": "yzfly/Awesome-MCP-ZH",
+      "forks": 737,
+      "open_issues": 4
+    },
+    "first_seen": "2026-08-26T09:30:35.226105+00:00",
+    "raw_name": "yzfly/Awesome-MCP-ZH"
+  },
+  {
+    "id": "76a72b46-8730-540b-9090-cff9907a1e58",
+    "entity_type": "collection",
+    "name": "awesome-mcp-clients",
+    "description": "A collection of MCP clients.",
+    "url": "https://github.com/punkpeye/awesome-mcp-clients",
+    "categories": [
+      "clients",
+      "mcp",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 6555,
+      "language": null,
+      "last_updated": "2026-08-25T22:36:30Z",
+      "owner": "punkpeye",
+      "full_name": "punkpeye/awesome-mcp-clients",
+      "forks": 640,
+      "open_issues": 79
+    },
+    "first_seen": "2026-08-26T09:30:35.226123+00:00",
+    "raw_name": "punkpeye/awesome-mcp-clients"
+  },
+  {
+    "id": "7cb3ed98-a851-5252-b9ac-14628ce5b8f5",
+    "entity_type": "collection",
+    "name": "awesome-remote-mcp-servers",
+    "description": "Remote MCP Servers",
+    "url": "https://github.com/jaw9c/awesome-remote-mcp-servers",
+    "categories": [
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 1105,
+      "language": null,
+      "last_updated": "2026-08-22T22:08:41Z",
+      "owner": "jaw9c",
+      "full_name": "jaw9c/awesome-remote-mcp-servers",
+      "forks": 572,
+      "open_issues": 235
+    },
+    "first_seen": "2026-08-26T09:30:35.226176+00:00",
+    "raw_name": "jaw9c/awesome-remote-mcp-servers"
+  },
+  {
+    "id": "c32b50e7-1fb1-5b16-ba2c-e8096da1f08d",
+    "entity_type": "collection",
+    "name": "awesome-devops-mcp-servers",
+    "description": "A curated list of awesome MCP servers focused on DevOps tools and capabilities.",
+    "url": "https://github.com/rohitg00/awesome-devops-mcp-servers",
+    "categories": [
+      "ai",
+      "cloudnative",
+      "devops",
+      "genai",
+      "llm",
+      "mcp",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 1018,
+      "language": null,
+      "last_updated": "2026-08-25T00:01:44Z",
+      "owner": "rohitg00",
+      "full_name": "rohitg00/awesome-devops-mcp-servers",
+      "forks": 318,
+      "open_issues": 77
+    },
+    "first_seen": "2026-08-26T09:30:35.226205+00:00",
+    "raw_name": "rohitg00/awesome-devops-mcp-servers"
+  },
+  {
+    "id": "40e89ffb-5a32-5640-984d-a1e774a536d9",
+    "entity_type": "collection",
+    "name": "awesome-mcp-list",
+    "description": "A concise list for mcp servers",
+    "url": "https://github.com/MobinX/awesome-mcp-list",
+    "categories": [
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 882,
+      "language": null,
+      "last_updated": "2026-08-13T03:33:21Z",
+      "owner": "MobinX",
+      "full_name": "MobinX/awesome-mcp-list",
+      "forks": 282,
+      "open_issues": 244
+    },
+    "first_seen": "2026-08-26T09:30:35.226217+00:00",
+    "raw_name": "MobinX/awesome-mcp-list"
+  },
+  {
+    "id": "0562de0a-4374-5a34-a9c4-841aac252e33",
+    "entity_type": "collection",
+    "name": "awesome-mcp-security",
+    "description": "\ud83d\udd25\ud83d\udd12 Awesome MCP (Model Context Protocol) Security \ud83d\udda5\ufe0f",
+    "url": "https://github.com/Puliczek/awesome-mcp-security",
+    "categories": [
+      "awesome-list",
+      "bugbounty",
+      "bugbountytips",
+      "cybers",
+      "exploit",
+      "mcp",
+      "mcp-client",
+      "mcp-server",
+      "mcp-servers",
+      "new",
+      "pentesting"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 733,
+      "language": null,
+      "last_updated": "2026-08-23T13:56:30Z",
+      "owner": "Puliczek",
+      "full_name": "Puliczek/awesome-mcp-security",
+      "forks": 213,
+      "open_issues": 178
+    },
+    "first_seen": "2026-08-26T09:30:35.226245+00:00",
+    "raw_name": "Puliczek/awesome-mcp-security"
+  },
+  {
+    "id": "85536a7a-4556-5d9b-a444-2f2b6379d790",
+    "entity_type": "collection",
+    "name": "awesome-web3-mcp-servers",
+    "description": "DeMCP is the first Decentralized MCP network, offering SSE proxies for MCP services and mainstream LLMs, tackling trust and security with TEE and blockchain.",
+    "url": "https://github.com/demcp/awesome-web3-mcp-servers",
+    "categories": [
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 611,
+      "language": null,
+      "last_updated": "2026-07-29T19:24:39Z",
+      "owner": "demcp",
+      "full_name": "demcp/awesome-web3-mcp-servers",
+      "forks": 156,
+      "open_issues": 74
+    },
+    "first_seen": "2026-08-26T09:30:35.226259+00:00",
+    "raw_name": "demcp/awesome-web3-mcp-servers"
+  },
+  {
+    "id": "05076791-e499-52f5-abad-022229975091",
+    "entity_type": "collection",
+    "name": "awesome-mcp-devtools",
+    "description": "A curated list of developer tools, SDKs, libraries, and testing utilities for Model Context Protocol (MCP) server development.",
+    "url": "https://github.com/punkpeye/awesome-mcp-devtools",
+    "categories": [
+      "devtools",
+      "mcp",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 479,
+      "language": null,
+      "last_updated": "2026-08-24T08:01:20Z",
+      "owner": "punkpeye",
+      "full_name": "punkpeye/awesome-mcp-devtools",
+      "forks": 264,
+      "open_issues": 113
+    },
+    "first_seen": "2026-08-26T09:30:35.226271+00:00",
+    "raw_name": "punkpeye/awesome-mcp-devtools"
+  },
+  {
+    "id": "5356c3b7-0035-594f-9ecd-78666082de09",
+    "entity_type": "collection",
+    "name": "awesome-osint-mcp-servers",
+    "description": "\ud83d\udd0c A curated list of OSINT MCP servers. Pull requests are welcomed!",
+    "url": "https://github.com/soxoj/awesome-osint-mcp-servers",
+    "categories": [
+      "awesome",
+      "awesome-ai",
+      "awesome-list",
+      "awesome-lists",
+      "awesome-mcp",
+      "awesome-mcp-servers",
+      "awesome-osint",
+      "claude-mcp",
+      "mcp",
+      "mcp-server",
+      "new"
+    ],
+    "source": {
+      "name": "GitHub API",
+      "url": "https://api.github.com/search/repositories"
+    },
+    "metadata": {
+      "stars": 465,
+      "language": null,
+      "last_updated": "2026-08-25T23:26:12Z",
+      "owner": "soxoj",
+      "full_name": "soxoj/awesome-osint-mcp-servers",
+      "forks": 99,
+      "open_issues": 0
+    },
+    "first_seen": "2026-08-26T09:30:35.226282+00:00",
+    "raw_name": "soxoj/awesome-osint-mcp-servers"
+  },
+  {
+    "id": "7c034add-2958-5195-8501-a05b891a9a1b",
+    "entity_type": "company",
+    "name": "OpenAI",
+    "description": "",
+    "url": "https://openai.com",
+    "categories": [
+      "company",
+      "new"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://openai.com"
+    },
+    "metadata": {
+      "founding_year": 2015,
+      "sector": "General AI / LLMs",
+      "hq": "San Francisco, USA"
+    },
+    "first_seen": "2026-08-26T09:30:35.227022+00:00",
+    "raw_name": "OpenAI"
+  },
+  {
+    "id": "a62a3d1e-5cc1-5745-9d00-dc71b40c9c92",
+    "entity_type": "company",
+    "name": "Anthropic",
+    "description": "",
+    "url": "https://anthropic.com",
+    "categories": [
+      "company",
+      "new"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://anthropic.com"
+    },
+    "metadata": {
+      "founding_year": 2021,
+      "sector": "AI Safety / LLMs",
+      "hq": "San Francisco, USA"
+    },
+    "first_seen": "2026-08-26T09:30:35.227057+00:00",
+    "raw_name": "Anthropic"
+  },
+  {
+    "id": "34b5f0d9-234a-5773-8b47-67045cf88217",
+    "entity_type": "company",
+    "name": "Mistral AI",
+    "description": "",
+    "url": "https://mistral.ai",
+    "categories": [
+      "company",
+      "new"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://mistral.ai"
+    },
+    "metadata": {
+      "founding_year": 2023,
+      "sector": "Open-weight LLMs",
+      "hq": "Paris, France"
+    },
+    "first_seen": "2026-08-26T09:30:35.227073+00:00",
+    "raw_name": "Mistral AI"
+  },
+  {
+    "id": "d140422a-b2e5-57ee-a330-2c26d98c6115",
+    "entity_type": "company",
+    "name": "Cohere",
+    "description": "",
+    "url": "https://cohere.com",
+    "categories": [
+      "company",
+      "new"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://cohere.com"
+    },
+    "metadata": {
+      "founding_year": 2019,
+      "sector": "Enterprise LLMs",
+      "hq": "Toronto, Canada"
+    },
+    "first_seen": "2026-08-26T09:30:35.227092+00:00",
+    "raw_name": "Cohere"
+  },
+  {
+    "id": "4660f26a-03b4-5190-9cc9-c3d3125399d9",
+    "entity_type": "company",
+    "name": "Stability AI",
+    "description": "",
+    "url": "https://stability.ai",
+    "categories": [
+      "company",
+      "new"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://stability.ai"
+    },
+    "metadata": {
+      "founding_year": 2019,
+      "sector": "Generative Image Models",
+      "hq": "London, UK"
+    },
+    "first_seen": "2026-08-26T09:30:35.227106+00:00",
+    "raw_name": "Stability AI"
+  },
+  {
+    "id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "entity_type": "company",
+    "name": "Hugging Face",
+    "description": "",
+    "url": "https://huggingface.co",
+    "categories": [
+      "company",
+      "new"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://huggingface.co"
+    },
+    "metadata": {
+      "founding_year": 2016,
+      "sector": "ML Infrastructure / Model Hub",
+      "hq": "New York, USA"
+    },
+    "first_seen": "2026-08-26T09:30:35.227118+00:00",
+    "raw_name": "Hugging Face"
+  },
+  {
+    "id": "b57c2288-136a-5193-9072-539c5b5d92b9",
+    "entity_type": "company",
+    "name": "Perplexity AI",
+    "description": "",
+    "url": "https://perplexity.ai",
+    "categories": [
+      "company",
+      "new"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://perplexity.ai"
+    },
+    "metadata": {
+      "founding_year": 2022,
+      "sector": "AI Search",
+      "hq": "San Francisco, USA"
+    },
+    "first_seen": "2026-08-26T09:30:35.227128+00:00",
+    "raw_name": "Perplexity AI"
+  },
+  {
+    "id": "9c53acc6-5689-5e19-bdc8-9a677381691b",
+    "entity_type": "company",
+    "name": "Runway",
+    "description": "",
+    "url": "https://runwayml.com",
+    "categories": [
+      "company",
+      "new"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://runwayml.com"
+    },
+    "metadata": {
+      "founding_year": 2018,
+      "sector": "Generative Video",
+      "hq": "New York, USA"
+    },
+    "first_seen": "2026-08-26T09:30:35.227138+00:00",
+    "raw_name": "Runway"
+  },
+  {
+    "id": "9d3630f5-182b-5b15-8e4c-7e59f37dccbd",
+    "entity_type": "company",
+    "name": "Scale AI",
+    "description": "",
+    "url": "https://scale.com",
+    "categories": [
+      "company",
+      "new"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://scale.com"
+    },
+    "metadata": {
+      "founding_year": 2016,
+      "sector": "Data Labeling / AI Infrastructure",
+      "hq": "San Francisco, USA"
+    },
+    "first_seen": "2026-08-26T09:30:35.227147+00:00",
+    "raw_name": "Scale AI"
+  },
+  {
+    "id": "3582df8c-73df-5aa6-b64d-6d4e317a4c82",
+    "entity_type": "company",
+    "name": "Character.AI",
+    "description": "",
+    "url": "https://character.ai",
+    "categories": [
+      "company",
+      "new"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://character.ai"
+    },
+    "metadata": {
+      "founding_year": 2021,
+      "sector": "Conversational AI",
+      "hq": "Menlo Park, USA"
+    },
+    "first_seen": "2026-08-26T09:30:35.227157+00:00",
+    "raw_name": "Character.AI"
+  },
+  {
+    "id": "7a13e25b-321d-53bc-9347-a516eb647245",
+    "entity_type": "tool",
+    "name": "ChatGPT",
+    "description": "Conversational AI assistant for general-purpose tasks",
+    "url": "https://chat.openai.com",
+    "categories": [
+      "conversational-ai",
+      "new",
+      "tool"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://chat.openai.com"
+    },
+    "metadata": {},
+    "first_seen": "2026-08-26T09:30:35.227171+00:00",
+    "raw_name": "ChatGPT"
+  },
+  {
+    "id": "3c223b90-3f55-59e5-aae4-5cfa0027f080",
+    "entity_type": "tool",
+    "name": "Midjourney",
+    "description": "Text-to-image generation tool",
+    "url": "https://www.midjourney.com",
+    "categories": [
+      "computer-vision",
+      "new",
+      "tool"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://www.midjourney.com"
+    },
+    "metadata": {},
+    "first_seen": "2026-08-26T09:30:35.227181+00:00",
+    "raw_name": "Midjourney"
+  },
+  {
+    "id": "960f87a7-93b0-5738-96bf-caf512c1cb0e",
+    "entity_type": "tool",
+    "name": "GitHub Copilot",
+    "description": "AI pair programmer integrated into code editors",
+    "url": "https://github.com/features/copilot",
+    "categories": [
+      "code-generation",
+      "new",
+      "tool"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://github.com/features/copilot"
+    },
+    "metadata": {},
+    "first_seen": "2026-08-26T09:30:35.227192+00:00",
+    "raw_name": "GitHub Copilot"
+  },
+  {
+    "id": "89dfc3e3-4269-5214-99f8-1754922a68c5",
+    "entity_type": "tool",
+    "name": "Notion AI",
+    "description": "AI writing and productivity assistant inside Notion",
+    "url": "https://www.notion.so/product/ai",
+    "categories": [
+      "conversational-ai",
+      "new",
+      "tool"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://www.notion.so/product/ai"
+    },
+    "metadata": {},
+    "first_seen": "2026-08-26T09:30:35.227202+00:00",
+    "raw_name": "Notion AI"
+  },
+  {
+    "id": "469f2124-336d-5371-906c-9357140159de",
+    "entity_type": "tool",
+    "name": "Perplexity",
+    "description": "AI-powered answer engine with citations",
+    "url": "https://www.perplexity.ai",
+    "categories": [
+      "new",
+      "tool"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://www.perplexity.ai"
+    },
+    "metadata": {},
+    "first_seen": "2026-08-26T09:30:35.227213+00:00",
+    "raw_name": "Perplexity"
+  },
+  {
+    "id": "3ab3cf31-d200-5489-84ab-6e9ca7bd4b2e",
+    "entity_type": "tool",
+    "name": "ElevenLabs",
+    "description": "AI voice generation and cloning platform",
+    "url": "https://elevenlabs.io",
+    "categories": [
+      "new",
+      "speech",
+      "tool"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://elevenlabs.io"
+    },
+    "metadata": {},
+    "first_seen": "2026-08-26T09:30:35.227223+00:00",
+    "raw_name": "ElevenLabs"
+  },
+  {
+    "id": "0b35990c-3028-5cbf-8c96-be2cfb974356",
+    "entity_type": "tool",
+    "name": "Canva Magic Studio",
+    "description": "AI-assisted design suite inside Canva",
+    "url": "https://www.canva.com/magic-studio",
+    "categories": [
+      "new",
+      "tool"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://www.canva.com/magic-studio"
+    },
+    "metadata": {},
+    "first_seen": "2026-08-26T09:30:35.227235+00:00",
+    "raw_name": "Canva Magic Studio"
+  },
+  {
+    "id": "5cbb89e4-388c-5f42-a943-cbc80eaec9e9",
+    "entity_type": "tool",
+    "name": "Cursor",
+    "description": "AI-native code editor built on VS Code",
+    "url": "https://cursor.com",
+    "categories": [
+      "code-generation",
+      "new",
+      "tool"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://cursor.com"
+    },
+    "metadata": {},
+    "first_seen": "2026-08-26T09:30:35.227245+00:00",
+    "raw_name": "Cursor"
+  },
+  {
+    "id": "8541d2de-22b2-53a7-be0b-83968ee736df",
+    "entity_type": "robot",
+    "name": "Boston Dynamics Spot",
+    "description": "Quadruped robot for inspection and mobility tasks",
+    "url": "https://bostondynamics.com/products/spot",
+    "categories": [
+      "new",
+      "robot",
+      "robotics"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://bostondynamics.com/products/spot"
+    },
+    "metadata": {},
+    "first_seen": "2026-08-26T09:30:35.227257+00:00",
+    "raw_name": "Boston Dynamics Spot"
+  },
+  {
+    "id": "214ae0f0-03fd-5ac5-9e3d-ea75b2d016e6",
+    "entity_type": "robot",
+    "name": "Boston Dynamics Atlas",
+    "description": "Bipedal humanoid research robot",
+    "url": "https://bostondynamics.com/atlas",
+    "categories": [
+      "new",
+      "robot",
+      "robotics"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://bostondynamics.com/atlas"
+    },
+    "metadata": {},
+    "first_seen": "2026-08-26T09:30:35.227267+00:00",
+    "raw_name": "Boston Dynamics Atlas"
+  },
+  {
+    "id": "37f49e2d-66f1-5ac2-9acb-57e09140cd25",
+    "entity_type": "robot",
+    "name": "Figure 02",
+    "description": "General-purpose humanoid robot for logistics and manufacturing",
+    "url": "https://www.figure.ai",
+    "categories": [
+      "new",
+      "robot",
+      "robotics"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://www.figure.ai"
+    },
+    "metadata": {},
+    "first_seen": "2026-08-26T09:30:35.227276+00:00",
+    "raw_name": "Figure 02"
+  },
+  {
+    "id": "d96eea47-4103-5d03-9ead-2a9e7b27d793",
+    "entity_type": "robot",
+    "name": "Unitree G1",
+    "description": "Compact humanoid robot platform",
+    "url": "https://www.unitree.com/g1",
+    "categories": [
+      "new",
+      "robot",
+      "robotics"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://www.unitree.com/g1"
+    },
+    "metadata": {},
+    "first_seen": "2026-08-26T09:30:35.227286+00:00",
+    "raw_name": "Unitree G1"
+  },
+  {
+    "id": "c2dabd3c-2b73-555c-ab75-556594d421cd",
+    "entity_type": "device",
+    "name": "Rabbit R1",
+    "description": "Standalone AI assistant hardware device",
+    "url": "https://www.rabbit.tech",
+    "categories": [
+      "conversational-ai",
+      "device",
+      "new"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://www.rabbit.tech"
+    },
+    "metadata": {},
+    "first_seen": "2026-08-26T09:30:35.227389+00:00",
+    "raw_name": "Rabbit R1"
+  },
+  {
+    "id": "7bac5f1a-ed2b-542b-9a65-639ad756f032",
+    "entity_type": "device",
+    "name": "Humane AI Pin",
+    "description": "Wearable AI assistant device",
+    "url": "https://humane.com",
+    "categories": [
+      "conversational-ai",
+      "device",
+      "new"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://humane.com"
+    },
+    "metadata": {},
+    "first_seen": "2026-08-26T09:30:35.227401+00:00",
+    "raw_name": "Humane AI Pin"
+  },
+  {
+    "id": "bb008e1c-e580-5763-88ff-e1410a07f104",
+    "entity_type": "device",
+    "name": "Meta Ray-Ban Smart Glasses",
+    "description": "AI-enabled smart glasses with voice assistant",
+    "url": "https://www.meta.com/ai-glasses",
+    "categories": [
+      "conversational-ai",
+      "device",
+      "new",
+      "speech"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://www.meta.com/ai-glasses"
+    },
+    "metadata": {},
+    "first_seen": "2026-08-26T09:30:35.227411+00:00",
+    "raw_name": "Meta Ray-Ban Smart Glasses"
+  },
+  {
+    "id": "d46302ef-3f92-5aeb-96a0-e747f2e6d571",
+    "entity_type": "personal",
+    "name": "Siri",
+    "description": "Apple's built-in personal voice assistant",
+    "url": "https://www.apple.com/siri",
+    "categories": [
+      "conversational-ai",
+      "new",
+      "personal",
+      "speech"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://www.apple.com/siri"
+    },
+    "metadata": {},
+    "first_seen": "2026-08-26T09:30:35.227423+00:00",
+    "raw_name": "Siri"
+  },
+  {
+    "id": "b7c10fba-4b34-5b4b-a58f-5c1160a6e10a",
+    "entity_type": "personal",
+    "name": "Google Assistant",
+    "description": "Google's cross-device personal assistant",
+    "url": "https://assistant.google.com",
+    "categories": [
+      "conversational-ai",
+      "new",
+      "personal"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://assistant.google.com"
+    },
+    "metadata": {},
+    "first_seen": "2026-08-26T09:30:35.227434+00:00",
+    "raw_name": "Google Assistant"
+  },
+  {
+    "id": "6ea4f3f0-3bba-5ec9-b378-34f67b843a0a",
+    "entity_type": "personal",
+    "name": "Amazon Alexa",
+    "description": "Amazon's voice-activated personal assistant",
+    "url": "https://www.alexa.com",
+    "categories": [
+      "conversational-ai",
+      "new",
+      "personal",
+      "speech"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://www.alexa.com"
+    },
+    "metadata": {},
+    "first_seen": "2026-08-26T09:30:35.227444+00:00",
+    "raw_name": "Amazon Alexa"
+  },
+  {
+    "id": "1ed6cbea-7bc2-5c5e-9bbe-d04c3212ded8",
+    "entity_type": "creative",
+    "name": "Suno",
+    "description": "AI music generation platform",
+    "url": "https://suno.com",
+    "categories": [
+      "creative",
+      "new"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://suno.com"
+    },
+    "metadata": {},
+    "first_seen": "2026-08-26T09:30:35.227455+00:00",
+    "raw_name": "Suno"
+  },
+  {
+    "id": "8494a692-ce81-5601-8939-73f8c69083b1",
+    "entity_type": "creative",
+    "name": "Udio",
+    "description": "AI music creation tool",
+    "url": "https://www.udio.com",
+    "categories": [
+      "creative",
+      "new"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://www.udio.com"
+    },
+    "metadata": {},
+    "first_seen": "2026-08-26T09:30:35.227464+00:00",
+    "raw_name": "Udio"
+  },
+  {
+    "id": "2d28a4df-e963-5a2c-a1ed-fa8986443f3b",
+    "entity_type": "creative",
+    "name": "Adobe Firefly",
+    "description": "Generative AI suite integrated into Adobe Creative Cloud",
+    "url": "https://www.adobe.com/products/firefly.html",
+    "categories": [
+      "creative",
+      "new"
+    ],
+    "source": {
+      "name": "Curated (manually verified, public company/product pages)",
+      "url": "https://www.adobe.com/products/firefly.html"
+    },
+    "metadata": {},
+    "first_seen": "2026-08-26T09:30:35.227474+00:00",
+    "raw_name": "Adobe Firefly"
+  }
+]
