@@ -4,7 +4,7 @@ A production-style, API-first ingestion pipeline that aggregates, normalizes,
 and structures multi-domain data from across the AI ecosystem into a common
 entity + relationship graph.
 
-**Live demo:** _add your deployed Streamlit URL here after deployment_
+**Live demo:** https://ai-orbit-pipeline.streamlit.app/
 **Trial:** GraphOne / FrontierAtlas — 3-day AI Engineer trial
 
 ---
