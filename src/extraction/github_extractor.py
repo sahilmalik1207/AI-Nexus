@@ -50,9 +50,44 @@ def _headers() -> dict:
     return headers
 
 
+# Best-effort language -> package-manager mapping, used to populate MCP
+# servers' "installation methods" / "runtime requirements" metadata (spec
+# 4.2) without an extra API call per repo. This is a heuristic based on
+# GitHub's reported primary language, documented as such rather than
+# presented as ground truth scraped from each repo's actual install docs.
+_LANGUAGE_INSTALL_HINTS = {
+    "Python": {"install_method": "pip install (see repository README/pyproject.toml)", "runtime": "Python 3.10+"},
+    "TypeScript": {"install_method": "npm install / npx (see repository README/package.json)", "runtime": "Node.js 18+"},
+    "JavaScript": {"install_method": "npm install / npx (see repository README/package.json)", "runtime": "Node.js 18+"},
+    "Go": {"install_method": "go install (see repository README/go.mod)", "runtime": "Go 1.21+"},
+    "Rust": {"install_method": "cargo install (see repository README/Cargo.toml)", "runtime": "Rust (stable toolchain)"},
+    "Java": {"install_method": "Maven/Gradle build (see repository README)", "runtime": "JDK 17+"},
+}
+_DEFAULT_INSTALL_HINT = {"install_method": "see repository README for installation instructions", "runtime": "unspecified (see repository README)"}
+
+
 def _entity_from_repo(item: dict, entity_type: EntityType) -> Entity:
     full_name = item.get("full_name", "")
     canonical_key = f"github.com/{full_name}"
+    language = item.get("language")
+
+    metadata = {
+        "stars": item.get("stargazers_count", 0),
+        "language": language,
+        "last_updated": item.get("updated_at"),
+        "owner": (item.get("owner") or {}).get("login"),
+        "full_name": full_name,
+        "forks": item.get("forks_count", 0),
+        "open_issues": item.get("open_issues_count", 0),
+    }
+
+    if entity_type == EntityType.MCP:
+        # Spec 4.2 requires "Installation methods and runtime requirements"
+        # for MCP servers specifically.
+        hint = _LANGUAGE_INSTALL_HINTS.get(language, _DEFAULT_INSTALL_HINT)
+        metadata["installation_method"] = hint["install_method"]
+        metadata["runtime_requirements"] = hint["runtime"]
+
     return Entity(
         id=Entity.make_id(entity_type, canonical_key),
         entity_type=entity_type,
@@ -61,15 +96,7 @@ def _entity_from_repo(item: dict, entity_type: EntityType) -> Entity:
         url=item.get("html_url", ""),
         categories=(item.get("topics") or [])[:10],
         source=SourceRef(name="GitHub API", url="https://api.github.com/search/repositories"),
-        metadata={
-            "stars": item.get("stargazers_count", 0),
-            "language": item.get("language"),
-            "last_updated": item.get("updated_at"),
-            "owner": (item.get("owner") or {}).get("login"),
-            "full_name": full_name,
-            "forks": item.get("forks_count", 0),
-            "open_issues": item.get("open_issues_count", 0),
-        },
+        metadata=metadata,
         raw_name=full_name,
     )
 
