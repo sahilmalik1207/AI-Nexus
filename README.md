@@ -1,185 +1,293 @@
-# AI Orbit — Data Ingestion Pipeline
+# AI Nexus — AI Ecosystem Intelligence Platform
 
-A production-style, API-first ingestion pipeline that aggregates, normalizes,
-and structures multi-domain data from across the AI ecosystem into a common
-entity + relationship graph.
+AI Nexus is a data ingestion and intelligence platform that collects, processes, organizes, and explores information from across the AI ecosystem.
 
-**Live demo:** https://ai-orbit-pipeline.streamlit.app/
-**Trial:** GraphOne / FrontierAtlas — 3-day AI Engineer trial
+The platform transforms data from multiple sources into a structured **entity and relationship graph**, allowing users to explore AI repositories, models, tools, companies, tasks, news, and other AI-related entities.
+
+## 🚀 Features
+
+* 📡 Multi-source AI data collection
+* 🧹 Data cleaning and normalization
+* 🔍 Entity deduplication
+* 🏷️ Entity classification and categorization
+* 🔗 Relationship mapping
+* ✅ Data validation and quarantine reporting
+* 📊 Interactive Streamlit dashboard
+* 🔎 Search and category filtering
+* 📈 AI ecosystem insights and analytics
 
 ---
 
-## Architecture
+## 🏗️ Data Pipeline
 
-```
-Discovery → Extraction → Cleaning → Normalization → Deduplication →
-Classification → Relationship Mapping → Validation
+```text
+Discovery → Extraction → Cleaning → Normalization → Deduplication
+→ Classification → Relationship Mapping → Validation
 ```
 
-Each stage is an isolated module under `src/`, connected by one shared
-contract: the `Entity` and `Relationship` Pydantic models
-(`src/models/entity.py`). Every extractor, regardless of source, outputs
-`Entity` objects — the rest of the pipeline never needs to know where a
-record came from.
+Each stage processes the data before it is stored as structured entities and relationships.
 
-```
+## 📁 Project Structure
+
+```text
 src/
-  config.py                 # env vars, constants, output paths (no secrets hardcoded)
-  http_client.py             # shared retry/backoff HTTP wrapper (used by every extractor)
+  config.py
+  http_client.py
+
   models/
-    entity.py                # Entity, Relationship schemas + deterministic UUID generation
+    entity.py
+
   extraction/
-    github_extractor.py      # repositories + MCP servers (GitHub Search API)
-    huggingface_extractor.py # models (HF Hub API)
-    tasks_extractor.py       # tasks (HF task taxonomy API)
-    collections_extractor.py # curated "awesome-*" lists (reuses GitHub API)
-    news_extractor.py        # news (public RSS feeds)
-    youtube_extractor.py     # videos (YouTube Data API v3)
-    curated_extractor.py     # companies/tools/robots/devices/personal/creative (see below)
+    github_extractor.py
+    huggingface_extractor.py
+    tasks_extractor.py
+    collections_extractor.py
+    news_extractor.py
+    youtube_extractor.py
+    curated_extractor.py
+
   processing/
-    cleaning.py               # HTML stripping, URL canonicalization
-    deduplication.py          # 3-tier entity resolution
-    classification.py         # keyword-based category enrichment + "new" tagging
-    relationships.py          # relationship extraction between entity types
-    validation.py             # schema/quality checks, quarantine reporting
-run.py                        # orchestrates all 8 stages, writes data/*.json
-app.py                        # Streamlit viewer (the live deployment)
+    cleaning.py
+    deduplication.py
+    classification.py
+    relationships.py
+    validation.py
+
+data/
+  entities.json
+  relationships.json
+  run_report.json
+
+run.py
+app.py
 ```
 
-## Why this design
+---
 
-**Deterministic IDs, not random ones.** Every entity's ID is a UUIDv5 derived
-from `(entity_type, canonical_key)` — e.g. the GitHub repo `openai/whisper`
-always resolves to the same ID, on this run or the next. This is what makes
-re-running the pipeline idempotent and what makes cross-run deduplication
-possible without a database round-trip.
+# 🤖 AI Nexus Dashboard
 
-**One HTTP client, not six.** Every extractor hits a different flaky
-third-party API. Retry/backoff/error-handling logic lives once in
-`http_client.py` rather than being copy-pasted per source — a request that
-fails never crashes the pipeline, it just returns `None` and the caller logs
-and moves on.
+The Streamlit dashboard provides an interactive interface for exploring the AI ecosystem.
 
-**Per-source isolation in the orchestrator.** `run.py` wraps every
-extractor call in a try/except. If YouTube's key is missing, or a feed
-times out, that source contributes zero records and everything else still
-runs. This is deliberate: a demo that reproduces the *actual* trial task
-should demonstrate resilience, not a single point of failure.
+### Platform Overview
 
-**Three-tier deduplication**, cheapest checks first:
-1. Exact ID collision (same type + same canonical key)
-2. Exact normalized-URL match within the same entity type
-3. Fuzzy name match (`difflib`, threshold 0.92) — catches "OpenAI" vs
-   "Open AI" vs "open-ai" without needing an LLM call for a bounded,
-   ~250-300 record batch.
+The dashboard displays:
 
-**Relationship extraction is deterministic text-matching, not an LLM call.**
-Every relationship carries an `evidence` string (e.g. "provider field
-matches 'OpenAI'") so a reviewer can audit *why* an edge exists. For a graph
-this size, precision from cheap, explainable rules beats the latency/cost/
-non-determinism of an LLM call — this can be swapped in later without
-touching any other stage, since it only reads `Entity` objects.
+* 🧠 Knowledge Entities
+* 🔗 Connected Relationships
+* 📂 AI Categories
+* ⚠️ Data Quality Issues
 
-**Validation quarantines, it doesn't discard silently.** Records failing
-schema checks are excluded from the final `entities.json`/`relationships.json`
-but logged with their specific error in `data/run_report.json` — so a bad
-record is neither invisible nor allowed to corrupt the dataset.
+### AI Ecosystem Insights
 
-## An honest note on data sources
+Users can view the distribution of entities across different AI categories and identify:
 
-The spec categories `Tools`, `Companies`, `Robots`, `Devices`, `Personal`,
-and `Creative` don't have a free, keyless, API-first data source — Crunchbase
-and PitchBook require paid keys, and there's no public "AI tool directory"
-API. Rather than either skip these categories or quietly scrape a directory
-site and call it an API, `curated_extractor.py` is a small, hand-verified
-seed set of real, well-known entities (every `url` is a real, checkable
-page). This is documented rather than hidden because the trade-off itself
-is the point: a data engineer bootstraps reference data this way and swaps
-in a paid API client later behind the same `Entity` contract — no other
-code changes needed.
+* Largest category
+* Category share
+* Number of visible entities
 
-Everything else (`repositories`, `mcp`, `models`, `tasks`, `collections`,
-`news`, `videos`) comes from live, public, keyless-or-optionally-keyed APIs:
-GitHub Search API, Hugging Face Hub API + task taxonomy, RSS feeds, and
-YouTube Data API v3.
+### AI Entity Explorer
 
-## Design decision: "New/Recently added" as a category tag, not an entity_type
+Users can:
 
-The spec's category table lists "New/Recently added" alongside entity types
-like Tools, Models, Companies. It is implemented here as a **category tag**
-(`classification.py` adds `"new"` to `categories` for anything first-seen or
-published within the trailing 30 days) rather than a distinct `entity_type`.
-Reasoning: recency is a property that cuts across every entity type — a
-model can be both `entity_type=model` AND recently added; forcing it into
-its own type would mean an entity can't be both a model and "new" at the
-same time, which loses information rather than adding it. Filter on
-`"new" in entity["categories"]` to get the recently-added slice of any type.
+* Search AI entities
+* Filter by category
+* View descriptions and URLs
+* Explore available categories
 
-## Design decision: final entity count (364) vs. the 250–300 target
+### Relationship Explorer
 
-A full run against all live sources (GitHub, Hugging Face, RSS, HF task
-taxonomy, curated seed data) produces ~364 validated entities with **zero**
-records quarantined — every one passed schema and quality checks. The spec
-frames 250–300 as a quality bar ("rather than sheer volume... a
-High-Quality Representative Dataset"), not a hard ceiling. Since trimming a
-clean, deduplicated, fully-validated set down to an arbitrary number would
-throw away real, correctly-resolved data for no quality benefit, the full
-364 are retained. `--skip` flags on `run.py` make it trivial to shrink the
-run (e.g. drop `collections` or lower `per_tag`/`per_query` limits in the
-extractor source) if a stricter ceiling is required.
+The platform maps relationships between entities and displays:
 
+* Source entity
+* Relationship type
+* Target entity
+* Confidence score
+* Supporting evidence
 
+---
+
+# 📊 Current Dataset
+
+The current dataset contains approximately:
+
+* **354 Knowledge Entities**
+* **177 Connected Relationships**
+* **12 AI Entity Categories**
+* **0 Data Quality Issues**
+
+Entity categories include:
+
+* Repository
+* Model
+* MCP
+* Task
+* Collection
+* Company
+* Tool
+* News
+* Robot
+* Device
+* Personal
+* Creative
+
+---
+
+# 🧠 Technical Design
+
+## Deterministic Entity IDs
+
+Entities use deterministic identifiers generated from their entity type and canonical key.
+
+This helps maintain consistency between pipeline runs and improves duplicate detection.
+
+## Data Deduplication
+
+The pipeline uses multiple levels of duplicate detection:
+
+1. Exact entity ID matching
+2. Normalized URL matching
+3. Fuzzy name matching
+
+## Relationship Extraction
+
+Relationships between entities are extracted using deterministic rules and text matching.
+
+Each relationship can contain supporting evidence to make the relationship easier to inspect and validate.
+
+## Data Validation
+
+Invalid entities and relationships are quarantined rather than silently discarded.
+
+Validation results are recorded in:
+
+```text
+data/run_report.json
+```
+
+---
+
+# ⚙️ Installation
+
+Clone the repository:
 
 ```bash
-python -m venv venv && source venv/bin/activate
+git clone https://github.com/sahilmalik1207/AI-Nexus.git
+cd AI-Nexus
+```
+
+Create a virtual environment.
+
+### Windows
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+Install dependencies:
+
+```bash
 pip install -r requirements.txt
-cp .env.example .env   # optional: add GITHUB_TOKEN / YOUTUBE_API_KEY / HF_TOKEN
 ```
 
-Without any keys configured, the pipeline still runs — GitHub and Hugging
-Face allow unauthenticated read access (at lower rate limits), RSS needs no
-key at all, and only the YouTube extractor requires one to produce results.
+---
 
-## Running the pipeline
+# ▶️ Running the Data Pipeline
+
+Run the complete pipeline:
 
 ```bash
-python run.py                        # full run
-python run.py --skip youtube,news    # skip specific sources
-python run.py --verbose              # debug logging
+python run.py
 ```
 
-Outputs land in `data/`:
-- `entities.json` — validated entity records
-- `relationships.json` — validated relationship edges
-- `run_report.json` — counts by source/type, quarantine detail
-- `pipeline.log` — full run log
+Skip specific sources:
 
-## Running tests
+```bash
+python run.py --skip youtube,news
+```
+
+Enable verbose logging:
+
+```bash
+python run.py --verbose
+```
+
+The pipeline generates data files inside:
+
+```text
+data/
+```
+
+including:
+
+* `entities.json`
+* `relationships.json`
+* `run_report.json`
+
+---
+
+# 🖥️ Running the Dashboard
+
+Start the Streamlit application:
+
+```bash
+python -m streamlit run app.py
+```
+
+Then open:
+
+```text
+http://localhost:8501
+```
+
+---
+
+# 🧪 Running Tests
 
 ```bash
 pytest tests/ -v
 ```
 
-23 tests covering entity ID determinism, cleaning/normalization edge cases,
-all three deduplication tiers, and validation (entity + relationship
-quarantine logic).
+---
 
-## Running the live viewer
+# 🛠️ Technologies Used
 
-```bash
-streamlit run app.py
-```
+* Python
+* Streamlit
+* Pandas
+* Pydantic
+* GitHub API
+* Hugging Face API
+* RSS Feeds
+* YouTube Data API
 
-Deployed on Streamlit Community Cloud — publicly accessible, no login
-required. The app reads directly from `data/*.json`, so redeploying after a
-fresh `python run.py` just means committing the updated JSON files.
+---
 
-## A note on network access during development
+# 📌 Future Improvements
 
-Parts of this pipeline (Hugging Face, YouTube, RSS feeds, arXiv) were built
-and unit-tested with mocked/isolated logic in a sandboxed dev environment
-that only allowed outbound access to `api.github.com`. The GitHub extractor
-was verified against the live API end-to-end; the others were verified via
-unit tests against their parsing/transformation logic and are expected to
-run unmodified in an environment with normal internet access (confirmed via
-direct inspection of each API's documented response shape).
+* Interactive graph visualization
+* User authentication
+* Advanced relationship analytics
+* Real-time data updates
+* AI-powered entity classification
+* Advanced search capabilities
+* Dashboard export functionality
+* Cloud deployment automation
+
+---
+
+# 🙏 Credits
+
+AI Nexus was developed by extending and customizing an existing AI ecosystem data ingestion project.
+
+The project was rebranded and enhanced with a redesigned **AI Nexus dashboard**, improved entity exploration, ecosystem insights, filtering, and relationship visualization.
+
+Original project inspiration/source:
+
+https://github.com/vishal24241/Ai-Orbit-Pipeline
+
+## Developer
+
+**Sahil Malik**
+
+GitHub: https://github.com/sahilmalik1207
