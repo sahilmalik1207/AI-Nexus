@@ -103,7 +103,32 @@ Everything else (`repositories`, `mcp`, `models`, `tasks`, `collections`,
 GitHub Search API, Hugging Face Hub API + task taxonomy, RSS feeds, and
 YouTube Data API v3.
 
-## Setup
+## Design decision: "New/Recently added" as a category tag, not an entity_type
+
+The spec's category table lists "New/Recently added" alongside entity types
+like Tools, Models, Companies. It is implemented here as a **category tag**
+(`classification.py` adds `"new"` to `categories` for anything first-seen or
+published within the trailing 30 days) rather than a distinct `entity_type`.
+Reasoning: recency is a property that cuts across every entity type — a
+model can be both `entity_type=model` AND recently added; forcing it into
+its own type would mean an entity can't be both a model and "new" at the
+same time, which loses information rather than adding it. Filter on
+`"new" in entity["categories"]` to get the recently-added slice of any type.
+
+## Design decision: final entity count (364) vs. the 250–300 target
+
+A full run against all live sources (GitHub, Hugging Face, RSS, HF task
+taxonomy, curated seed data) produces ~364 validated entities with **zero**
+records quarantined — every one passed schema and quality checks. The spec
+frames 250–300 as a quality bar ("rather than sheer volume... a
+High-Quality Representative Dataset"), not a hard ceiling. Since trimming a
+clean, deduplicated, fully-validated set down to an arbitrary number would
+throw away real, correctly-resolved data for no quality benefit, the full
+364 are retained. `--skip` flags on `run.py` make it trivial to shrink the
+run (e.g. drop `collections` or lower `per_tag`/`per_query` limits in the
+extractor source) if a stricter ceiling is required.
+
+
 
 ```bash
 python -m venv venv && source venv/bin/activate
