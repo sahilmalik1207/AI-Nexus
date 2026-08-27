@@ -56,20 +56,20 @@
     "evidence": "'Hugging Face' mentioned in trl-internal-testing/tiny-Qwen2ForCausalLM-2.5"
   },
   {
-    "id": "840e82ff-95ae-5316-a681-0d8010a463e2",
-    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
-    "target_id": "8773dcdb-4fbb-5f0c-bbe0-9161ccee6d0c",
-    "relation_type": "develops",
-    "confidence": 0.6,
-    "evidence": "'Hugging Face' mentioned in Qwen/Qwen3-8B"
-  },
-  {
     "id": "d893b5c1-6ef7-5745-aab1-c8b78120729a",
     "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
     "target_id": "ecc84e26-2f20-502c-9a5e-a5bebbf7bb77",
     "relation_type": "develops",
     "confidence": 0.6,
     "evidence": "'Hugging Face' mentioned in openai-community/gpt2"
+  },
+  {
+    "id": "840e82ff-95ae-5316-a681-0d8010a463e2",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "8773dcdb-4fbb-5f0c-bbe0-9161ccee6d0c",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in Qwen/Qwen3-8B"
   },
   {
     "id": "21a57b3f-10ad-5bda-952e-a75fafaa5f4a",
@@ -176,20 +176,20 @@
     "evidence": "'Hugging Face' mentioned in black-forest-labs/FLUX.1-dev"
   },
   {
-    "id": "76380a31-e97b-5b12-b13c-197d9f55c569",
-    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
-    "target_id": "e7bc434b-efea-5738-a04c-20670f5c413c",
-    "relation_type": "develops",
-    "confidence": 0.6,
-    "evidence": "'Hugging Face' mentioned in wikeeyang/Flux2-Klein-9B-True-V2"
-  },
-  {
     "id": "d641ba84-a935-53a5-9a61-58c899c90088",
     "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
     "target_id": "7cf5eb9f-2095-5a3c-8bc0-5c86bd12bf70",
     "relation_type": "develops",
     "confidence": 0.6,
     "evidence": "'Hugging Face' mentioned in black-forest-labs/FLUX.1-schnell"
+  },
+  {
+    "id": "76380a31-e97b-5b12-b13c-197d9f55c569",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "e7bc434b-efea-5738-a04c-20670f5c413c",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in wikeeyang/Flux2-Klein-9B-True-V2"
   },
   {
     "id": "6373141b-bfbe-5f02-9aff-42e5716fa8a1",
@@ -248,20 +248,20 @@
     "evidence": "'Hugging Face' mentioned in argmaxinc/whisperkit-coreml"
   },
   {
-    "id": "670f552c-cd63-54f4-9d34-5b603e3f4104",
-    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
-    "target_id": "965e09ac-8616-539b-abd7-eb9ceb7a2cd1",
-    "relation_type": "develops",
-    "confidence": 0.6,
-    "evidence": "'Hugging Face' mentioned in pyannote/speaker-diarization-3.1"
-  },
-  {
     "id": "5c9c8c6f-f6ae-50c5-bbd5-934db9f60c2b",
     "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
     "target_id": "886316dc-8ffc-547f-8731-1581ddd038a2",
     "relation_type": "develops",
     "confidence": 0.6,
     "evidence": "'Hugging Face' mentioned in jonatasgrosman/wav2vec2-large-xlsr-53-japanese"
+  },
+  {
+    "id": "670f552c-cd63-54f4-9d34-5b603e3f4104",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "965e09ac-8616-539b-abd7-eb9ceb7a2cd1",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in pyannote/speaker-diarization-3.1"
   },
   {
     "id": "bf4521c1-65bd-53f6-98ff-00b3b193b953",
@@ -288,20 +288,20 @@
     "evidence": "'Hugging Face' mentioned in jonatasgrosman/wav2vec2-large-xlsr-53-portuguese"
   },
   {
-    "id": "25d9de45-dd54-588a-8089-dd1f9248c644",
-    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
-    "target_id": "90b93ecc-84b3-578a-adfd-9199727a5397",
-    "relation_type": "develops",
-    "confidence": 0.6,
-    "evidence": "'Hugging Face' mentioned in openai/whisper-large-v3"
-  },
-  {
     "id": "46d6e758-586a-5989-b5e9-fc1e45b57f9c",
     "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
     "target_id": "c2e28e49-75e6-58d0-925e-3c427b15a46f",
     "relation_type": "develops",
     "confidence": 0.6,
     "evidence": "'Hugging Face' mentioned in Qwen/Qwen3-ASR-1.7B"
+  },
+  {
+    "id": "25d9de45-dd54-588a-8089-dd1f9248c644",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "90b93ecc-84b3-578a-adfd-9199727a5397",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in openai/whisper-large-v3"
   },
   {
     "id": "92ac2045-5736-5f51-9d5e-1d68cf711d42",
@@ -328,22 +328,6 @@
     "evidence": "'Hugging Face' mentioned in jonatasgrosman/wav2vec2-large-xlsr-53-polish"
   },
   {
-    "id": "fa0567be-019f-5c14-975f-2a6497caf2a4",
-    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
-    "target_id": "20e22954-c1f4-5fa8-b051-06721956bb54",
-    "relation_type": "develops",
-    "confidence": 0.6,
-    "evidence": "'Hugging Face' mentioned in Qwen/Qwen3-ASR-0.6B"
-  },
-  {
-    "id": "97e2efe3-e5f9-5366-a1b8-d79195a7d8ec",
-    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
-    "target_id": "b73eb0f5-9660-5e10-9b5d-577c9cec2dd0",
-    "relation_type": "develops",
-    "confidence": 0.6,
-    "evidence": "'Hugging Face' mentioned in openai/whisper-small"
-  },
-  {
     "id": "e5d043f5-cb96-552f-ad85-4aea3e83a423",
     "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
     "target_id": "c8794360-261b-5180-a81a-574afd76d6c4",
@@ -358,6 +342,22 @@
     "relation_type": "develops",
     "confidence": 0.6,
     "evidence": "'Hugging Face' mentioned in indonesian-nlp/wav2vec2-indonesian-javanese-sundanese"
+  },
+  {
+    "id": "97e2efe3-e5f9-5366-a1b8-d79195a7d8ec",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "b73eb0f5-9660-5e10-9b5d-577c9cec2dd0",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in openai/whisper-small"
+  },
+  {
+    "id": "80322d4c-33ea-5a40-bd80-3f05465b54a3",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "f1f4b817-a935-5ca1-b877-43cdb55f5def",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in jonatasgrosman/wav2vec2-large-xlsr-53-greek"
   },
   {
     "id": "7ad32efc-18b1-51a8-8976-d0e90b7e8363",
@@ -728,20 +728,20 @@
     "evidence": "task keyword 'text-generation' found in trl-internal-testing/tiny-Qwen2ForCausalLM-2.5"
   },
   {
-    "id": "8a65043f-2644-5413-93d6-f98ed67fd020",
-    "source_id": "8773dcdb-4fbb-5f0c-bbe0-9161ccee6d0c",
-    "target_id": "ce5f2e5b-1f1e-59cc-8a65-38e8f9de3ca1",
-    "relation_type": "solves",
-    "confidence": 0.7,
-    "evidence": "task keyword 'text-generation' found in Qwen/Qwen3-8B"
-  },
-  {
     "id": "78b61809-b3f7-51c8-9b00-7c0943eeca53",
     "source_id": "ecc84e26-2f20-502c-9a5e-a5bebbf7bb77",
     "target_id": "ce5f2e5b-1f1e-59cc-8a65-38e8f9de3ca1",
     "relation_type": "solves",
     "confidence": 0.7,
     "evidence": "task keyword 'text-generation' found in openai-community/gpt2"
+  },
+  {
+    "id": "8a65043f-2644-5413-93d6-f98ed67fd020",
+    "source_id": "8773dcdb-4fbb-5f0c-bbe0-9161ccee6d0c",
+    "target_id": "ce5f2e5b-1f1e-59cc-8a65-38e8f9de3ca1",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-generation' found in Qwen/Qwen3-8B"
   },
   {
     "id": "619b5b6f-954e-561c-aadb-7d34745f5089",
@@ -848,20 +848,20 @@
     "evidence": "task keyword 'text-to-image' found in black-forest-labs/FLUX.1-dev"
   },
   {
-    "id": "a92d7abe-e2f9-581b-b4e8-a3b0da64de7f",
-    "source_id": "e7bc434b-efea-5738-a04c-20670f5c413c",
-    "target_id": "2cb8afb5-d611-5943-aa79-6c86fc36739f",
-    "relation_type": "solves",
-    "confidence": 0.7,
-    "evidence": "task keyword 'text-to-image' found in wikeeyang/Flux2-Klein-9B-True-V2"
-  },
-  {
     "id": "e3f5788d-6c17-5056-a882-35951cf31602",
     "source_id": "7cf5eb9f-2095-5a3c-8bc0-5c86bd12bf70",
     "target_id": "2cb8afb5-d611-5943-aa79-6c86fc36739f",
     "relation_type": "solves",
     "confidence": 0.7,
     "evidence": "task keyword 'text-to-image' found in black-forest-labs/FLUX.1-schnell"
+  },
+  {
+    "id": "a92d7abe-e2f9-581b-b4e8-a3b0da64de7f",
+    "source_id": "e7bc434b-efea-5738-a04c-20670f5c413c",
+    "target_id": "2cb8afb5-d611-5943-aa79-6c86fc36739f",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-image' found in wikeeyang/Flux2-Klein-9B-True-V2"
   },
   {
     "id": "3ce60232-2628-5aee-9edf-4ef264cff7eb",
@@ -920,20 +920,20 @@
     "evidence": "task keyword 'automatic-speech-recognition' found in argmaxinc/whisperkit-coreml"
   },
   {
-    "id": "607400a8-cb73-535b-8cb5-62e8919921de",
-    "source_id": "965e09ac-8616-539b-abd7-eb9ceb7a2cd1",
-    "target_id": "d9a67252-c9af-575d-8416-bfa41612198e",
-    "relation_type": "solves",
-    "confidence": 0.7,
-    "evidence": "task keyword 'automatic-speech-recognition' found in pyannote/speaker-diarization-3.1"
-  },
-  {
     "id": "52b5ca25-3256-5eaa-bab1-9b0211a4fb40",
     "source_id": "886316dc-8ffc-547f-8731-1581ddd038a2",
     "target_id": "d9a67252-c9af-575d-8416-bfa41612198e",
     "relation_type": "solves",
     "confidence": 0.7,
     "evidence": "task keyword 'automatic-speech-recognition' found in jonatasgrosman/wav2vec2-large-xlsr-53-japanese"
+  },
+  {
+    "id": "607400a8-cb73-535b-8cb5-62e8919921de",
+    "source_id": "965e09ac-8616-539b-abd7-eb9ceb7a2cd1",
+    "target_id": "d9a67252-c9af-575d-8416-bfa41612198e",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'automatic-speech-recognition' found in pyannote/speaker-diarization-3.1"
   },
   {
     "id": "d72a446d-6449-5a30-92d2-549371771569",
@@ -960,20 +960,20 @@
     "evidence": "task keyword 'automatic-speech-recognition' found in jonatasgrosman/wav2vec2-large-xlsr-53-portuguese"
   },
   {
-    "id": "7c0895df-2f24-5c01-8ae9-b3347ff6eb87",
-    "source_id": "90b93ecc-84b3-578a-adfd-9199727a5397",
-    "target_id": "d9a67252-c9af-575d-8416-bfa41612198e",
-    "relation_type": "solves",
-    "confidence": 0.7,
-    "evidence": "task keyword 'automatic-speech-recognition' found in openai/whisper-large-v3"
-  },
-  {
     "id": "850648aa-9ccf-515e-8a30-b921e774fefb",
     "source_id": "c2e28e49-75e6-58d0-925e-3c427b15a46f",
     "target_id": "d9a67252-c9af-575d-8416-bfa41612198e",
     "relation_type": "solves",
     "confidence": 0.7,
     "evidence": "task keyword 'automatic-speech-recognition' found in Qwen/Qwen3-ASR-1.7B"
+  },
+  {
+    "id": "7c0895df-2f24-5c01-8ae9-b3347ff6eb87",
+    "source_id": "90b93ecc-84b3-578a-adfd-9199727a5397",
+    "target_id": "d9a67252-c9af-575d-8416-bfa41612198e",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'automatic-speech-recognition' found in openai/whisper-large-v3"
   },
   {
     "id": "1f2ff7c3-0df7-51ef-9411-35a90cfb7587",
@@ -1000,22 +1000,6 @@
     "evidence": "task keyword 'automatic-speech-recognition' found in jonatasgrosman/wav2vec2-large-xlsr-53-polish"
   },
   {
-    "id": "4a2e5d31-1fc5-58e9-807b-0254afc3b32a",
-    "source_id": "20e22954-c1f4-5fa8-b051-06721956bb54",
-    "target_id": "d9a67252-c9af-575d-8416-bfa41612198e",
-    "relation_type": "solves",
-    "confidence": 0.7,
-    "evidence": "task keyword 'automatic-speech-recognition' found in Qwen/Qwen3-ASR-0.6B"
-  },
-  {
-    "id": "bde384cb-25ec-5b63-8092-8098ff380505",
-    "source_id": "b73eb0f5-9660-5e10-9b5d-577c9cec2dd0",
-    "target_id": "d9a67252-c9af-575d-8416-bfa41612198e",
-    "relation_type": "solves",
-    "confidence": 0.7,
-    "evidence": "task keyword 'automatic-speech-recognition' found in openai/whisper-small"
-  },
-  {
     "id": "65747fb6-4a37-5246-b544-888d2eb61272",
     "source_id": "c8794360-261b-5180-a81a-574afd76d6c4",
     "target_id": "d9a67252-c9af-575d-8416-bfa41612198e",
@@ -1030,6 +1014,22 @@
     "relation_type": "solves",
     "confidence": 0.7,
     "evidence": "task keyword 'automatic-speech-recognition' found in indonesian-nlp/wav2vec2-indonesian-javanese-sundanese"
+  },
+  {
+    "id": "bde384cb-25ec-5b63-8092-8098ff380505",
+    "source_id": "b73eb0f5-9660-5e10-9b5d-577c9cec2dd0",
+    "target_id": "d9a67252-c9af-575d-8416-bfa41612198e",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'automatic-speech-recognition' found in openai/whisper-small"
+  },
+  {
+    "id": "08cec012-b102-5ddd-a029-bc4ae643608b",
+    "source_id": "f1f4b817-a935-5ca1-b877-43cdb55f5def",
+    "target_id": "d9a67252-c9af-575d-8416-bfa41612198e",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'automatic-speech-recognition' found in jonatasgrosman/wav2vec2-large-xlsr-53-greek"
   },
   {
     "id": "732ede67-2684-5623-9ab3-07bebfffe8f8",

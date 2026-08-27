@@ -1,17 +1,17 @@
 {
-  "started_at": "2026-08-26T10:12:31.902178+00:00",
-  "finished_at": "2026-08-26T10:13:40.633634+00:00",
+  "started_at": "2026-08-27T12:50:21.527659+00:00",
+  "finished_at": "2026-08-27T12:51:34.280539+00:00",
   "source_counts_raw": {
     "github": 141,
     "huggingface": 90,
     "news": 32,
     "youtube": 0,
     "tasks": 40,
-    "collections": 45,
+    "collections": 30,
     "curated": 31
   },
-  "raw_entity_count": 379,
-  "final_entity_count": 364,
+  "raw_entity_count": 364,
+  "final_entity_count": 354,
   "final_relationship_count": 177,
   "entities_by_type": {
     "repository": 86,
@@ -19,7 +19,7 @@
     "model": 82,
     "news": 32,
     "task": 40,
-    "collection": 39,
+    "collection": 29,
     "company": 10,
     "tool": 8,
     "robot": 4,
