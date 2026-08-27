@@ -1,11 +1,1371 @@
 [
   {
+    "id": "02316d07-616f-59c8-80fa-bcd9f84eb8f7",
+    "source_id": "7c034add-2958-5195-8501-a05b891a9a1b",
+    "target_id": "ecc84e26-2f20-502c-9a5e-a5bebbf7bb77",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'OpenAI' mentioned in openai-community/gpt2"
+  },
+  {
+    "id": "a5e2a66a-1186-50ad-9f51-588ca91d7b5b",
+    "source_id": "7c034add-2958-5195-8501-a05b891a9a1b",
+    "target_id": "784dd639-e68b-53d5-98e2-6b298ae0bb54",
+    "relation_type": "develops",
+    "confidence": 0.9,
+    "evidence": "provider field matches 'OpenAI'"
+  },
+  {
+    "id": "6540b7cd-62d4-5da3-acee-cf1058c911df",
+    "source_id": "7c034add-2958-5195-8501-a05b891a9a1b",
+    "target_id": "7504ba94-edfa-5b22-9cec-b097306e5efb",
+    "relation_type": "develops",
+    "confidence": 0.9,
+    "evidence": "provider field matches 'OpenAI'"
+  },
+  {
+    "id": "ab9de431-c853-5a37-b642-325172056c34",
+    "source_id": "7c034add-2958-5195-8501-a05b891a9a1b",
+    "target_id": "90b93ecc-84b3-578a-adfd-9199727a5397",
+    "relation_type": "develops",
+    "confidence": 0.9,
+    "evidence": "provider field matches 'OpenAI'"
+  },
+  {
+    "id": "06298046-5fe3-5573-81e5-8ce9869e00dc",
+    "source_id": "7c034add-2958-5195-8501-a05b891a9a1b",
+    "target_id": "b73eb0f5-9660-5e10-9b5d-577c9cec2dd0",
+    "relation_type": "develops",
+    "confidence": 0.9,
+    "evidence": "provider field matches 'OpenAI'"
+  },
+  {
+    "id": "871c771e-3a58-506a-aab0-dd8f6cd85846",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "ce5fca0e-28f5-561a-9cd7-ccb53ff12a65",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in Qwen/Qwen3-0.6B"
+  },
+  {
+    "id": "c1d7d7d8-b55f-5314-b563-813b3a9aacc6",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "48897fd0-5163-59ef-9c7d-2118f292fa21",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in trl-internal-testing/tiny-Qwen2ForCausalLM-2.5"
+  },
+  {
+    "id": "840e82ff-95ae-5316-a681-0d8010a463e2",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "8773dcdb-4fbb-5f0c-bbe0-9161ccee6d0c",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in Qwen/Qwen3-8B"
+  },
+  {
+    "id": "d893b5c1-6ef7-5745-aab1-c8b78120729a",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "ecc84e26-2f20-502c-9a5e-a5bebbf7bb77",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in openai-community/gpt2"
+  },
+  {
+    "id": "21a57b3f-10ad-5bda-952e-a75fafaa5f4a",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "5cb1fd03-e45c-50e2-9040-c112556bc36f",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in facebook/opt-125m"
+  },
+  {
+    "id": "9048bcac-cf41-537d-977c-181db52c52b4",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "46219b61-02c8-5657-b442-354c7e5ade9f",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF"
+  },
+  {
+    "id": "fb26f755-5a92-59b7-8865-a85215d72036",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "69d21fd9-651a-55d4-8787-557e929b60ca",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in nvidia/Qwen3.6-35B-A3B-NVFP4"
+  },
+  {
+    "id": "63eb64f8-3467-56d4-be76-07ec3739e364",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "4ff6ff6a-4f0a-5f62-9971-a851a45d284f",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in Qwen/Qwen2.5-7B-Instruct"
+  },
+  {
+    "id": "d6bd7f2f-cdff-5422-9678-014b5748a7df",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "747a1b56-f340-5b38-9d07-0f1353dc2a5d",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in meta-llama/Llama-3.2-1B-Instruct"
+  },
+  {
+    "id": "5a3754cc-df43-562d-8000-0d908981cc8f",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "8711ee68-683a-57d1-bb3a-843e492a7cbd",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in farbodtavakkoli/OTel-2.0-LLM-31B-IT"
+  },
+  {
+    "id": "0f92210c-5a20-5e73-92ee-6da73cfd2f4c",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "784dd639-e68b-53d5-98e2-6b298ae0bb54",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in openai/gpt-oss-20b"
+  },
+  {
+    "id": "c74668fd-9f1b-5883-be15-c2fc9cb49ea3",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "9000a839-b15e-5ab7-95d5-9f607f940505",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in stabilityai/stable-diffusion-xl-base-1.0"
+  },
+  {
+    "id": "970d51af-ed72-52b8-bfc0-2dda0ad37c5b",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "f3e969b4-461e-5e55-9aca-fa2f890b5733",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in stable-diffusion-v1-5/stable-diffusion-v1-5"
+  },
+  {
+    "id": "fb1c39ad-45c7-5e44-bce8-6d77c972b950",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "6a93e509-7088-5f74-85c8-c404a36c7cf7",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in stabilityai/sdxl-turbo"
+  },
+  {
+    "id": "2371c9be-b748-55ed-8319-9e96012a3eb3",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "7fbc2e23-cd2c-556d-b51e-b9938965a4a0",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in Lykon/dreamshaper-7"
+  },
+  {
+    "id": "27fdb624-a7bd-5dab-94b1-86369f4e5e04",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "2bd2380c-1d8b-50b6-878b-1fbce536e9ac",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in Tongyi-MAI/Z-Image-Turbo"
+  },
+  {
+    "id": "06f8acb5-92d8-59c9-ac92-6f6b49a36cf3",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "90e34f2a-9dde-5d5c-ab29-9fae93a946bc",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in black-forest-labs/FLUX.1-dev"
+  },
+  {
+    "id": "76380a31-e97b-5b12-b13c-197d9f55c569",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "e7bc434b-efea-5738-a04c-20670f5c413c",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in wikeeyang/Flux2-Klein-9B-True-V2"
+  },
+  {
+    "id": "d641ba84-a935-53a5-9a61-58c899c90088",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "7cf5eb9f-2095-5a3c-8bc0-5c86bd12bf70",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in black-forest-labs/FLUX.1-schnell"
+  },
+  {
+    "id": "6373141b-bfbe-5f02-9aff-42e5716fa8a1",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "0527c12f-ad2b-527a-8a24-1d1502d543ee",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in CompVis/stable-diffusion-v1-4"
+  },
+  {
+    "id": "206f3f2b-d10d-54cb-b647-049c577eec33",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "f1b37c7a-d034-5f3f-9524-8bbb05e95a4c",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in lightx2v/Qwen-Image-Lightning"
+  },
+  {
+    "id": "8fd42509-c77a-5b8b-8a0e-94edc6758308",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "44ce1781-a2a3-58d6-8fde-e04ab69f2913",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in SG161222/Realistic_Vision_V5.1_noVAE"
+  },
+  {
+    "id": "16031a96-32ca-548e-92db-a5c8f666e194",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "836a950d-aea0-5d98-b326-bc8f3ebc4e9c",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in SG161222/RealVisXL_V5.0"
+  },
+  {
+    "id": "bc82c82b-43d2-5a91-b114-a0bbb7d0ff8d",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "6398c12e-780f-58d0-a222-88a1fa1ce107",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in playgroundai/playground-v2.5-1024px-aesthetic"
+  },
+  {
+    "id": "3453fe91-5409-5ae0-abd5-cd001e93ad41",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "3f4aafa9-0075-51ea-8b28-5264ce4c0a2d",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in cagliostrolab/animagine-xl-4.0"
+  },
+  {
+    "id": "130189a2-7d28-5dff-a19e-544110556d38",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "2f4a39c6-3b8a-5782-b44d-25bb0eb24c32",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in argmaxinc/whisperkit-coreml"
+  },
+  {
+    "id": "670f552c-cd63-54f4-9d34-5b603e3f4104",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "965e09ac-8616-539b-abd7-eb9ceb7a2cd1",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in pyannote/speaker-diarization-3.1"
+  },
+  {
+    "id": "5c9c8c6f-f6ae-50c5-bbd5-934db9f60c2b",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "886316dc-8ffc-547f-8731-1581ddd038a2",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in jonatasgrosman/wav2vec2-large-xlsr-53-japanese"
+  },
+  {
+    "id": "bf4521c1-65bd-53f6-98ff-00b3b193b953",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "7504ba94-edfa-5b22-9cec-b097306e5efb",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in openai/whisper-large-v3-turbo"
+  },
+  {
+    "id": "9e13fcbe-0ee3-5cbf-9a03-7d8cb0b715b3",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "87d9c231-6c70-51c0-b3c3-a052b28d7513",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in pyannote/speaker-diarization-community-1"
+  },
+  {
+    "id": "f0224bc5-bedd-554c-946f-10960add24e2",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "ff86fecb-d9b5-516c-b665-a9a37bf4094d",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in jonatasgrosman/wav2vec2-large-xlsr-53-portuguese"
+  },
+  {
+    "id": "25d9de45-dd54-588a-8089-dd1f9248c644",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "90b93ecc-84b3-578a-adfd-9199727a5397",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in openai/whisper-large-v3"
+  },
+  {
+    "id": "46d6e758-586a-5989-b5e9-fc1e45b57f9c",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "c2e28e49-75e6-58d0-925e-3c427b15a46f",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in Qwen/Qwen3-ASR-1.7B"
+  },
+  {
+    "id": "92ac2045-5736-5f51-9d5e-1d68cf711d42",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "cfc10ee3-41de-57ae-9d0f-8db004b11062",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in pyannote/voice-activity-detection"
+  },
+  {
+    "id": "3839c8d6-b5aa-5b79-9c54-e76accd566ee",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "d960c54b-57be-58d7-923d-e63d899c1fda",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in jonatasgrosman/wav2vec2-large-xlsr-53-russian"
+  },
+  {
+    "id": "c20f1395-37a7-5b07-af8b-dee8c629871e",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "e315cf43-6f10-5d6c-9a85-3603019805e2",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in jonatasgrosman/wav2vec2-large-xlsr-53-polish"
+  },
+  {
+    "id": "fa0567be-019f-5c14-975f-2a6497caf2a4",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "20e22954-c1f4-5fa8-b051-06721956bb54",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in Qwen/Qwen3-ASR-0.6B"
+  },
+  {
+    "id": "97e2efe3-e5f9-5366-a1b8-d79195a7d8ec",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "b73eb0f5-9660-5e10-9b5d-577c9cec2dd0",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in openai/whisper-small"
+  },
+  {
+    "id": "e5d043f5-cb96-552f-ad85-4aea3e83a423",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "c8794360-261b-5180-a81a-574afd76d6c4",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in jonatasgrosman/wav2vec2-large-xlsr-53-dutch"
+  },
+  {
+    "id": "a032ffbc-81d4-53ca-91b5-c6e4e901ab22",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "f98bcc74-b917-5ee9-a5ac-00b091df663e",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in indonesian-nlp/wav2vec2-indonesian-javanese-sundanese"
+  },
+  {
+    "id": "7ad32efc-18b1-51a8-8976-d0e90b7e8363",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "b4e811e6-6b65-54d5-8bfe-53f0e5b6fb0b",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in hexgrad/Kokoro-82M"
+  },
+  {
+    "id": "cdffb34e-960f-5c4b-966f-95d55cb8fe7c",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "0f54df87-c59b-5111-8a6a-13a48c2e532d",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in coqui/XTTS-v2"
+  },
+  {
+    "id": "75c2f82c-2e3b-5bba-8e14-861afe08b19b",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "0781055f-8b29-5926-bcef-cbd1b11a3b7e",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice"
+  },
+  {
+    "id": "bbb096b6-f77c-5d39-ac9e-35707cc161f1",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "08799432-3ffa-58bf-9a3a-769d118c13f6",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in ResembleAI/chatterbox"
+  },
+  {
+    "id": "66d8daba-39e8-51d6-bcd9-fcb0fd5f8ad3",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "e715d7f6-6f2e-5004-9733-7b7d9c6fc900",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in onnx-community/Kokoro-82M-v1.0-ONNX"
+  },
+  {
+    "id": "0ea0156f-6228-56f7-84cb-005537d05f2c",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "29840bed-18a1-57bb-bc80-450114f686da",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in audio-cpp/audio.cpp-gguf"
+  },
+  {
+    "id": "8c686be2-8f7f-503b-b5fa-e53e80b73b3f",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "9c9ae15c-6664-547a-9f38-4cfa6e19dd52",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in k2-fsa/OmniVoice"
+  },
+  {
+    "id": "5dcfc7ff-1bcb-522a-8416-dcb6957c1a65",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "9072901e-50e1-54aa-b47d-3446200428be",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in Serveurperso/Qwen3-TTS-GGUF"
+  },
+  {
+    "id": "bb44449b-5218-5fe2-9d89-c45b44f3776f",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "8cf0ec3e-4963-5a95-addd-28c32811940c",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in SWivid/F5-TTS"
+  },
+  {
+    "id": "6ef619a6-2db8-561e-b213-08eb9366bccd",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "8b734466-e436-5367-ba00-a197d8b89bfd",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in microsoft/VibeVoice-Realtime-0.5B"
+  },
+  {
+    "id": "dcb5a3d0-c110-59ab-af97-09186a429131",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "8bc3911f-d76d-58c9-8e1a-4fa697bfc64d",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in bosonai/higgs-tts-2-3b-base"
+  },
+  {
+    "id": "b11c8437-e616-5177-b240-a19e149a4b4c",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "e5f7ad74-ce94-5f12-af44-3cade75838a1",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in Qwen/Qwen3-TTS-12Hz-0.6B-Base"
+  },
+  {
+    "id": "54303787-7fad-5991-9d9a-3699e9614744",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "e47b7d50-5dd9-536a-be90-673cecfc5a4b",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in fishaudio/s2-pro"
+  },
+  {
+    "id": "ec455f7e-29b4-5653-912f-33fce39e5e06",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "8bcc34e2-2c71-5d72-8a4b-f2eabb63eccb",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in pnnbao-ump/VieNeu-TTS-v3-Turbo"
+  },
+  {
+    "id": "74959ca1-4cb1-5d25-8f42-c24997a04bbd",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "7dd4ca8e-5bee-5037-953a-c8ebe9adfbb9",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in timm/mobilenetv3_small_100.lamb_in1k"
+  },
+  {
+    "id": "2d142f20-c867-5124-b7a2-1ef05deb13b1",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "9cf488c2-a4f8-516e-a7b4-ddbc2cb8d15d",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in timm/efficientnet_b3.ra2_in1k"
+  },
+  {
+    "id": "0c957674-9458-5310-891f-b7f0fee02f87",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "13841c56-c263-5246-a7a3-ba5847484175",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in google/vit-base-patch16-224"
+  },
+  {
+    "id": "3602fbd8-69be-5f48-b2a4-14643b8daeaa",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "609b2bce-b373-58b9-a834-64a4ccaf0e30",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in Falconsai/nsfw_image_detection"
+  },
+  {
+    "id": "4ec5e2d1-0977-586c-8830-7df2c9289117",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "2392fc79-b7b2-5fa6-a7cd-457cd64bdb59",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in timm/resnet50.a1_in1k"
+  },
+  {
+    "id": "fc0e828c-8e33-5e86-9805-b05c84e83212",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "b95528f7-9ba4-5a7c-8f43-92f5aad295d4",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in timm/tf_efficientnetv2_s.in21k_ft_in1k"
+  },
+  {
+    "id": "4d05acf3-2073-5d85-8cd2-ed2100af78f9",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "508731ab-f527-54f5-9863-e7406cc8e1dc",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in microsoft/resnet-50"
+  },
+  {
+    "id": "d9549ff5-d680-57e1-b891-8305e6b33e05",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "371cc0ee-b537-5d27-ad71-6bf9aeac6dca",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in timm/resnet18.a1_in1k"
+  },
+  {
+    "id": "62d583c1-2394-5a33-a5d7-cfaeaa7dccee",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "b237ad48-cf3b-58be-b3bb-dc80692a5965",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in dima806/fairface_age_image_detection"
+  },
+  {
+    "id": "4b14f8af-6120-52b0-8354-89c7ad4aff13",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "961e0926-0350-53e6-80ae-f6debe2310f7",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in rizvandwiki/gender-classification"
+  },
+  {
+    "id": "d2a0e4cb-b356-58bb-9aa8-21c1a849a919",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "31d8b45a-6858-5fbb-9654-da6dd409c74e",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in timm/resnet50.ram_in1k"
+  },
+  {
+    "id": "9071b004-733e-530d-9025-af2c1ed0db22",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "01c6b9c1-a5aa-5351-8e01-0c3a837d9bf6",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in amunchet/rorshark-vit-base"
+  },
+  {
+    "id": "0e7053ac-23d4-5996-8a82-8c9671ff6825",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "8145132d-93cc-5895-b4d6-9a0b01c0249f",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in AdamCodd/vit-base-nsfw-detector"
+  },
+  {
+    "id": "d87059da-3c36-5849-965a-285fbb47ace4",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "7d9cdc0b-6836-50f9-9f21-63f39545c96e",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in BAAI/bge-reranker-v2-m3"
+  },
+  {
+    "id": "cd6e2651-4ab3-5560-bce1-c402a715f6e7",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "544cabba-615e-51b4-acd8-a4178b1f4f23",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in ProsusAI/finbert"
+  },
+  {
+    "id": "b430dc73-8458-51f6-9772-fc0c37816a6c",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "0a4dec03-6725-5394-8773-8d5a97598b2d",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in meta-llama/Prompt-Guard-86M"
+  },
+  {
+    "id": "1a6b6e44-da32-54ea-b483-ec78e850b638",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "3a53fe78-b375-5097-b067-962e3b423567",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in distilbert/distilbert-base-uncased-finetuned-sst-2-english"
+  },
+  {
+    "id": "97b7e619-3db4-5e91-9c5f-46a09726c40c",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "a7d53696-4666-5b6b-a043-b32ee34962f6",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in BAAI/bge-reranker-base"
+  },
+  {
+    "id": "c5c5d581-08e5-50e5-b8a6-f0651b5a2a0f",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "6110a122-6b7e-5632-9382-dd96b776ff60",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in cardiffnlp/twitter-roberta-base-sentiment-latest"
+  },
+  {
+    "id": "1b2861b1-8293-5bf7-a830-c122bcd2f7c6",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "4e1f0d6e-dbe4-5ca0-84cc-bbf7d20a8417",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in daekeun-ml/koelectra-small-v3-nsmc"
+  },
+  {
+    "id": "fd1244ec-f18f-5a77-8080-1e4921350137",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "c408f092-ded4-5b34-a449-8e1dbc0d7c6b",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in trl-internal-testing/tiny-Qwen2ForSequenceClassification-2.5"
+  },
+  {
+    "id": "209125c1-8707-51c0-8be5-4b6430cfc3d4",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "10af24ab-8228-5453-bbc5-d27070a68c94",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in finiteautomata/bertweet-base-sentiment-analysis"
+  },
+  {
+    "id": "3d174023-dc33-5b88-8c16-e55326c94488",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "b4f29ed5-d142-5f1a-91df-90e04b9aa459",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in cardiffnlp/twitter-xlm-roberta-base-sentiment"
+  },
+  {
+    "id": "7db6a55f-1a7c-579e-9910-3c50dcdf211b",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "1571d299-62ff-57f3-9385-c672a1c991ed",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in TrustSafeAI/RADAR-Vicuna-7B"
+  },
+  {
+    "id": "36878c85-cd54-5158-8137-f6671bba00a6",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "8450c80a-adc7-5af3-957f-746ebfbf41e0",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in nlptown/bert-base-multilingual-uncased-sentiment"
+  },
+  {
+    "id": "1b528769-8c30-5e1d-96db-ed8bf7c8933f",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "0422d9cf-5879-5fe9-ace4-4db476f22319",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in pysentimiento/robertuito-sentiment-analysis"
+  },
+  {
+    "id": "904aadde-9696-50c2-ba74-f079550444fa",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "6783eca1-382d-5805-88c9-8e4d37e1eb42",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in Xenova/ms-marco-MiniLM-L-6-v2"
+  },
+  {
+    "id": "628bb95e-ecb5-536b-88ec-31e15b9901b4",
+    "source_id": "ea4d0b2b-01bf-5f1c-974a-6b23af7d2d9c",
+    "target_id": "e2285629-d88b-5438-9922-3535e7bc176e",
+    "relation_type": "develops",
+    "confidence": 0.6,
+    "evidence": "'Hugging Face' mentioned in SamLowe/roberta-base-go_emotions"
+  },
+  {
     "id": "3a184d4a-4663-5d39-a43f-4febea1a4883",
     "source_id": "b57c2288-136a-5193-9072-539c5b5d92b9",
     "target_id": "469f2124-336d-5371-906c-9357140159de",
     "relation_type": "develops",
     "confidence": 0.6,
     "evidence": "'Perplexity AI' mentioned in Perplexity"
+  },
+  {
+    "id": "ec8aec98-9937-5322-a62f-f2e2140770ad",
+    "source_id": "3c223b90-3f55-59e5-aae4-5cfa0027f080",
+    "target_id": "2cb8afb5-d611-5943-aa79-6c86fc36739f",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-image' found in Midjourney"
+  },
+  {
+    "id": "0b077691-ace8-5ce0-ba6c-9c9cd97ffbfa",
+    "source_id": "ce5fca0e-28f5-561a-9cd7-ccb53ff12a65",
+    "target_id": "ce5f2e5b-1f1e-59cc-8a65-38e8f9de3ca1",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-generation' found in Qwen/Qwen3-0.6B"
+  },
+  {
+    "id": "e2f7e516-9766-5b73-968d-b3a9ed4bab58",
+    "source_id": "48897fd0-5163-59ef-9c7d-2118f292fa21",
+    "target_id": "ce5f2e5b-1f1e-59cc-8a65-38e8f9de3ca1",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-generation' found in trl-internal-testing/tiny-Qwen2ForCausalLM-2.5"
+  },
+  {
+    "id": "8a65043f-2644-5413-93d6-f98ed67fd020",
+    "source_id": "8773dcdb-4fbb-5f0c-bbe0-9161ccee6d0c",
+    "target_id": "ce5f2e5b-1f1e-59cc-8a65-38e8f9de3ca1",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-generation' found in Qwen/Qwen3-8B"
+  },
+  {
+    "id": "78b61809-b3f7-51c8-9b00-7c0943eeca53",
+    "source_id": "ecc84e26-2f20-502c-9a5e-a5bebbf7bb77",
+    "target_id": "ce5f2e5b-1f1e-59cc-8a65-38e8f9de3ca1",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-generation' found in openai-community/gpt2"
+  },
+  {
+    "id": "619b5b6f-954e-561c-aadb-7d34745f5089",
+    "source_id": "5cb1fd03-e45c-50e2-9040-c112556bc36f",
+    "target_id": "ce5f2e5b-1f1e-59cc-8a65-38e8f9de3ca1",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-generation' found in facebook/opt-125m"
+  },
+  {
+    "id": "ce408e94-0bbb-5747-8cb6-920e1697fb61",
+    "source_id": "46219b61-02c8-5657-b442-354c7e5ade9f",
+    "target_id": "ce5f2e5b-1f1e-59cc-8a65-38e8f9de3ca1",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-generation' found in unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF"
+  },
+  {
+    "id": "2d1c4ebb-ef75-536e-8e96-82461f5a1362",
+    "source_id": "69d21fd9-651a-55d4-8787-557e929b60ca",
+    "target_id": "ce5f2e5b-1f1e-59cc-8a65-38e8f9de3ca1",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-generation' found in nvidia/Qwen3.6-35B-A3B-NVFP4"
+  },
+  {
+    "id": "881fb38d-d8b3-5a41-a4df-21ca2149e52a",
+    "source_id": "4ff6ff6a-4f0a-5f62-9971-a851a45d284f",
+    "target_id": "ce5f2e5b-1f1e-59cc-8a65-38e8f9de3ca1",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-generation' found in Qwen/Qwen2.5-7B-Instruct"
+  },
+  {
+    "id": "96b0732f-9318-52ed-a0c4-d44e3983ba5c",
+    "source_id": "747a1b56-f340-5b38-9d07-0f1353dc2a5d",
+    "target_id": "ce5f2e5b-1f1e-59cc-8a65-38e8f9de3ca1",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-generation' found in meta-llama/Llama-3.2-1B-Instruct"
+  },
+  {
+    "id": "ca6eca1e-94ae-55c0-abe6-ef98102185eb",
+    "source_id": "8711ee68-683a-57d1-bb3a-843e492a7cbd",
+    "target_id": "ce5f2e5b-1f1e-59cc-8a65-38e8f9de3ca1",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-generation' found in farbodtavakkoli/OTel-2.0-LLM-31B-IT"
+  },
+  {
+    "id": "429e6835-dbc4-538e-9583-9bd36b5960dd",
+    "source_id": "784dd639-e68b-53d5-98e2-6b298ae0bb54",
+    "target_id": "ce5f2e5b-1f1e-59cc-8a65-38e8f9de3ca1",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-generation' found in openai/gpt-oss-20b"
+  },
+  {
+    "id": "524253b8-ad45-5da2-a513-c1b2897981a1",
+    "source_id": "9000a839-b15e-5ab7-95d5-9f607f940505",
+    "target_id": "2cb8afb5-d611-5943-aa79-6c86fc36739f",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-image' found in stabilityai/stable-diffusion-xl-base-1.0"
+  },
+  {
+    "id": "efbc7005-0bfb-5a28-a52a-be3ac6feffd1",
+    "source_id": "f3e969b4-461e-5e55-9aca-fa2f890b5733",
+    "target_id": "2cb8afb5-d611-5943-aa79-6c86fc36739f",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-image' found in stable-diffusion-v1-5/stable-diffusion-v1-5"
+  },
+  {
+    "id": "c016b11d-725d-559a-a463-9791ff67b9f6",
+    "source_id": "6a93e509-7088-5f74-85c8-c404a36c7cf7",
+    "target_id": "2cb8afb5-d611-5943-aa79-6c86fc36739f",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-image' found in stabilityai/sdxl-turbo"
+  },
+  {
+    "id": "2664ba2b-620d-54ed-b0e5-ac597461c434",
+    "source_id": "7fbc2e23-cd2c-556d-b51e-b9938965a4a0",
+    "target_id": "2cb8afb5-d611-5943-aa79-6c86fc36739f",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-image' found in Lykon/dreamshaper-7"
+  },
+  {
+    "id": "d8428399-bd23-54d6-b606-5ebcd7e88a37",
+    "source_id": "2bd2380c-1d8b-50b6-878b-1fbce536e9ac",
+    "target_id": "2cb8afb5-d611-5943-aa79-6c86fc36739f",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-image' found in Tongyi-MAI/Z-Image-Turbo"
+  },
+  {
+    "id": "8e129454-afae-5a8f-a74d-dcf556a9384b",
+    "source_id": "90e34f2a-9dde-5d5c-ab29-9fae93a946bc",
+    "target_id": "2cb8afb5-d611-5943-aa79-6c86fc36739f",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-image' found in black-forest-labs/FLUX.1-dev"
+  },
+  {
+    "id": "a92d7abe-e2f9-581b-b4e8-a3b0da64de7f",
+    "source_id": "e7bc434b-efea-5738-a04c-20670f5c413c",
+    "target_id": "2cb8afb5-d611-5943-aa79-6c86fc36739f",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-image' found in wikeeyang/Flux2-Klein-9B-True-V2"
+  },
+  {
+    "id": "e3f5788d-6c17-5056-a882-35951cf31602",
+    "source_id": "7cf5eb9f-2095-5a3c-8bc0-5c86bd12bf70",
+    "target_id": "2cb8afb5-d611-5943-aa79-6c86fc36739f",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-image' found in black-forest-labs/FLUX.1-schnell"
+  },
+  {
+    "id": "3ce60232-2628-5aee-9edf-4ef264cff7eb",
+    "source_id": "0527c12f-ad2b-527a-8a24-1d1502d543ee",
+    "target_id": "2cb8afb5-d611-5943-aa79-6c86fc36739f",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-image' found in CompVis/stable-diffusion-v1-4"
+  },
+  {
+    "id": "ac288c28-c28e-5b3a-86b8-e6caaae61277",
+    "source_id": "f1b37c7a-d034-5f3f-9524-8bbb05e95a4c",
+    "target_id": "2cb8afb5-d611-5943-aa79-6c86fc36739f",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-image' found in lightx2v/Qwen-Image-Lightning"
+  },
+  {
+    "id": "02ca8327-2126-571f-8a72-798772423e50",
+    "source_id": "44ce1781-a2a3-58d6-8fde-e04ab69f2913",
+    "target_id": "2cb8afb5-d611-5943-aa79-6c86fc36739f",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-image' found in SG161222/Realistic_Vision_V5.1_noVAE"
+  },
+  {
+    "id": "361567a9-072b-5379-933b-33bbd210f1af",
+    "source_id": "836a950d-aea0-5d98-b326-bc8f3ebc4e9c",
+    "target_id": "2cb8afb5-d611-5943-aa79-6c86fc36739f",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-image' found in SG161222/RealVisXL_V5.0"
+  },
+  {
+    "id": "93480847-a550-5b50-8024-bc3f86e889ca",
+    "source_id": "6398c12e-780f-58d0-a222-88a1fa1ce107",
+    "target_id": "2cb8afb5-d611-5943-aa79-6c86fc36739f",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-image' found in playgroundai/playground-v2.5-1024px-aesthetic"
+  },
+  {
+    "id": "b5791991-6b52-53b8-98be-0e92017d9567",
+    "source_id": "3f4aafa9-0075-51ea-8b28-5264ce4c0a2d",
+    "target_id": "2cb8afb5-d611-5943-aa79-6c86fc36739f",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-image' found in cagliostrolab/animagine-xl-4.0"
+  },
+  {
+    "id": "ef3e3402-04ca-502d-af89-bcd3087423dc",
+    "source_id": "2f4a39c6-3b8a-5782-b44d-25bb0eb24c32",
+    "target_id": "d9a67252-c9af-575d-8416-bfa41612198e",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'automatic-speech-recognition' found in argmaxinc/whisperkit-coreml"
+  },
+  {
+    "id": "607400a8-cb73-535b-8cb5-62e8919921de",
+    "source_id": "965e09ac-8616-539b-abd7-eb9ceb7a2cd1",
+    "target_id": "d9a67252-c9af-575d-8416-bfa41612198e",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'automatic-speech-recognition' found in pyannote/speaker-diarization-3.1"
+  },
+  {
+    "id": "52b5ca25-3256-5eaa-bab1-9b0211a4fb40",
+    "source_id": "886316dc-8ffc-547f-8731-1581ddd038a2",
+    "target_id": "d9a67252-c9af-575d-8416-bfa41612198e",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'automatic-speech-recognition' found in jonatasgrosman/wav2vec2-large-xlsr-53-japanese"
+  },
+  {
+    "id": "d72a446d-6449-5a30-92d2-549371771569",
+    "source_id": "7504ba94-edfa-5b22-9cec-b097306e5efb",
+    "target_id": "d9a67252-c9af-575d-8416-bfa41612198e",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'automatic-speech-recognition' found in openai/whisper-large-v3-turbo"
+  },
+  {
+    "id": "5f4f98a8-3dbe-547a-9f49-c3dd03abb6ee",
+    "source_id": "87d9c231-6c70-51c0-b3c3-a052b28d7513",
+    "target_id": "d9a67252-c9af-575d-8416-bfa41612198e",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'automatic-speech-recognition' found in pyannote/speaker-diarization-community-1"
+  },
+  {
+    "id": "78a644a6-350d-5d51-8290-2aca2b682e71",
+    "source_id": "ff86fecb-d9b5-516c-b665-a9a37bf4094d",
+    "target_id": "d9a67252-c9af-575d-8416-bfa41612198e",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'automatic-speech-recognition' found in jonatasgrosman/wav2vec2-large-xlsr-53-portuguese"
+  },
+  {
+    "id": "7c0895df-2f24-5c01-8ae9-b3347ff6eb87",
+    "source_id": "90b93ecc-84b3-578a-adfd-9199727a5397",
+    "target_id": "d9a67252-c9af-575d-8416-bfa41612198e",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'automatic-speech-recognition' found in openai/whisper-large-v3"
+  },
+  {
+    "id": "850648aa-9ccf-515e-8a30-b921e774fefb",
+    "source_id": "c2e28e49-75e6-58d0-925e-3c427b15a46f",
+    "target_id": "d9a67252-c9af-575d-8416-bfa41612198e",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'automatic-speech-recognition' found in Qwen/Qwen3-ASR-1.7B"
+  },
+  {
+    "id": "1f2ff7c3-0df7-51ef-9411-35a90cfb7587",
+    "source_id": "cfc10ee3-41de-57ae-9d0f-8db004b11062",
+    "target_id": "d9a67252-c9af-575d-8416-bfa41612198e",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'automatic-speech-recognition' found in pyannote/voice-activity-detection"
+  },
+  {
+    "id": "4d93626b-31c6-5621-8a1f-ebb01fd56e5e",
+    "source_id": "d960c54b-57be-58d7-923d-e63d899c1fda",
+    "target_id": "d9a67252-c9af-575d-8416-bfa41612198e",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'automatic-speech-recognition' found in jonatasgrosman/wav2vec2-large-xlsr-53-russian"
+  },
+  {
+    "id": "d3ac9f7d-7e59-559b-b848-abf6efbb36cc",
+    "source_id": "e315cf43-6f10-5d6c-9a85-3603019805e2",
+    "target_id": "d9a67252-c9af-575d-8416-bfa41612198e",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'automatic-speech-recognition' found in jonatasgrosman/wav2vec2-large-xlsr-53-polish"
+  },
+  {
+    "id": "4a2e5d31-1fc5-58e9-807b-0254afc3b32a",
+    "source_id": "20e22954-c1f4-5fa8-b051-06721956bb54",
+    "target_id": "d9a67252-c9af-575d-8416-bfa41612198e",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'automatic-speech-recognition' found in Qwen/Qwen3-ASR-0.6B"
+  },
+  {
+    "id": "bde384cb-25ec-5b63-8092-8098ff380505",
+    "source_id": "b73eb0f5-9660-5e10-9b5d-577c9cec2dd0",
+    "target_id": "d9a67252-c9af-575d-8416-bfa41612198e",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'automatic-speech-recognition' found in openai/whisper-small"
+  },
+  {
+    "id": "65747fb6-4a37-5246-b544-888d2eb61272",
+    "source_id": "c8794360-261b-5180-a81a-574afd76d6c4",
+    "target_id": "d9a67252-c9af-575d-8416-bfa41612198e",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'automatic-speech-recognition' found in jonatasgrosman/wav2vec2-large-xlsr-53-dutch"
+  },
+  {
+    "id": "449f954f-2195-54e1-83c1-9451445ae8dd",
+    "source_id": "f98bcc74-b917-5ee9-a5ac-00b091df663e",
+    "target_id": "d9a67252-c9af-575d-8416-bfa41612198e",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'automatic-speech-recognition' found in indonesian-nlp/wav2vec2-indonesian-javanese-sundanese"
+  },
+  {
+    "id": "732ede67-2684-5623-9ab3-07bebfffe8f8",
+    "source_id": "b4e811e6-6b65-54d5-8bfe-53f0e5b6fb0b",
+    "target_id": "c2502602-6be5-5de7-bfd1-275373122bb0",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-speech' found in hexgrad/Kokoro-82M"
+  },
+  {
+    "id": "674d92c2-32f7-5baf-b577-b2fbb54580b5",
+    "source_id": "0f54df87-c59b-5111-8a6a-13a48c2e532d",
+    "target_id": "c2502602-6be5-5de7-bfd1-275373122bb0",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-speech' found in coqui/XTTS-v2"
+  },
+  {
+    "id": "e3222d6d-cf5b-5985-a5a5-b862a2544cb4",
+    "source_id": "0781055f-8b29-5926-bcef-cbd1b11a3b7e",
+    "target_id": "c2502602-6be5-5de7-bfd1-275373122bb0",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-speech' found in Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice"
+  },
+  {
+    "id": "3c99e209-8be5-5f34-b33a-c3b13beaad12",
+    "source_id": "08799432-3ffa-58bf-9a3a-769d118c13f6",
+    "target_id": "c2502602-6be5-5de7-bfd1-275373122bb0",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-speech' found in ResembleAI/chatterbox"
+  },
+  {
+    "id": "f34c5baa-b0ec-5618-bea9-46376316317d",
+    "source_id": "e715d7f6-6f2e-5004-9733-7b7d9c6fc900",
+    "target_id": "c2502602-6be5-5de7-bfd1-275373122bb0",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-speech' found in onnx-community/Kokoro-82M-v1.0-ONNX"
+  },
+  {
+    "id": "6a7b0c30-96df-536e-9723-7030dd871d9e",
+    "source_id": "29840bed-18a1-57bb-bc80-450114f686da",
+    "target_id": "c2502602-6be5-5de7-bfd1-275373122bb0",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-speech' found in audio-cpp/audio.cpp-gguf"
+  },
+  {
+    "id": "0689e47b-98bb-5992-9def-511021d595db",
+    "source_id": "9c9ae15c-6664-547a-9f38-4cfa6e19dd52",
+    "target_id": "c2502602-6be5-5de7-bfd1-275373122bb0",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-speech' found in k2-fsa/OmniVoice"
+  },
+  {
+    "id": "76a5aa14-dabf-5883-8625-25944f2066f9",
+    "source_id": "9072901e-50e1-54aa-b47d-3446200428be",
+    "target_id": "c2502602-6be5-5de7-bfd1-275373122bb0",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-speech' found in Serveurperso/Qwen3-TTS-GGUF"
+  },
+  {
+    "id": "6385afd1-9c4b-5290-95a1-1f66293ead72",
+    "source_id": "8cf0ec3e-4963-5a95-addd-28c32811940c",
+    "target_id": "c2502602-6be5-5de7-bfd1-275373122bb0",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-speech' found in SWivid/F5-TTS"
+  },
+  {
+    "id": "e37c3cb2-ff5d-52c7-92f2-b9bf29bb5945",
+    "source_id": "8b734466-e436-5367-ba00-a197d8b89bfd",
+    "target_id": "c2502602-6be5-5de7-bfd1-275373122bb0",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-speech' found in microsoft/VibeVoice-Realtime-0.5B"
+  },
+  {
+    "id": "f44bf01f-a947-53e0-a283-65be3c45cc3a",
+    "source_id": "8bc3911f-d76d-58c9-8e1a-4fa697bfc64d",
+    "target_id": "c2502602-6be5-5de7-bfd1-275373122bb0",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-speech' found in bosonai/higgs-tts-2-3b-base"
+  },
+  {
+    "id": "3ce1e8e9-9008-5614-bf3c-89e66202020b",
+    "source_id": "e5f7ad74-ce94-5f12-af44-3cade75838a1",
+    "target_id": "c2502602-6be5-5de7-bfd1-275373122bb0",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-speech' found in Qwen/Qwen3-TTS-12Hz-0.6B-Base"
+  },
+  {
+    "id": "36c2083f-5f3c-5ad6-9998-f0b181063bbd",
+    "source_id": "e47b7d50-5dd9-536a-be90-673cecfc5a4b",
+    "target_id": "c2502602-6be5-5de7-bfd1-275373122bb0",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-speech' found in fishaudio/s2-pro"
+  },
+  {
+    "id": "ccb503ce-42e8-5f44-a736-2bf6913a0610",
+    "source_id": "8bcc34e2-2c71-5d72-8a4b-f2eabb63eccb",
+    "target_id": "c2502602-6be5-5de7-bfd1-275373122bb0",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-to-speech' found in pnnbao-ump/VieNeu-TTS-v3-Turbo"
+  },
+  {
+    "id": "9aa57ef7-35d9-59f4-976d-aee00a021d6c",
+    "source_id": "7dd4ca8e-5bee-5037-953a-c8ebe9adfbb9",
+    "target_id": "ad31cede-c56a-5c5f-ac98-17eff7eeea36",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'image-classification' found in timm/mobilenetv3_small_100.lamb_in1k"
+  },
+  {
+    "id": "7110289f-a9f0-5a88-8c9c-5a2895cdefe5",
+    "source_id": "9cf488c2-a4f8-516e-a7b4-ddbc2cb8d15d",
+    "target_id": "ad31cede-c56a-5c5f-ac98-17eff7eeea36",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'image-classification' found in timm/efficientnet_b3.ra2_in1k"
+  },
+  {
+    "id": "c8173d4e-8e3b-5f5c-b456-74d8cb8b27f1",
+    "source_id": "13841c56-c263-5246-a7a3-ba5847484175",
+    "target_id": "ad31cede-c56a-5c5f-ac98-17eff7eeea36",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'image-classification' found in google/vit-base-patch16-224"
+  },
+  {
+    "id": "225edeae-2fb9-5f50-832c-d7dcc80c6d57",
+    "source_id": "609b2bce-b373-58b9-a834-64a4ccaf0e30",
+    "target_id": "ad31cede-c56a-5c5f-ac98-17eff7eeea36",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'image-classification' found in Falconsai/nsfw_image_detection"
+  },
+  {
+    "id": "446395af-9c07-5d90-b57e-3e947a7f680f",
+    "source_id": "2392fc79-b7b2-5fa6-a7cd-457cd64bdb59",
+    "target_id": "ad31cede-c56a-5c5f-ac98-17eff7eeea36",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'image-classification' found in timm/resnet50.a1_in1k"
+  },
+  {
+    "id": "69dbb8be-58c1-508e-87eb-016f64b650f4",
+    "source_id": "b95528f7-9ba4-5a7c-8f43-92f5aad295d4",
+    "target_id": "ad31cede-c56a-5c5f-ac98-17eff7eeea36",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'image-classification' found in timm/tf_efficientnetv2_s.in21k_ft_in1k"
+  },
+  {
+    "id": "e1eba71c-84ac-535b-9a28-66e9dbc2e2b0",
+    "source_id": "508731ab-f527-54f5-9863-e7406cc8e1dc",
+    "target_id": "ad31cede-c56a-5c5f-ac98-17eff7eeea36",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'image-classification' found in microsoft/resnet-50"
+  },
+  {
+    "id": "251f91cc-3f03-5ecd-ad1d-814e784636e1",
+    "source_id": "371cc0ee-b537-5d27-ad71-6bf9aeac6dca",
+    "target_id": "ad31cede-c56a-5c5f-ac98-17eff7eeea36",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'image-classification' found in timm/resnet18.a1_in1k"
+  },
+  {
+    "id": "1d58f35b-f7b1-5318-9b2f-ba4eb3911e84",
+    "source_id": "b237ad48-cf3b-58be-b3bb-dc80692a5965",
+    "target_id": "ad31cede-c56a-5c5f-ac98-17eff7eeea36",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'image-classification' found in dima806/fairface_age_image_detection"
+  },
+  {
+    "id": "5c9db220-810f-5ae7-930e-8c779c1c0bb0",
+    "source_id": "961e0926-0350-53e6-80ae-f6debe2310f7",
+    "target_id": "ad31cede-c56a-5c5f-ac98-17eff7eeea36",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'image-classification' found in rizvandwiki/gender-classification"
+  },
+  {
+    "id": "08a69135-96c1-5621-9e70-4a6f52979aec",
+    "source_id": "31d8b45a-6858-5fbb-9654-da6dd409c74e",
+    "target_id": "ad31cede-c56a-5c5f-ac98-17eff7eeea36",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'image-classification' found in timm/resnet50.ram_in1k"
+  },
+  {
+    "id": "4e986cdf-4f57-51d7-823c-3035c8f33053",
+    "source_id": "01c6b9c1-a5aa-5351-8e01-0c3a837d9bf6",
+    "target_id": "ad31cede-c56a-5c5f-ac98-17eff7eeea36",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'image-classification' found in amunchet/rorshark-vit-base"
+  },
+  {
+    "id": "c5333f57-caae-59c0-a74d-b5669e909d5b",
+    "source_id": "8145132d-93cc-5895-b4d6-9a0b01c0249f",
+    "target_id": "ad31cede-c56a-5c5f-ac98-17eff7eeea36",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'image-classification' found in AdamCodd/vit-base-nsfw-detector"
+  },
+  {
+    "id": "dd1c34a4-5cdc-5e06-a35e-819f4343ae11",
+    "source_id": "7d9cdc0b-6836-50f9-9f21-63f39545c96e",
+    "target_id": "5f058b7b-d608-50ad-9757-91011b6d0af4",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-classification' found in BAAI/bge-reranker-v2-m3"
+  },
+  {
+    "id": "ab2ecdaf-7cf6-5f8e-bd66-b4636d792d07",
+    "source_id": "544cabba-615e-51b4-acd8-a4178b1f4f23",
+    "target_id": "5f058b7b-d608-50ad-9757-91011b6d0af4",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-classification' found in ProsusAI/finbert"
+  },
+  {
+    "id": "3a290dd6-4c58-5ac2-9276-5a7fe498324c",
+    "source_id": "0a4dec03-6725-5394-8773-8d5a97598b2d",
+    "target_id": "5f058b7b-d608-50ad-9757-91011b6d0af4",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-classification' found in meta-llama/Prompt-Guard-86M"
+  },
+  {
+    "id": "5bd920a8-0119-5885-bd92-58b378f3ea2c",
+    "source_id": "3a53fe78-b375-5097-b067-962e3b423567",
+    "target_id": "5f058b7b-d608-50ad-9757-91011b6d0af4",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-classification' found in distilbert/distilbert-base-uncased-finetuned-sst-2-english"
+  },
+  {
+    "id": "ba41c168-34b3-5932-a500-812ea4fa0486",
+    "source_id": "a7d53696-4666-5b6b-a043-b32ee34962f6",
+    "target_id": "5f058b7b-d608-50ad-9757-91011b6d0af4",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-classification' found in BAAI/bge-reranker-base"
+  },
+  {
+    "id": "892e19ce-63ab-5213-ac6c-721f77e5c985",
+    "source_id": "6110a122-6b7e-5632-9382-dd96b776ff60",
+    "target_id": "5f058b7b-d608-50ad-9757-91011b6d0af4",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-classification' found in cardiffnlp/twitter-roberta-base-sentiment-latest"
+  },
+  {
+    "id": "8b1cd0b7-665b-5fef-bbbe-15a6f1f3393c",
+    "source_id": "4e1f0d6e-dbe4-5ca0-84cc-bbf7d20a8417",
+    "target_id": "5f058b7b-d608-50ad-9757-91011b6d0af4",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-classification' found in daekeun-ml/koelectra-small-v3-nsmc"
+  },
+  {
+    "id": "81570c08-1ecd-5064-acb4-b810a396da5e",
+    "source_id": "c408f092-ded4-5b34-a449-8e1dbc0d7c6b",
+    "target_id": "5f058b7b-d608-50ad-9757-91011b6d0af4",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-classification' found in trl-internal-testing/tiny-Qwen2ForSequenceClassification-2.5"
+  },
+  {
+    "id": "e4f3cbb8-596c-5bb4-b4db-d71a39225535",
+    "source_id": "10af24ab-8228-5453-bbc5-d27070a68c94",
+    "target_id": "5f058b7b-d608-50ad-9757-91011b6d0af4",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-classification' found in finiteautomata/bertweet-base-sentiment-analysis"
+  },
+  {
+    "id": "26dbade9-4b62-5715-b524-ed493b13a871",
+    "source_id": "b4f29ed5-d142-5f1a-91df-90e04b9aa459",
+    "target_id": "5f058b7b-d608-50ad-9757-91011b6d0af4",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-classification' found in cardiffnlp/twitter-xlm-roberta-base-sentiment"
+  },
+  {
+    "id": "d13ce9e7-d168-5229-af0d-b12faa0b3c16",
+    "source_id": "1571d299-62ff-57f3-9385-c672a1c991ed",
+    "target_id": "5f058b7b-d608-50ad-9757-91011b6d0af4",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-classification' found in TrustSafeAI/RADAR-Vicuna-7B"
+  },
+  {
+    "id": "321b9549-bb4b-5c2f-a831-fad33ccfb7c4",
+    "source_id": "8450c80a-adc7-5af3-957f-746ebfbf41e0",
+    "target_id": "5f058b7b-d608-50ad-9757-91011b6d0af4",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-classification' found in nlptown/bert-base-multilingual-uncased-sentiment"
+  },
+  {
+    "id": "52a2ce12-c2a4-58a3-91f6-a6623e7f4c48",
+    "source_id": "0422d9cf-5879-5fe9-ace4-4db476f22319",
+    "target_id": "5f058b7b-d608-50ad-9757-91011b6d0af4",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-classification' found in pysentimiento/robertuito-sentiment-analysis"
+  },
+  {
+    "id": "1ad78707-1b7d-5220-a135-9843de46529a",
+    "source_id": "6783eca1-382d-5805-88c9-8e4d37e1eb42",
+    "target_id": "5f058b7b-d608-50ad-9757-91011b6d0af4",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-classification' found in Xenova/ms-marco-MiniLM-L-6-v2"
+  },
+  {
+    "id": "333b1e9e-8942-59e1-b6be-ecd11e3490ec",
+    "source_id": "e2285629-d88b-5438-9922-3535e7bc176e",
+    "target_id": "5f058b7b-d608-50ad-9757-91011b6d0af4",
+    "relation_type": "solves",
+    "confidence": 0.7,
+    "evidence": "task keyword 'text-classification' found in SamLowe/roberta-base-go_emotions"
   },
   {
     "id": "af87335f-3bf7-5906-ac2b-1ecde9ba6ea6",
@@ -46,5 +1406,13 @@
     "relation_type": "integrates_with",
     "confidence": 0.65,
     "evidence": "'Cursor' mentioned in MCP server magic-mcp"
+  },
+  {
+    "id": "6fc6a7e5-cd9e-51aa-be37-ec1c96bd25a5",
+    "source_id": "6bee5435-19fd-52b9-926f-aab49f9e1fcc",
+    "target_id": "5cbb89e4-388c-5f42-a943-cbc80eaec9e9",
+    "relation_type": "integrates_with",
+    "confidence": 0.65,
+    "evidence": "'Cursor' mentioned in MCP server mcp-playwright"
   }
 ]
